@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Braunschweig Events//Kultur
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Braunschweig Kultur
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Kommende Kultur Events
+BEGIN:VEVENT
+UID:90996747-d687-5ba3-b3d9-92aee1a23930@bs-events.de
+DTSTAMP:20260304T224348Z
+DTSTART;TZID=Europe/Berlin:20260305T200000
+SUMMARY:Joab Nist – Notes of Berlin
+DESCRIPTION:A musical event featuring Joab Nist.
+LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
+END:VEVENT
+END:VCALENDAR

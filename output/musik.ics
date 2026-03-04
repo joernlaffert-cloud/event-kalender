@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Braunschweig Events//Musik
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Braunschweig Musik
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Kommende Musik Events
+BEGIN:VEVENT
+UID:3c6ac76c-f31a-5f28-92c8-5bee4649f380@bs-events.de
+DTSTAMP:20260304T224348Z
+DTSTART;TZID=Europe/Berlin:20260306T200000
+SUMMARY:Comedyflash – Die Stand Up Comedy Show
+DESCRIPTION:A comedy event with stand-up performances.
+LOCATION:BRAUNSCHWEIG\, 381 Event Space
+END:VEVENT
+BEGIN:VEVENT
+UID:b29a25f6-38d6-5b74-a4b3-edea23fbf0ff@bs-events.de
+DTSTAMP:20260304T224348Z
+DTSTART;TZID=Europe/Berlin:20260306T210000
+SUMMARY:Just Harry & One Direction Night
+DESCRIPTION:A night dedicated to Just Harry and One Direction music.
+LOCATION:BRAUNSCHWEIG\, westand
+END:VEVENT
+END:VCALENDAR

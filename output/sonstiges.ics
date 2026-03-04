@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Braunschweig Events//Sonstiges
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Braunschweig Sonstiges
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Kommende Sonstiges Events
+BEGIN:VEVENT
+UID:99f00e05-610c-5948-8344-2470d018ce80@bs-events.de
+DTSTAMP:20260304T224348Z
+DTSTART;TZID=Europe/Berlin:20260306T190000
+SUMMARY:Einsteiger Rum Tasting
+DESCRIPTION:A rum tasting event for beginners.
+LOCATION:BRAUNSCHWEIG\, Restaurant Nah am Wasser
+END:VEVENT
+END:VCALENDAR
