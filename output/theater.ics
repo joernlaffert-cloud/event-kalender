@@ -7,11 +7,11 @@ X-WR-CALNAME:Braunschweig Theater
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Theater Events
 BEGIN:VEVENT
-UID:c0a547cd-64f2-5471-934f-df6072a35bb1@bs-events.de
-DTSTAMP:20260304T102944Z
-DTSTART;TZID=Europe/Berlin:20260820T193000
-SUMMARY:Theateraufführung "Hamlet"
-DESCRIPTION:
-LOCATION:Staatstheater Dummy
+UID:22db689b-4c26-5315-8682-a6354e83ac8c@bs-events.de
+DTSTAMP:20260305T213623Z
+DTSTART;TZID=Europe/Berlin:20230305T193000
+SUMMARY:DER RAUB DER SABINERINNEN GEHT SCHIEF!
+DESCRIPTION:A comedy performance with the title 'The Sabine Women Go Wrong!'.
+LOCATION:Komödie am Altstadtmarkt\, Gördelingerstraße 7\, 38100 Braunschweig
 END:VEVENT
 END:VCALENDAR

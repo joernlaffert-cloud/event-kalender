@@ -7,11 +7,51 @@ X-WR-CALNAME:Braunschweig Kultur
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Kultur Events
 BEGIN:VEVENT
-UID:90996747-d687-5ba3-b3d9-92aee1a23930@bs-events.de
-DTSTAMP:20260304T224348Z
-DTSTART;TZID=Europe/Berlin:20260305T200000
-SUMMARY:Joab Nist – Notes of Berlin
-DESCRIPTION:A musical event featuring Joab Nist.
-LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
+UID:5ce34e9d-a9b7-51c8-a0f2-604e315a3b3f@bs-events.de
+DTSTAMP:20260305T213623Z
+DTSTART;TZID=Europe/Berlin:20230305T193000
+SUMMARY:ALIDA BOHNEN „Reiches Leben\, halt mich fest in linden Armen“\, ein Abend der Romantik
+DESCRIPTION:An evening of romantic art with ALIDA BOHNEN.
+LOCATION:Roter Saal im Schloss\, Schlossplatz 1\, 38100 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:25ba72b6-79b7-5cc5-aa82-55b23017f5ff@bs-events.de
+DTSTAMP:20260305T213623Z
+DTSTART;TZID=Europe/Berlin:20230305T180000
+SUMMARY:Ausstellung Horst-Dieter Wiesenthal "Digital - real"
+DESCRIPTION:An exhibition by Horst-Dieter Wiesenthal on the theme of digital and real.
+LOCATION:Kunstsalon bskunst.de\, Jahnstraße 8a\, 38118 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:ef947718-1c8d-5137-b137-a762bd314388@bs-events.de
+DTSTAMP:20260305T213623Z
+DTSTART;TZID=Europe/Berlin:20230305T200000
+SUMMARY:Kunst gegen Bares: Ein Abend voller Überraschungen!
+DESCRIPTION:An evening of unexpected art.
+LOCATION:das KULT\, Hamburger Straße 273\, C2\, 38114 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:26d2acc1-863d-50ad-8877-e0d0ede1b220@bs-events.de
+DTSTAMP:20260305T213623Z
+DTSTART;TZID=Europe/Berlin:20230305T193000
+SUMMARY:BIFF SPECIAL: NAWI - DEAR FUTURE ME (Mit Moderation in Anwesenheit der Filmemacher)
+DESCRIPTION:A special BIFF screening with NAWI and moderated by film makers.
+LOCATION:Astor Filmtheater\, Lange Str. 60\, 38100 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:53af41da-8977-521d-8202-02b0b17c583c@bs-events.de
+DTSTAMP:20260305T213623Z
+DTSTART;TZID=Europe/Berlin:20230305T140000
+SUMMARY:HANS ALVESEN – Ausstellung in der Torhausgalerie des Botanischen Gartens
+DESCRIPTION:An art exhibition by HANS ALVESEN in the Torhausgalerie of the Botanical Garden.
+LOCATION:Torhaus des Botanischen Gartens\, Humboldtstr. 1\, 38106 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:528633fe-2ff8-5676-a5e4-b2af05349be6@bs-events.de
+DTSTAMP:20260305T213623Z
+DTSTART;TZID=Europe/Berlin:20230305T150000
+SUMMARY:Materialschnitte
+DESCRIPTION:An exhibition or event about materials.
+LOCATION:Gemeindehaus der ev-luth. Kirchengemeinde Braunschweig-Stöckheim\, Kirchenbrink 3C\, 38124 Braunschweig
 END:VEVENT
 END:VCALENDAR
