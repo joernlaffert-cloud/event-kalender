@@ -1,0 +1,59 @@
+{
+  "sources": [
+    {
+      "name": "BS-Live Events",
+      "url": "https://www.bs-live.de/events.html",
+      "enabled": false
+    },
+    {
+      "name": "Stadt Braunschweig Kultur",
+      "url": "https://www.braunschweig.de/kultur/veranstaltungen/index.php",
+      "enabled": false
+    },
+    {
+      "name": "Stereowerk",
+      "url": "https://www.stereowerk.de/events",
+      "enabled": false
+    },
+    {
+      "name": "Jolly Time Events",
+      "url": "https://jollytime.de/events/",
+      "enabled": false
+    },
+    {
+      "name": "Brain Klub",
+      "url": "https://www.brainklub.de/",
+      "enabled": false
+    },
+    {
+      "name": "Staatstheater Braunschweig",
+      "url": "https://staatstheater-braunschweig.de/spielplan/kalender/",
+      "enabled": false
+    },
+    {
+      "name": "Lokpark Braunschweig",
+      "url": "https://www.lokpark.de/veranstaltungen/",
+      "enabled": false
+    },
+    {
+      "name": "Konzertkasse",
+      "url": "https://www.konzertkasse.de/",
+      "enabled": false
+    },
+    {
+      "name": "Brunsviga",
+      "url": "https://www.brunsviga-kulturzentrum.de/programm/",
+      "enabled": false
+    },
+    {
+      "name": "DieRegion",
+      "url": "https://braunschweig.die-region.de/",
+      "enabled": false
+    },
+    {
+      "name": "Blau-Wal Kultur",
+      "url": "https://blau-wal-kultur.de/",
+      "enabled": true
+    }
+  ]
+}
