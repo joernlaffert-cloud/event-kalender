@@ -7,11 +7,19 @@ X-WR-CALNAME:Braunschweig Sonstiges
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Sonstiges Events
 BEGIN:VEVENT
-UID:222e64ab-0357-5892-a8c2-a97c831c216a@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T163000
-SUMMARY:Einladung nach Elbflorenz
-DESCRIPTION:An invitation to Elbflorenz.
-LOCATION:Augustinum Braunschweig\, Am Hohen Tore 4A\, 38118 Braunschweig
+UID:83fc85db-c69c-5560-b976-a3446f34fd04@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260402T110000
+SUMMARY:YOGA
+DESCRIPTION:Weekly Yoga session from 11:00 to 12:00 with Denise Beerbohm. Admission fee is 15 € per session.
+LOCATION:BLAU-WAL
+END:VEVENT
+BEGIN:VEVENT
+UID:5e887b19-02e7-59fd-88db-de1f4d1da23f@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260425T190000
+SUMMARY:Meditation
+DESCRIPTION:Weekly Meditation session from 19:00 to 20:00 with Dr. Thomas Piko.
+LOCATION:BLAU-WAL
 END:VEVENT
 END:VCALENDAR

@@ -7,19 +7,43 @@ X-WR-CALNAME:Braunschweig Musik
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Musik Events
 BEGIN:VEVENT
-UID:5be04c18-698e-5968-8826-02281e43813f@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T200000
-SUMMARY:Joab Nist | Notes of Berlin
-DESCRIPTION:A musical performance by Joab Nist.
-LOCATION:Brunsviga\, Karlstraße 35\, 38106 Braunschweig
+UID:f5d84f70-408f-5bef-a3b5-ceccbd689612@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260428T193000
+SUMMARY:Gesangsunterricht
+DESCRIPTION:Classical Singing lessons with Antje Siefert and Dorothee Bärmann from 19:30.
+LOCATION:BLAU-WAL
 END:VEVENT
 BEGIN:VEVENT
-UID:a1187c2a-b4d2-5bdc-83ff-c7474513ff75@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T100000
-SUMMARY:HYPER
-DESCRIPTION:A theater performance titled HYPER.
-LOCATION:Theater Fadenschein\, Bültenweg 95\, 38106 Braunschweig
+UID:7fdcad64-94ad-5bb3-9294-8863c47d39d9@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260508T194500
+SUMMARY:Klassikkonzert
+DESCRIPTION:Brahms 'Die schöne Magelone' concert by Corinna Tjiang\, Marco Vassalli\, and Matthias Wengler from 17:45 to 20:45.
+LOCATION:BLAU-WAL
+END:VEVENT
+BEGIN:VEVENT
+UID:3179d6b8-d916-5f51-942f-b82e4c541485@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260527T190000
+SUMMARY:Klavierkonzert
+DESCRIPTION:Tatsushi Yamakawa concert on Saturday\, May 28\, 2026 from 17:30 to 20:00.
+LOCATION:BLAU-WAL
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4ba7e9-8952-5795-b756-3b243e4259d9@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260624T203000
+SUMMARY:Musik mit *TrioMelodic* – freudig\, besinnlich\, bunt
+DESCRIPTION:Concert by TrioMelodic on Saturday\, June 25\, 2026 from 18:30 to 20:30.
+LOCATION:BLAU-WAL
+END:VEVENT
+BEGIN:VEVENT
+UID:789cf8e5-383b-55db-b560-94ca21e39f49@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20261009T180000
+SUMMARY:Vladimir Valdivia: Feuertänze
+DESCRIPTION:Concert by Vladimir Valdivia on Friday\, October 7\, 2026 from 17:45 to 20:45.
+LOCATION:BLAU-WAL
 END:VEVENT
 END:VCALENDAR

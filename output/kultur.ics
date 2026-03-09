@@ -7,51 +7,59 @@ X-WR-CALNAME:Braunschweig Kultur
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Kultur Events
 BEGIN:VEVENT
-UID:5ce34e9d-a9b7-51c8-a0f2-604e315a3b3f@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T193000
-SUMMARY:ALIDA BOHNEN „Reiches Leben\, halt mich fest in linden Armen“\, ein Abend der Romantik
-DESCRIPTION:An evening of romantic art with ALIDA BOHNEN.
-LOCATION:Roter Saal im Schloss\, Schlossplatz 1\, 38100 Braunschweig
+UID:022f162d-431c-5a75-a453-a8e04084da4f@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260313T140000
+SUMMARY:Silent Reading Party
+DESCRIPTION:Monthly Silent Reading event from 14:00 to 16:00 with an entrance at 13:45.
+LOCATION:BLAU-WAL
 END:VEVENT
 BEGIN:VEVENT
-UID:25ba72b6-79b7-5cc5-aa82-55b23017f5ff@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T180000
-SUMMARY:Ausstellung Horst-Dieter Wiesenthal "Digital - real"
-DESCRIPTION:An exhibition by Horst-Dieter Wiesenthal on the theme of digital and real.
-LOCATION:Kunstsalon bskunst.de\, Jahnstraße 8a\, 38118 Braunschweig
+UID:fac0bbbd-3990-501f-8df3-725ccae0739a@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260401T183000
+SUMMARY:Kreativ-Workshop
+DESCRIPTION:Monthly Open Workshop led by Mahtab Razaghi from 18:30. Admission fee is 25 € including materials.
+LOCATION:BLAU-WAL
 END:VEVENT
 BEGIN:VEVENT
-UID:ef947718-1c8d-5137-b137-a762bd314388@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T200000
-SUMMARY:Kunst gegen Bares: Ein Abend voller Überraschungen!
-DESCRIPTION:An evening of unexpected art.
-LOCATION:das KULT\, Hamburger Straße 273\, C2\, 38114 Braunschweig
+UID:c4be34cb-1ae6-55b9-89df-ff80e8d641cc@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260405T190000
+SUMMARY:Emma liest: Literatischer Salon
+DESCRIPTION:Monthly Book Club led by Kirsten Harder from 19:00.
+LOCATION:BLAU-WAL
 END:VEVENT
 BEGIN:VEVENT
-UID:26d2acc1-863d-50ad-8877-e0d0ede1b220@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T193000
-SUMMARY:BIFF SPECIAL: NAWI - DEAR FUTURE ME (Mit Moderation in Anwesenheit der Filmemacher)
-DESCRIPTION:A special BIFF screening with NAWI and moderated by film makers.
-LOCATION:Astor Filmtheater\, Lange Str. 60\, 38100 Braunschweig
+UID:b0b427a3-9262-54b0-be8a-c4bcc5eece67@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260318T180000
+SUMMARY:Lesung
+DESCRIPTION:Lesung by Gilda Sahebi 'Verbinden statt spalten' on Friday\, March 17\, 2026 from 17:30 to 20:00 with an entrance fee of 20 €.
+LOCATION:BLAU-WAL
 END:VEVENT
 BEGIN:VEVENT
-UID:53af41da-8977-521d-8202-02b0b17c583c@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T140000
-SUMMARY:HANS ALVESEN – Ausstellung in der Torhausgalerie des Botanischen Gartens
-DESCRIPTION:An art exhibition by HANS ALVESEN in the Torhausgalerie of the Botanical Garden.
-LOCATION:Torhaus des Botanischen Gartens\, Humboldtstr. 1\, 38106 Braunschweig
+UID:5128aec7-81b7-5f9b-98c1-eef9935384ad@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260516T183000
+SUMMARY:Kreativ-Workshop
+DESCRIPTION:Monthly Creative Workshop on 'Zeichenkurs' led by Frank Hermes and Mahtab Razaghi from 18:30 to 20:00.
+LOCATION:BLAU-WAL
 END:VEVENT
 BEGIN:VEVENT
-UID:528633fe-2ff8-5676-a5e4-b2af05349be6@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T150000
-SUMMARY:Materialschnitte
-DESCRIPTION:An exhibition or event about materials.
-LOCATION:Gemeindehaus der ev-luth. Kirchengemeinde Braunschweig-Stöckheim\, Kirchenbrink 3C\, 38124 Braunschweig
+UID:b99ff199-5632-57ad-a5fc-274d97fae2a7@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260611T190000
+SUMMARY:Lebenswelten
+DESCRIPTION:Photography exhibition on 'Lebenswelten' opening on Saturday\, June 11\, 2026 from 19:00.
+LOCATION:BLAU-WAL
+END:VEVENT
+BEGIN:VEVENT
+UID:87ca3f6e-59e4-5394-88b0-6a9301e7519c@bs-events.de
+DTSTAMP:20260309T191043Z
+DTSTART;TZID=Europe/Berlin:20260618T110000
+SUMMARY:Kreativ-Workshop
+DESCRIPTION:Monthly Collagen Workshop on 'Cut & Create' led by Eva-Maria Tornette and Mahtab Razaghi from 11:00 to 15:00.
+LOCATION:BLAU-WAL
 END:VEVENT
 END:VCALENDAR
