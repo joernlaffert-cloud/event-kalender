@@ -73,21 +73,26 @@ def main():
         except Exception as e:
             print(f"Error gathering text from {source.name}: {e}")
             
-    combined_text = "\n\n".join(all_raw_text)
+    # 2. Extract Event JSON via Local LLM
+    print("\nStarting LLM Extraction...")
+    parser = LLMEventParser(model_name="qwen2.5-coder:7b")
+    parsed_events = []
     
-    if not combined_text.strip():
-        print("No text fetched from any source. Using a fallback dummy string to test the LLM and ICS pipeline.")
-        combined_text = """
+    if not all_raw_text:
+        # Fallback if scraping failed
+        fallback_text = """
         Hier sind einige kommende Events im Dummy Club:
         - 15. August 2026: Große 80er Party, Start 22:00 Uhr, Dummy Club, Party
         - 20. August 2026: Theateraufführung "Hamlet", Start 19:30 Uhr, Staatstheater Dummy, Theater
         - 01. September 2026: Rock Konzert mit Band X, 20:00 Uhr, Dummy Halle, Musik
         """
-        
-    # 2. Extract Event JSON via Local LLM
-    print("\nStarting LLM Extraction...")
-    parser = LLMEventParser(model_name="qwen2.5-coder:7b")
-    parsed_events = parser.parse_events(combined_text)
+        parsed_events.extend(parser.parse_events(fallback_text))
+    else:
+        for idx, text_block in enumerate(all_raw_text):
+            print(f"Parsing source {idx+1}/{len(all_raw_text)}...")
+            events = parser.parse_events(text_block)
+            if events:
+                parsed_events.extend(events)
     
     print(f"LLM successfully extracted {len(parsed_events)} events.")
     

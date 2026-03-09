@@ -7,59 +7,155 @@ X-WR-CALNAME:Braunschweig Kultur
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Kultur Events
 BEGIN:VEVENT
-UID:022f162d-431c-5a75-a453-a8e04084da4f@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260313T140000
+UID:986117f0-f55b-5f2e-89f6-94762495d869@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260311T200000
+SUMMARY:Die besten Comedians Deutschlands LIVE
+DESCRIPTION:Comedy show featuring top comedians from Germany
+LOCATION:BRAUNSCHWEIG\, Volkswagen Halle
+END:VEVENT
+BEGIN:VEVENT
+UID:db256b82-1142-57f5-b370-2fa80eab14f4@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230309T090000
+SUMMARY:Fotoausstellung "Vielfache Eindrücke"
+DESCRIPTION:
+LOCATION:Via medis Ärztezentrum\, Ludwigstraße 5\, 38106\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:1c22f501-01e3-5d10-be93-da6afad07eb8@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230417T090000
+SUMMARY:Fotoausstellung "Vielfache Eindrücke"
+DESCRIPTION:
+LOCATION:Via medis Ärztezentrum\, Ludwigstraße 5\, 38106\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:d6c4887f-8df6-5c39-b48b-7530fbd742f3@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230310T193000
+SUMMARY:Leben - Tod - Bewusstsein
+DESCRIPTION:
+LOCATION:BegegnungsZentrum Gliesmarode\, Am Soolanger 1a\, 38104\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:110b0799-d3e5-5b6b-9886-c29f7ecf7b38@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230310T110000
+SUMMARY:Philosophische Spurensuche in literarischen Texten - Margarete Steffin: Von der Liebe. Und dem Krieg
+DESCRIPTION:
+LOCATION:Raabe-Haus:Literaturzentrum Braunschweig\, Leonhardstraße 29a\, 38100\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf05dd9-2ad6-5ece-817f-adbda3e636eb@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230310T140000
+SUMMARY:HANS ALVESEN – Ausstellung in der Torhausgalerie des Botanischen Gartens
+DESCRIPTION:
+LOCATION:Torhaus des Botanischen Gartens\, Humboldtstr. 1\, 38106\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:3df453c8-fd6b-55c3-954c-5d78f0124ec5@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230322T140000
+SUMMARY:HANS ALVESEN – Ausstellung in der Torhausgalerie des Botanischen Gartens
+DESCRIPTION:
+LOCATION:Torhaus des Botanischen Gartens\, Humboldtstr. 1\, 38106\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc3c38e-a7d3-5c7f-b4a2-275eeee6baea@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260319T140000
 SUMMARY:Silent Reading Party
-DESCRIPTION:Monthly Silent Reading event from 14:00 to 16:00 with an entrance at 13:45.
-LOCATION:BLAU-WAL
+DESCRIPTION:Einlass: 13:45 Uhr
+LOCATION:BLAU-WAL Saloon
 END:VEVENT
 BEGIN:VEVENT
-UID:fac0bbbd-3990-501f-8df3-725ccae0739a@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260401T183000
-SUMMARY:Kreativ-Workshop
-DESCRIPTION:Monthly Open Workshop led by Mahtab Razaghi from 18:30. Admission fee is 25 € including materials.
-LOCATION:BLAU-WAL
+UID:d09fd586-688f-5a99-ac27-b7ac99591dda@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260323T183000
+SUMMARY:OFFENES ATELIER
+DESCRIPTION:Mit Mahtab Razaghi\, Teilnahmegebühr: 25 € incl. Material
+LOCATION:BLAU-WAL Saloon
 END:VEVENT
 BEGIN:VEVENT
-UID:c4be34cb-1ae6-55b9-89df-ff80e8d641cc@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260405T190000
-SUMMARY:Emma liest: Literatischer Salon
-DESCRIPTION:Monthly Book Club led by Kirsten Harder from 19:00.
-LOCATION:BLAU-WAL
+UID:4cedfb6b-8569-53a2-8825-983c9047fec1@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260319T110000
+SUMMARY:Mental health YOGA
+DESCRIPTION:Mit Denise Beerbohm\, Eintritt: 15 € pro Session
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:b0b427a3-9262-54b0-be8a-c4bcc5eece67@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260318T180000
-SUMMARY:Lesung
-DESCRIPTION:Lesung by Gilda Sahebi 'Verbinden statt spalten' on Friday\, March 17\, 2026 from 17:30 to 20:00 with an entrance fee of 20 €.
-LOCATION:BLAU-WAL
+UID:0ffcbdd4-177a-5878-8ef8-2433d8280f58@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260324T190000
+SUMMARY:Meditation
+DESCRIPTION:Mit Dr. Thomas Piko
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:5128aec7-81b7-5f9b-98c1-eef9935384ad@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260516T183000
-SUMMARY:Kreativ-Workshop
-DESCRIPTION:Monthly Creative Workshop on 'Zeichenkurs' led by Frank Hermes and Mahtab Razaghi from 18:30 to 20:00.
-LOCATION:BLAU-WAL
+UID:e0fd0c35-4bb8-593a-89cb-6152be1395ff@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260324T190000
+SUMMARY:Buchclub Emma liest: Literatischer Salon
+DESCRIPTION:Mit Kirsten Harder
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:b99ff199-5632-57ad-a5fc-274d97fae2a7@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260611T190000
-SUMMARY:Lebenswelten
-DESCRIPTION:Photography exhibition on 'Lebenswelten' opening on Saturday\, June 11\, 2026 from 19:00.
-LOCATION:BLAU-WAL
+UID:616f64a5-6a2c-5a02-b392-902e7703bc35@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260318T190000
+SUMMARY:Lesung Gilda Sahebi: Verbinden statt spalten
+DESCRIPTION:AUSVERKAUFT!\, Einlass: 17:30 Uhr\, Moderation: Dr. Thomas Piko\, Eintritt: 20 € (Abendkasse: 22 €)
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:87ca3f6e-59e4-5394-88b0-6a9301e7519c@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260618T110000
-SUMMARY:Kreativ-Workshop
-DESCRIPTION:Monthly Collagen Workshop on 'Cut & Create' led by Eva-Maria Tornette and Mahtab Razaghi from 11:00 to 15:00.
-LOCATION:BLAU-WAL
+UID:214d20ad-67b4-5475-9894-40d872d989dc@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260419T193000
+SUMMARY:Lesung Marina Jenkner liest aus: Blaue Ufer
+DESCRIPTION:Eintritt: 12 €
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:fe981052-494e-5296-a22b-3e790ee38b91@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260430T190000
+SUMMARY:Lesung David Hugendick: „Jetzt sag doch endlich was"
+DESCRIPTION:David Hugendick (ZEIT-Autor)\, Eintritt: VVK 11 € (erm. 7 €)\, Abendkasse: 12 € (erm. 8 €)
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:cf9b7fc7-6d26-5823-8d8d-ca0a5fe4747e@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260415T190000
+SUMMARY:Lesung Marcel Pollex & Finn Bostelmann lesen
+DESCRIPTION:Einlass: 18:30 Uhr\, Eintritt: 20 € (Abendkasse: 22 €)
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:3fb10488-f822-5f0e-ad21-d9b097af692a@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260428T190000
+SUMMARY:Lesung Michel Abdollahi: Es ist unser Land
+DESCRIPTION:AUSVERKAUFT!\, Einlass: 18:30 Uhr\, Eintritt: 22 € (Abendkasse: 25 €)
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1d37d083-6b05-5fa1-8ee9-cdd837492d38@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260426T190000
+SUMMARY:Buchvorstellung: Bird Flirt
+DESCRIPTION:SPRACHFÜHRER Vogel–Mensch/Mensch-Vogel von Inka Nowoitnick
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ab938c1a-88b5-556c-b5c3-6ccba0106ee6@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260418T173000
+SUMMARY:ladies.talk
+DESCRIPTION:Mit Parwana Kath
+LOCATION:
 END:VEVENT
 END:VCALENDAR

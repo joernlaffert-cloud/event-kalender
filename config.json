@@ -38,17 +38,17 @@
     {
       "name": "Konzertkasse",
       "url": "https://www.konzertkasse.de/",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Brunsviga",
       "url": "https://www.brunsviga-kulturzentrum.de/programm/",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "DieRegion",
       "url": "https://braunschweig.die-region.de/",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Blau-Wal Kultur",

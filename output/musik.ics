@@ -7,43 +7,59 @@ X-WR-CALNAME:Braunschweig Musik
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Musik Events
 BEGIN:VEVENT
-UID:f5d84f70-408f-5bef-a3b5-ceccbd689612@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260428T193000
-SUMMARY:Gesangsunterricht
-DESCRIPTION:Classical Singing lessons with Antje Siefert and Dorothee Bärmann from 19:30.
-LOCATION:BLAU-WAL
+UID:5ea484ab-e640-52bf-8905-515c667c671e@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260311T200000
+SUMMARY:Patrizia Moresco – Overkill
+DESCRIPTION:Concert by Patrizia Moresco
+LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:7fdcad64-94ad-5bb3-9294-8863c47d39d9@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260508T194500
-SUMMARY:Klassikkonzert
-DESCRIPTION:Brahms 'Die schöne Magelone' concert by Corinna Tjiang\, Marco Vassalli\, and Matthias Wengler from 17:45 to 20:45.
-LOCATION:BLAU-WAL
+UID:9a762c40-221f-53f7-9b33-1ab53d20dd53@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260312T200000
+SUMMARY:Michael Frowin – Das wird ein Vorspiel haben
+DESCRIPTION:Concert by Michael Frowin
+LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:3179d6b8-d916-5f51-942f-b82e4c541485@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260527T190000
-SUMMARY:Klavierkonzert
-DESCRIPTION:Tatsushi Yamakawa concert on Saturday\, May 28\, 2026 from 17:30 to 20:00.
-LOCATION:BLAU-WAL
+UID:82640e2e-cac2-5399-82e4-981ca76709b7@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230309T190000
+SUMMARY:Junge Talente musizieren
+DESCRIPTION:
+LOCATION:Augustinum Braunschweig\, Am Hohen Tore 4A\, 38118\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:8c4ba7e9-8952-5795-b756-3b243e4259d9@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260624T203000
-SUMMARY:Musik mit *TrioMelodic* – freudig\, besinnlich\, bunt
-DESCRIPTION:Concert by TrioMelodic on Saturday\, June 25\, 2026 from 18:30 to 20:30.
-LOCATION:BLAU-WAL
+UID:03ef7c9b-09e7-5857-af5d-cb92e3f0297c@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260324T190000
+SUMMARY:Gesangsunterricht Klassischer Gesang
+DESCRIPTION:Unterricht von Antje Siefert
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:789cf8e5-383b-55db-b560-94ca21e39f49@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20261009T180000
-SUMMARY:Vladimir Valdivia: Feuertänze
-DESCRIPTION:Concert by Vladimir Valdivia on Friday\, October 7\, 2026 from 17:45 to 20:45.
-LOCATION:BLAU-WAL
+UID:933e4a45-37a0-5df7-b61f-0e5dadcaa3fa@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260318T190000
+SUMMARY:Klassikkonzert TonArt singt
+DESCRIPTION:Krankheitsbedingt abgesagt!
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:7e264262-e477-5f38-abba-485cac45383b@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260428T190000
+SUMMARY:Klassikkonzert Johannes Brahms – Die schöne Magelone
+DESCRIPTION:Corinna Tjiang (Sopran)\, Agim Bleta (Gitarre)\, Michael Hurst (Percussion) & Laura Bolardi (Gesang)\, Eintritt: 20 € (Abendkasse: 22 €)
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:4f20045a-a633-5ec2-b45e-864e1bca3dbc@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20261008T180000
+SUMMARY:Klavierkonzert Vladimir Valdivia: Feuertänze
+DESCRIPTION:Einlass: 17:45 Uhr\, Eintritt: 26 € (Abendkasse: 28 €)
+LOCATION:
 END:VEVENT
 END:VCALENDAR

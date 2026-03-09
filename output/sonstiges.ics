@@ -7,19 +7,67 @@ X-WR-CALNAME:Braunschweig Sonstiges
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Sonstiges Events
 BEGIN:VEVENT
-UID:83fc85db-c69c-5560-b976-a3446f34fd04@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260402T110000
-SUMMARY:YOGA
-DESCRIPTION:Weekly Yoga session from 11:00 to 12:00 with Denise Beerbohm. Admission fee is 15 € per session.
-LOCATION:BLAU-WAL
+UID:aac38a5e-2bd7-558a-a444-ec8b87b3da36@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260315T144500
+SUMMARY:Basketball Löwen Braunschweig – VET-CONCEPT Gladiators Trier
+DESCRIPTION:Basketball match between Löwen Braunschweig and VET-CONCEPT Gladiators Trier
+LOCATION:BRAUNSCHWEIG\, Volkswagen Halle Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:5e887b19-02e7-59fd-88db-de1f4d1da23f@bs-events.de
-DTSTAMP:20260309T191043Z
-DTSTART;TZID=Europe/Berlin:20260425T190000
-SUMMARY:Meditation
-DESCRIPTION:Weekly Meditation session from 19:00 to 20:00 with Dr. Thomas Piko.
-LOCATION:BLAU-WAL
+UID:89b07094-94de-56f0-a671-4f17c00a30c6@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260312T190000
+SUMMARY:Dinner mit Leiche\, Lord Helmchen
+DESCRIPTION:Dinner event
+LOCATION:BRAUNSCHWEIG\, Veranstaltungshaus und Restaurant Lord Helmchen
+END:VEVENT
+BEGIN:VEVENT
+UID:a254d54a-9923-5888-8338-cf890cd31f85@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260312T190000
+SUMMARY:Sagel und das Schlitzohr – Dinner mit Leiche
+DESCRIPTION:Dinner event
+LOCATION:BRAUNSCHWEIG\, Lord Helmchen Restaurant & Bar
+END:VEVENT
+BEGIN:VEVENT
+UID:2c417818-799f-5976-a92f-3f35f3bae1ab@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260314T130000
+SUMMARY:Eintracht Braunschweig – Fortuna Düsseldorf
+DESCRIPTION:Football match between Eintracht Braunschweig and Fortuna Düsseldorf
+LOCATION:BRAUNSCHWEIG\, Eintracht-Stadion Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:dc778e0c-efed-5916-ac53-5c261a82fd14@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260329T180000
+SUMMARY:Basketball Löwen Braunschweig – ALBA BERLIN
+DESCRIPTION:Basketball match between Löwen Braunschweig and ALBA Berlin
+LOCATION:BRAUNSCHWEIG\, Volkswagen Halle Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:14de9c17-baa6-52d3-b576-74255dc828a3@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230309T090000
+SUMMARY:Materialschnitte
+DESCRIPTION:
+LOCATION:Gemeindehaus der ev-luth. Kirchengemeinde Braunschweig-Stöckheim\, Kirchenbrink 3C\, 38124\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:d677e28c-50c9-5de2-a8ca-3e8dd683144e@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230310T090000
+SUMMARY:Materialschnitte
+DESCRIPTION:
+LOCATION:Gemeindehaus der ev-luth. Kirchengemeinde Braunschweig-Stöckheim\, Kirchenbrink 3C\, 38124\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:18d77e0b-73b5-518e-9f4a-66e1842f11aa@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20230409T090000
+SUMMARY:Materialschnitte
+DESCRIPTION:
+LOCATION:Gemeindehaus der ev-luth. Kirchengemeinde Braunschweig-Stöckheim\, Kirchenbrink 3C\, 38124\, Braunschweig
 END:VEVENT
 END:VCALENDAR

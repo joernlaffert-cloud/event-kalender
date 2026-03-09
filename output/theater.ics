@@ -7,11 +7,11 @@ X-WR-CALNAME:Braunschweig Theater
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Theater Events
 BEGIN:VEVENT
-UID:22db689b-4c26-5315-8682-a6354e83ac8c@bs-events.de
-DTSTAMP:20260305T213623Z
-DTSTART;TZID=Europe/Berlin:20230305T193000
-SUMMARY:DER RAUB DER SABINERINNEN GEHT SCHIEF!
-DESCRIPTION:A comedy performance with the title 'The Sabine Women Go Wrong!'.
-LOCATION:Komödie am Altstadtmarkt\, Gördelingerstraße 7\, 38100 Braunschweig
+UID:ca51e849-c914-5c05-802c-36eab1dcab57@bs-events.de
+DTSTAMP:20260309T214834Z
+DTSTART;TZID=Europe/Berlin:20260309T193000
+SUMMARY:Opera Curiosa
+DESCRIPTION:Operatic performance
+LOCATION:BRAUNSCHWEIG\, Lindenhof-Theater
 END:VEVENT
 END:VCALENDAR
