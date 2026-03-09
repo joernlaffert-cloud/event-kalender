@@ -39,6 +39,7 @@ class ICSBuilder:
             categorized[cat].append(ev)
             
         dtstamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+        seen_events = set()
         
         for category, events in categorized.items():
             if not events:
@@ -56,6 +57,13 @@ class ICSBuilder:
                     
                     if not date_str:
                         continue # Skip if no date
+                        
+                    # Global duplicate prevention key (case-insensitive title + date)
+                    dedup_key = f"{title.lower().strip()}-{date_str}"
+                    if dedup_key in seen_events:
+                        print(f"Skipping duplicate event: {title} on {date_str}")
+                        continue
+                    seen_events.add(dedup_key)
                         
                     # Parse start datetime
                     start_dt = datetime.strptime(f"{date_str} {time_str}", "%Y-%m-%d %H:%M")
