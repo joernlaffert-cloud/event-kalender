@@ -7,155 +7,115 @@ X-WR-CALNAME:Braunschweig Kultur
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Kultur Events
 BEGIN:VEVENT
-UID:986117f0-f55b-5f2e-89f6-94762495d869@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260311T200000
-SUMMARY:Die besten Comedians Deutschlands LIVE
-DESCRIPTION:Comedy show featuring top comedians from Germany
-LOCATION:BRAUNSCHWEIG\, Volkswagen Halle
+UID:ca51e849-c914-5c05-802c-36eab1dcab57@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260309T193000
+SUMMARY:Opera Curiosa
+DESCRIPTION:An unusual opera performance
+LOCATION:BRAUNSCHWEIG\, Lindenhof-Theater
 END:VEVENT
 BEGIN:VEVENT
-UID:db256b82-1142-57f5-b370-2fa80eab14f4@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230309T090000
-SUMMARY:Fotoausstellung "Vielfache Eindrücke"
-DESCRIPTION:
-LOCATION:Via medis Ärztezentrum\, Ludwigstraße 5\, 38106\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:1c22f501-01e3-5d10-be93-da6afad07eb8@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230417T090000
-SUMMARY:Fotoausstellung "Vielfache Eindrücke"
-DESCRIPTION:
-LOCATION:Via medis Ärztezentrum\, Ludwigstraße 5\, 38106\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:d6c4887f-8df6-5c39-b48b-7530fbd742f3@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230310T193000
-SUMMARY:Leben - Tod - Bewusstsein
-DESCRIPTION:
-LOCATION:BegegnungsZentrum Gliesmarode\, Am Soolanger 1a\, 38104\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:110b0799-d3e5-5b6b-9886-c29f7ecf7b38@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230310T110000
-SUMMARY:Philosophische Spurensuche in literarischen Texten - Margarete Steffin: Von der Liebe. Und dem Krieg
-DESCRIPTION:
-LOCATION:Raabe-Haus:Literaturzentrum Braunschweig\, Leonhardstraße 29a\, 38100\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:4bf05dd9-2ad6-5ece-817f-adbda3e636eb@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230310T140000
-SUMMARY:HANS ALVESEN – Ausstellung in der Torhausgalerie des Botanischen Gartens
-DESCRIPTION:
-LOCATION:Torhaus des Botanischen Gartens\, Humboldtstr. 1\, 38106\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:3df453c8-fd6b-55c3-954c-5d78f0124ec5@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230322T140000
-SUMMARY:HANS ALVESEN – Ausstellung in der Torhausgalerie des Botanischen Gartens
-DESCRIPTION:
-LOCATION:Torhaus des Botanischen Gartens\, Humboldtstr. 1\, 38106\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:9dc3c38e-a7d3-5c7f-b4a2-275eeee6baea@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260319T140000
+UID:022f162d-431c-5a75-a453-a8e04084da4f@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260313T140000
 SUMMARY:Silent Reading Party
-DESCRIPTION:Einlass: 13:45 Uhr
-LOCATION:BLAU-WAL Saloon
+DESCRIPTION:Einlass: 13:45 Uhr. Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:d09fd586-688f-5a99-ac27-b7ac99591dda@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260323T183000
+UID:82d45184-cf6d-5a68-ae04-a6be5b615c68@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260317T183000
 SUMMARY:OFFENES ATELIER
-DESCRIPTION:Mit Mahtab Razaghi\, Teilnahmegebühr: 25 € incl. Material
-LOCATION:BLAU-WAL Saloon
+DESCRIPTION:Mit Mahtab Razaghi. Teilnahmegebühr: 25 € incl. Material. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:4cedfb6b-8569-53a2-8825-983c9047fec1@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260319T110000
+UID:2593b317-4e25-56fd-b161-2aa0db3fcefa@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260313T110000
 SUMMARY:Mental health YOGA
-DESCRIPTION:Mit Denise Beerbohm\, Eintritt: 15 € pro Session
-LOCATION:
+DESCRIPTION:Mit Denise Beerbohm. Eintritt: 15 € pro Session. Veranstaltet vom beeyoga. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:0ffcbdd4-177a-5878-8ef8-2433d8280f58@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260324T190000
-SUMMARY:Meditation
-DESCRIPTION:Mit Dr. Thomas Piko
-LOCATION:
+UID:00525d43-c6f7-528c-96cf-ac92ee3c4247@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260314T190000
+SUMMARY:Mental health Meditation
+DESCRIPTION:Mit Dr. Thomas Piko. Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:e0fd0c35-4bb8-593a-89cb-6152be1395ff@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260324T190000
+UID:4957307c-9b3a-5960-a9a6-85412c53ce71@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260315T190000
 SUMMARY:Buchclub Emma liest: Literatischer Salon
-DESCRIPTION:Mit Kirsten Harder
-LOCATION:
+DESCRIPTION:Mit Kirsten Harder. Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:616f64a5-6a2c-5a02-b392-902e7703bc35@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260318T190000
+UID:c98821d7-bf4e-5836-a1ca-85ededb79a26@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260317T180000
 SUMMARY:Lesung Gilda Sahebi: Verbinden statt spalten
-DESCRIPTION:AUSVERKAUFT!\, Einlass: 17:30 Uhr\, Moderation: Dr. Thomas Piko\, Eintritt: 20 € (Abendkasse: 22 €)
-LOCATION:
+DESCRIPTION:AUSVERKAUFT! Einlass: 17:30 Uhr. Moderation: Dr. Thomas Piko. Eintritt: 20 € (Abendkasse: 22 €). Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:214d20ad-67b4-5475-9894-40d872d989dc@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260419T193000
+UID:5782ea15-a887-5272-9a32-58cd636c7534@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260319T180000
+SUMMARY:Klassikkonzert TonArt singt
+DESCRIPTION:AUSVERKAUFT! Einlass: 17:30 Uhr. Anette Liebert (Sopran)\, Susanne Bansen und Esther Stichel-Eißfeldt (Mezzosopran)\, Judith Schink (Alt)\, Ulrich Thiele (Bariton)\, Volker Wittstock (Flöte) & Hans-Wilhelm Plate (Klavier). Eintritt: 20 €. Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:1e123209-dc96-5382-aeec-8ad8e867bbb5@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260324T193000
 SUMMARY:Lesung Marina Jenkner liest aus: Blaue Ufer
-DESCRIPTION:Eintritt: 12 €
-LOCATION:
+DESCRIPTION:Eintritt: 12 €. Veranstaltet vom Leseflair. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:fe981052-494e-5296-a22b-3e790ee38b91@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260430T190000
+UID:74f25f6d-49ab-5202-9746-b4491488382c@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260331T190000
 SUMMARY:Lesung David Hugendick: „Jetzt sag doch endlich was"
-DESCRIPTION:David Hugendick (ZEIT-Autor)\, Eintritt: VVK 11 € (erm. 7 €)\, Abendkasse: 12 € (erm. 8 €)
-LOCATION:
+DESCRIPTION:David Hugendick. Eintritt: 12 €. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:cf9b7fc7-6d26-5823-8d8d-ca0a5fe4747e@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260415T190000
-SUMMARY:Lesung Marcel Pollex & Finn Bostelmann lesen
-DESCRIPTION:Einlass: 18:30 Uhr\, Eintritt: 20 € (Abendkasse: 22 €)
-LOCATION:
+UID:93f6bf6b-4ab0-5c56-b9d1-d4dbbc533a48@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20261009T180000
+SUMMARY:Lesung Vladimir Valdivia: Feuertänze
+DESCRIPTION:Einlass: 17:45 Uhr. Eintritt: 26 € (Abendkasse: 28 €). Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:3fb10488-f822-5f0e-ad21-d9b097af692a@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260428T190000
-SUMMARY:Lesung Michel Abdollahi: Es ist unser Land
-DESCRIPTION:AUSVERKAUFT!\, Einlass: 18:30 Uhr\, Eintritt: 22 € (Abendkasse: 25 €)
-LOCATION:
+UID:43a14664-1e74-5eb6-a7f1-cfeb63f8ca2d@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260612T190000
+SUMMARY:Ausstellung Lebenswelten
+DESCRIPTION:Eröffnung: 19:00 Uhr. Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:1d37d083-6b05-5fa1-8ee9-cdd837492d38@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260426T190000
-SUMMARY:Buchvorstellung: Bird Flirt
-DESCRIPTION:SPRACHFÜHRER Vogel–Mensch/Mensch-Vogel von Inka Nowoitnick
-LOCATION:
+UID:23f1d271-b1f9-58c3-937b-6c0562960e0e@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260613T110000
+SUMMARY:Kreativ-Workshop Collagen-Workshop: Cut & Create
+DESCRIPTION:Mit Eva-Maria Tornette & Mahtab Razaghi. Teilnahmegebühr: 35 € incl. Material. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:ab938c1a-88b5-556c-b5c3-6ccba0106ee6@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260418T173000
-SUMMARY:ladies.talk
-DESCRIPTION:Mit Parwana Kath
-LOCATION:
+UID:eb0fe4c4-3a60-5ae9-a873-4c9bba4306ef@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260620T190000
+SUMMARY:Konzert Musik mit *TrioMelodic* – freudig\, besinnlich\, bunt
+DESCRIPTION:Einlass: 18:30 Uhr. Eintritt: 20 € (Abendkasse: 22 €). Mit Reinhard Schiel (Saxophon)\, Agim Bleta (Gitarre)\, Michael Hurst (Percussion) & Laura Bolardi (Gesang). Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 END:VCALENDAR

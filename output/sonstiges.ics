@@ -7,67 +7,115 @@ X-WR-CALNAME:Braunschweig Sonstiges
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Sonstiges Events
 BEGIN:VEVENT
-UID:aac38a5e-2bd7-558a-a444-ec8b87b3da36@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260315T144500
-SUMMARY:Basketball Löwen Braunschweig – VET-CONCEPT Gladiators Trier
-DESCRIPTION:Basketball match between Löwen Braunschweig and VET-CONCEPT Gladiators Trier
-LOCATION:BRAUNSCHWEIG\, Volkswagen Halle Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:89b07094-94de-56f0-a671-4f17c00a30c6@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260312T190000
-SUMMARY:Dinner mit Leiche\, Lord Helmchen
-DESCRIPTION:Dinner event
-LOCATION:BRAUNSCHWEIG\, Veranstaltungshaus und Restaurant Lord Helmchen
-END:VEVENT
-BEGIN:VEVENT
 UID:a254d54a-9923-5888-8338-cf890cd31f85@bs-events.de
-DTSTAMP:20260309T214834Z
+DTSTAMP:20260310T002043Z
 DTSTART;TZID=Europe/Berlin:20260312T190000
 SUMMARY:Sagel und das Schlitzohr – Dinner mit Leiche
-DESCRIPTION:Dinner event
+DESCRIPTION:An unusual dinner event
 LOCATION:BRAUNSCHWEIG\, Lord Helmchen Restaurant & Bar
 END:VEVENT
 BEGIN:VEVENT
+UID:986117f0-f55b-5f2e-89f6-94762495d869@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260311T200000
+SUMMARY:Die besten Comedians Deutschlands LIVE
+DESCRIPTION:Live comedy show by top comedians from Germany
+LOCATION:BRAUNSCHWEIG\, Volkswagen Halle
+END:VEVENT
+BEGIN:VEVENT
+UID:9a762c40-221f-53f7-9b33-1ab53d20dd53@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260312T200000
+SUMMARY:Michael Frowin – Das wird ein Vorspiel haben
+DESCRIPTION:Performance by Michael Frowin
+LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
 UID:2c417818-799f-5976-a92f-3f35f3bae1ab@bs-events.de
-DTSTAMP:20260309T214834Z
+DTSTAMP:20260310T002043Z
 DTSTART;TZID=Europe/Berlin:20260314T130000
 SUMMARY:Eintracht Braunschweig – Fortuna Düsseldorf
 DESCRIPTION:Football match between Eintracht Braunschweig and Fortuna Düsseldorf
 LOCATION:BRAUNSCHWEIG\, Eintracht-Stadion Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:dc778e0c-efed-5916-ac53-5c261a82fd14@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260329T180000
-SUMMARY:Basketball Löwen Braunschweig – ALBA BERLIN
-DESCRIPTION:Basketball match between Löwen Braunschweig and ALBA Berlin
-LOCATION:BRAUNSCHWEIG\, Volkswagen Halle Braunschweig
+UID:89b07094-94de-56f0-a671-4f17c00a30c6@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260312T190000
+SUMMARY:Dinner mit Leiche\, Lord Helmchen
+DESCRIPTION:An unusual dinner event
+LOCATION:BRAUNSCHWEIG\, Veranstaltungshaus und Restaurant Lord Helmchen
 END:VEVENT
 BEGIN:VEVENT
-UID:14de9c17-baa6-52d3-b576-74255dc828a3@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230309T090000
-SUMMARY:Materialschnitte
-DESCRIPTION:
-LOCATION:Gemeindehaus der ev-luth. Kirchengemeinde Braunschweig-Stöckheim\, Kirchenbrink 3C\, 38124\, Braunschweig
+UID:a1feed66-9da2-5db7-b50b-40c71333711b@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20230321T200000
+SUMMARY:Tanz im Taproom Braunschweig
+DESCRIPTION:Eintritt frei
+LOCATION:Taproom Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:d677e28c-50c9-5de2-a8ca-3e8dd683144e@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230310T090000
-SUMMARY:Materialschnitte
-DESCRIPTION:
-LOCATION:Gemeindehaus der ev-luth. Kirchengemeinde Braunschweig-Stöckheim\, Kirchenbrink 3C\, 38124\, Braunschweig
+UID:25f00648-2fc9-5a09-adc5-f260c60eb6ec@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20230327T200000
+SUMMARY:Tanz im KufA Haus w/Olli & Matze
+DESCRIPTION:Eintritt frei
+LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:18d77e0b-73b5-518e-9f4a-66e1842f11aa@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230409T090000
-SUMMARY:Materialschnitte
-DESCRIPTION:
-LOCATION:Gemeindehaus der ev-luth. Kirchengemeinde Braunschweig-Stöckheim\, Kirchenbrink 3C\, 38124\, Braunschweig
+UID:f6dc946a-2c6d-5364-bed6-ca3cf617b6ef@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20230329T150000
+SUMMARY:80er Tanzcafé KufA Haus
+DESCRIPTION:8\,00 €
+LOCATION:KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd1d639-a1a5-57ee-a433-2339e63f35b6@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20230409T200000
+SUMMARY:Das wird schön. Schön & Frölich
+DESCRIPTION:19\,00 €
+LOCATION:Schön & Frölich
+END:VEVENT
+BEGIN:VEVENT
+UID:da85d367-a354-5945-ae6d-6d2ca6feac66@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20230410T190000
+SUMMARY:Barhopping für Singles – Die Speeddating Alternative Braunschweig
+DESCRIPTION:19\,90 €
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:3706c7ae-f006-5ca6-bb25-78fe0c37fda1@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20230417T200000
+SUMMARY:Tanzbar w/Ministry Of Mixing KufA Haus
+DESCRIPTION:Auf Spendenbasis
+LOCATION:KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:3df06245-a80c-5009-aaeb-59d2d4c9fff9@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20230531T200000
+SUMMARY:BIZARRE MONDAY REVIVAL KufA Haus
+DESCRIPTION:8\,00 €
+LOCATION:KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:dc9d51bb-e42a-5319-a211-d0eb60d764be@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20230628T150000
+SUMMARY:80er Tanzcafé KufA Haus
+DESCRIPTION:8\,00 €
+LOCATION:KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:412d935b-d02c-5ba4-9817-0ae2c59d431f@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20231107T200000
+SUMMARY:BIZARRE MONDAY REVIVAL KufA Haus
+DESCRIPTION:8\,00 €
+LOCATION:KufA Haus
 END:VEVENT
 END:VCALENDAR

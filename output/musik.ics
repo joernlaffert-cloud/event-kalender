@@ -7,59 +7,27 @@ X-WR-CALNAME:Braunschweig Musik
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Musik Events
 BEGIN:VEVENT
+UID:dc778e0c-efed-5916-ac53-5c261a82fd14@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260329T180000
+SUMMARY:Basketball Löwen Braunschweig – ALBA BERLIN
+DESCRIPTION:Basketball Löwen Braunschweig plays against ALBA Berlin
+LOCATION:BRAUNSCHWEIG\, Volkswagen Halle Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:aac38a5e-2bd7-558a-a444-ec8b87b3da36@bs-events.de
+DTSTAMP:20260310T002043Z
+DTSTART;TZID=Europe/Berlin:20260315T144500
+SUMMARY:Basketball Löwen Braunschweig – VET-CONCEPT Gladiators Trier
+DESCRIPTION:Basketball Löwen Braunschweig plays against VET-CONCEPT Gladiators Trier
+LOCATION:BRAUNSCHWEIG\, Volkswagen Halle Braunschweig
+END:VEVENT
+BEGIN:VEVENT
 UID:5ea484ab-e640-52bf-8905-515c667c671e@bs-events.de
-DTSTAMP:20260309T214834Z
+DTSTAMP:20260310T002043Z
 DTSTART;TZID=Europe/Berlin:20260311T200000
 SUMMARY:Patrizia Moresco – Overkill
-DESCRIPTION:Concert by Patrizia Moresco
+DESCRIPTION:Performance by Patrizia Moresco
 LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:9a762c40-221f-53f7-9b33-1ab53d20dd53@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260312T200000
-SUMMARY:Michael Frowin – Das wird ein Vorspiel haben
-DESCRIPTION:Concert by Michael Frowin
-LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
-END:VEVENT
-BEGIN:VEVENT
-UID:82640e2e-cac2-5399-82e4-981ca76709b7@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20230309T190000
-SUMMARY:Junge Talente musizieren
-DESCRIPTION:
-LOCATION:Augustinum Braunschweig\, Am Hohen Tore 4A\, 38118\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:03ef7c9b-09e7-5857-af5d-cb92e3f0297c@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260324T190000
-SUMMARY:Gesangsunterricht Klassischer Gesang
-DESCRIPTION:Unterricht von Antje Siefert
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-UID:933e4a45-37a0-5df7-b61f-0e5dadcaa3fa@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260318T190000
-SUMMARY:Klassikkonzert TonArt singt
-DESCRIPTION:Krankheitsbedingt abgesagt!
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-UID:7e264262-e477-5f38-abba-485cac45383b@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20260428T190000
-SUMMARY:Klassikkonzert Johannes Brahms – Die schöne Magelone
-DESCRIPTION:Corinna Tjiang (Sopran)\, Agim Bleta (Gitarre)\, Michael Hurst (Percussion) & Laura Bolardi (Gesang)\, Eintritt: 20 € (Abendkasse: 22 €)
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-UID:4f20045a-a633-5ec2-b45e-864e1bca3dbc@bs-events.de
-DTSTAMP:20260309T214834Z
-DTSTART;TZID=Europe/Berlin:20261008T180000
-SUMMARY:Klavierkonzert Vladimir Valdivia: Feuertänze
-DESCRIPTION:Einlass: 17:45 Uhr\, Eintritt: 26 € (Abendkasse: 28 €)
-LOCATION:
 END:VEVENT
 END:VCALENDAR
