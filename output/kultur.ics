@@ -7,115 +7,427 @@ X-WR-CALNAME:Braunschweig Kultur
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Kultur Events
 BEGIN:VEVENT
-UID:ca51e849-c914-5c05-802c-36eab1dcab57@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260309T193000
-SUMMARY:Opera Curiosa
-DESCRIPTION:An unusual opera performance
-LOCATION:BRAUNSCHWEIG\, Lindenhof-Theater
+UID:4251cd9c-4ff5-598e-87e3-442252b63398@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T200000
+SUMMARY:NLP - Coaching - Training | Ihr Partner für Veränderung | Hendrik Franke
+DESCRIPTION:Ein NLP-Coaching-Training.
+LOCATION:Frühlingsscheune bei Papes Gemüsegarten
 END:VEVENT
 BEGIN:VEVENT
-UID:022f162d-431c-5a75-a453-a8e04084da4f@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260313T140000
+UID:f176642a-286b-5660-9182-5cbbe71382cf@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T100000
+SUMMARY:NLP wirkt!? Live-Einblick in die NLP-Ausbildung!
+DESCRIPTION:Ein Live-Einblick in die NLP-Ausbildung.
+LOCATION:National Jürgens Brauerei (Eingang B8)
+END:VEVENT
+BEGIN:VEVENT
+UID:d08dc90b-9189-5068-ad86-5f6756ea6faa@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260526T080000
+SUMMARY:18th ACM Web Science Conference (WebSci'26)
+DESCRIPTION:Die 18. ACM Web Science Conference.
+LOCATION:Haus der Wissenschaft Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:5fb51df4-6eb3-5515-82df-de5d9d61a5e7@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T150000
+SUMMARY:Fermentation & Lebensmittelwertschätzung – Aus Gerettetem Gutes machen
+DESCRIPTION:Ein Workshop über Lebensmittelwertschätzung.
+LOCATION:National Jürgens Brauerei (Eingang B8)
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e4d926-765e-5367-8c55-581f714d884d@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T173000
+SUMMARY:Impact Talk Nr. 4. - Zukunft der Energie
+DESCRIPTION:Ein Impact Talk über die Zukunft der Energie.
+LOCATION:TRAFO Hub GmbH
+END:VEVENT
+BEGIN:VEVENT
+UID:286498cc-a921-5209-b3ac-e8e49dce6f1e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260322T113000
+SUMMARY:Ein Fest für die Augen: Grün
+DESCRIPTION:Anmeldung erforderlich.
+LOCATION:Herzog Anton Ulrich-Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:59354327-9fd0-5733-8f54-6645745a5604@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260321T160000
+SUMMARY:Innovatives Möbeldesign für Braunschweig
+DESCRIPTION:Führung.
+LOCATION:Herzog Anton Ulrich-Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:3d77eed5-68bf-5d44-9153-c872dfc8fc20@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260321T140000
+SUMMARY:Familienrallye Abenteuer Körper
+DESCRIPTION:Kinderprogramm.
+LOCATION:Hinter Aegidien
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b636de-6e70-597c-a037-82e631ee7550@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260320T183000
+SUMMARY:Rendezvous mit dem Löwen
+DESCRIPTION:Bei Met und Mumme.
+LOCATION:Herzog Anton Ulrich-Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:0de05d72-7070-569c-a4f7-aa81126ea3a7@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260320T150000
+SUMMARY:TimeSlips
+DESCRIPTION:Kreatives Geschichtenerfinden im Museum.
+LOCATION:Herzog Anton Ulrich-Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:4195f072-5e14-52cb-a9f6-82c67d3a25a6@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T183000
+SUMMARY:Rendezvous mit dem Löwen
+DESCRIPTION:Vortrag von Dr. Alfred Walz.
+LOCATION:Herzog Anton Ulrich-Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:03aee13b-01ec-5aaf-ac94-55b5d6b804c8@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T150000
+SUMMARY:TimeSlips
+DESCRIPTION:Kreatives Geschichtenerzählen im Museum.
+LOCATION:Herzog Anton Ulrich-Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:fc74d9b5-6387-5c26-9c98-24329a30270b@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T190000
+SUMMARY:Mittwochsvortrag
+DESCRIPTION:Vortrag von PD Dr. Mike Reich.
+LOCATION:Staatliches Naturhistorisches Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:c4adf774-34dc-551a-8493-49b0d9ef2b30@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T183000
+SUMMARY:Wie die Kelten unterwegs waren. Funde von Pferdegeschirr und Wagen aus dem Heidetränk-Oppidum
+DESCRIPTION:Vortrag von Ina Schimmel.
+LOCATION:St. Ulrici-Brüdern
+END:VEVENT
+BEGIN:VEVENT
+UID:50c9fd26-1346-5c16-9575-8a917cd2cd50@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T160000
+SUMMARY:Auf dem Bild sehe ich ...
+DESCRIPTION:Sprachkurs für B1 ins Museum.
+LOCATION:Herzog Anton Ulrich-Museum
+END:VEVENT
+BEGIN:VEVENT
+UID:70502719-6dd3-52e7-8235-f103e0a9ea21@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20270225T200000
+SUMMARY:Lydia Benecke Die Psychologie des Bösen
+DESCRIPTION:Talk on the psychology of evil by Lydia Benecke.
+LOCATION:Westend (details not specified)
+END:VEVENT
+BEGIN:VEVENT
+UID:68d3064d-53c1-5c9e-baf0-72117950ddf4@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260607T153000
+SUMMARY:The Jury Experience
+DESCRIPTION:Ein immersiver Gerichtsprozess
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9804b6-7be3-5bd8-8b4b-b68b36e11a04@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260517T163000
+SUMMARY:The Jury Experience
+DESCRIPTION:Ein immersiver Gerichtsprozess
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:7fa8029c-c86c-53d2-b633-f295d25a503e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260409T180000
+SUMMARY:The Jury Experience
+DESCRIPTION:Ein immersiver Gerichtsprozess
+LOCATION:Westand
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d9aa94-44e1-563c-a0c6-218b52d065d5@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T180000
+SUMMARY:The Jury Experience
+DESCRIPTION:Ein immersiver Gerichtsprozess
+LOCATION:Westand
+END:VEVENT
+BEGIN:VEVENT
+UID:6c66b9b5-4c6f-56d6-a7de-20573203083f@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260612T190000
+SUMMARY:Ausstellung
+DESCRIPTION:Lebenswelten - Fotografien aus einem Jugendzentrum in São Paulo
+LOCATION:Nicht spezifiziert
+END:VEVENT
+BEGIN:VEVENT
+UID:a74c8e47-466d-54b6-bb69-b43674942199@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260421T180000
+SUMMARY:Klassikkonzert Johannes Brahms – Die schöne Magelone
+DESCRIPTION:Corinna Tjiang (Lesung). Marco Vassalli (Bariton). Matthias Wengler (Klavier). Eintritt: 26 € (Abendkasse: 28 €). Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:093da919-380a-53db-b61a-54a4e32d84e1@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260419T173000
+SUMMARY:ladies.talk
+DESCRIPTION:Mit Parwana Kath. Veranstaltet vom th!nk pink club® e.V.
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:2b3b715b-3037-5e03-a00b-70d0361c996a@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260419T190000
+SUMMARY:Buchvorstellung: Bird Flirt
+DESCRIPTION:Achtung:Terminänderung. SPRACHFÜHRER Vogel–Mensch/Mensch-Vogel von Inka Nowoitnick
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:9019d254-27b3-5c39-9720-d01ff1b90c37@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260418T190000
+SUMMARY:Lesung Michel Abdollahi: Es ist unser Land
+DESCRIPTION:AUSVERKAUFT! Einlass: 18:30 Uhr. Eintritt: 22 € (Abendkasse: 25 €). Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:cf9b7fc7-6d26-5823-8d8d-ca0a5fe4747e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260415T190000
+SUMMARY:Lesung Marcel Pollex & Finn Bostelmann lesen
+DESCRIPTION:AUSVERKAUFT! Einlass: 18:30 Uhr. Eintritt: 20 € (Abendkasse: 22 €). Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:b31169bd-b774-537a-927b-7258c1a72acf@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T190000
+SUMMARY:Lesung David Hugendick: „Jetzt sag doch endlich was“
+DESCRIPTION:David Hugendick (ZEIT-Autor). Eintritt: VVK 11 € (erm. 7 €). Abendkasse: 12 € (erm. 8 €). Veranstaltet vom Raabe-Haus:Literaturzentrum
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:64694194-f311-561d-a6c7-894638f14195@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T140000
+SUMMARY:OFFENE KUNSTTHERAPIE-GRUPPE
+DESCRIPTION:Mit Mahtab Razaghi. Teilnahmegebühr: 50 € inkl. Material. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:c98821d7-bf4e-5836-a1ca-85ededb79a26@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T180000
+SUMMARY:Lesung Gilda Sahebi: Verbinden statt spalten
+DESCRIPTION:AUSVERKAUFT! Einlass: 17:30 Uhr. Moderation: Dr. Thomas Piko. Eintritt: 20 € (Abendkasse: 22 €). Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:98e88dd0-3526-53a7-a081-bbab561522c7@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260329T190000
+SUMMARY:Buchclub Emma liest: Literarischer Salon
+DESCRIPTION:Mit Kirsten Harder. Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:7c666e67-5c6a-5a36-b671-fea7cee5733e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260328T190000
+SUMMARY:Mental health Meditation
+DESCRIPTION:Mit Dr. Thomas Piko. Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8bfe9b-4330-5a1a-8345-cd694a99459e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260328T190000
+SUMMARY:Gesangsunterricht
+DESCRIPTION:Unterricht im Klassischen Gesang bei Antje Siefert. Stimmbildung & Gesangsunterricht bei Dorothee Bärmann
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:fa215eda-dd29-57db-96ec-a62daf1649bb@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260327T110000
+SUMMARY:Mental health YOGA
+DESCRIPTION:Mit Denise Beerbohm. Eintritt: 15 € pro Session. Veranstaltet vom beeyoga
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:2554bf24-da35-55ab-8808-64fc391061b8@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260324T183000
+SUMMARY:Kreativ-Workshop
+DESCRIPTION:Mit Mahtab Razaghi. Teilnahmegebühr: 25 € inkl. Material. Weiterlesen »
+LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc3c38e-a7d3-5c7f-b4a2-275eeee6baea@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T140000
 SUMMARY:Silent Reading Party
 DESCRIPTION:Einlass: 13:45 Uhr. Veranstaltet vom BLAU-WAL kultur e.V.
 LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
 END:VEVENT
 BEGIN:VEVENT
-UID:82d45184-cf6d-5a68-ae04-a6be5b615c68@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260317T183000
-SUMMARY:OFFENES ATELIER
-DESCRIPTION:Mit Mahtab Razaghi. Teilnahmegebühr: 25 € incl. Material. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:759e705e-676d-548d-9c7f-f156953030f3@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T090000
+SUMMARY:Fotoausstellung "Vielfache Eindrücke"
+DESCRIPTION:Fotoausstellung "Vielfache Eindrücke"
+LOCATION:Via medis Ärztezentrum\, Ludwigstraße 5\, 38106 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:2593b317-4e25-56fd-b161-2aa0db3fcefa@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260313T110000
-SUMMARY:Mental health YOGA
-DESCRIPTION:Mit Denise Beerbohm. Eintritt: 15 € pro Session. Veranstaltet vom beeyoga. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:0073b73e-e0b4-5b79-a057-1f0410e06573@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T100000
+SUMMARY:Neu hier! Zugänge zur Sammlung
+DESCRIPTION:Neu hier! Zugänge zur Sammlung
+LOCATION:Schlossmuseum Braunschweig\, Schloßplatz 1\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:00525d43-c6f7-528c-96cf-ac92ee3c4247@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260314T190000
-SUMMARY:Mental health Meditation
-DESCRIPTION:Mit Dr. Thomas Piko. Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:1a48e56a-0de4-5697-bd93-e816ef1cb122@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T150000
+SUMMARY:Erzählcafé in der Touristinfo
+DESCRIPTION:Erzählcafé in der Touristinfo
+LOCATION:Touristinfo Braunschweig\, Kleine Burg 14\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:4957307c-9b3a-5960-a9a6-85412c53ce71@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260315T190000
-SUMMARY:Buchclub Emma liest: Literatischer Salon
-DESCRIPTION:Mit Kirsten Harder. Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:408aaf73-1857-5d08-8d83-28a1d618ecd5@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T150000
+SUMMARY:Paula. Ein Leben für die Kunst. - Lesung aus Briefen der Künstlerin Paula Modersohn-Becker mit der Kulturvermittlerin Pia Kranz
+DESCRIPTION:Eine Lesung aus Briefen der Künstlerin Paula Modersohn-Becker.
+LOCATION:Raabe-Haus:Literaturzentrum Braunschweig\, Leonhardstraße 29a\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:c98821d7-bf4e-5836-a1ca-85ededb79a26@bs-events.de
-DTSTAMP:20260310T002043Z
+UID:b1977a6c-e914-5d2d-81d8-4143dae111ae@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T110000
+SUMMARY:Ein Jahrhundert Gedichte mit Helmut Berthold
+DESCRIPTION:Ein Vortrag über Gedichte von Helmut Berthold.
+LOCATION:Raabe-Haus:Literaturzentrum Braunschweig\, Leonhardstraße 29a\, 38100 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:d622fcb7-5412-50b4-80bf-774bda338ebf@bs-events.de
+DTSTAMP:20260316T233822Z
 DTSTART;TZID=Europe/Berlin:20260317T180000
-SUMMARY:Lesung Gilda Sahebi: Verbinden statt spalten
-DESCRIPTION:AUSVERKAUFT! Einlass: 17:30 Uhr. Moderation: Dr. Thomas Piko. Eintritt: 20 € (Abendkasse: 22 €). Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+SUMMARY:INDUSTRIEKULTUR Café | Von Weltmarktführern und Startups: Rechentechnik aus Braunschweig
+DESCRIPTION:Ein Café im KufA Haus mit Themen aus der Industriekultur.
+LOCATION:KufA Haus\, Westbahnhof 13\, 38118 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:5782ea15-a887-5272-9a32-58cd636c7534@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260319T180000
-SUMMARY:Klassikkonzert TonArt singt
-DESCRIPTION:AUSVERKAUFT! Einlass: 17:30 Uhr. Anette Liebert (Sopran)\, Susanne Bansen und Esther Stichel-Eißfeldt (Mezzosopran)\, Judith Schink (Alt)\, Ulrich Thiele (Bariton)\, Volker Wittstock (Flöte) & Hans-Wilhelm Plate (Klavier). Eintritt: 20 €. Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:c40a6ade-aaab-5dbf-8606-0f99e4ea3c8b@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T170000
+SUMMARY:Was sammelt ein Schloss - Einblicke in die Sammlung von 1925 bis heute
+DESCRIPTION:Eine Ausstellung im Schlossmuseum Braunschweig.
+LOCATION:Schlossmuseum Braunschweig\, Schloßplatz 1\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:1e123209-dc96-5382-aeec-8ad8e867bbb5@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260324T193000
-SUMMARY:Lesung Marina Jenkner liest aus: Blaue Ufer
-DESCRIPTION:Eintritt: 12 €. Veranstaltet vom Leseflair. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:97dec2c7-ee2e-5234-934a-698a4084f259@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T160000
+SUMMARY:Auf dem Bild sehe ich... – mit B1 ins Museum
+DESCRIPTION:Ein Workshop für B1-Sprecher im Herzog Anton Ulrich-Museum.
+LOCATION:Herzog Anton Ulrich-Museum\, Museumstraße 1\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:74f25f6d-49ab-5202-9746-b4491488382c@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260331T190000
-SUMMARY:Lesung David Hugendick: „Jetzt sag doch endlich was"
-DESCRIPTION:David Hugendick. Eintritt: 12 €. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:0619b461-8e06-58b2-a87d-bffa0be71f07@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260830T150000
+SUMMARY:Hoffest der Brunsviga 2026
+DESCRIPTION:Das aktuelle Programmheft
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:93f6bf6b-4ab0-5c56-b9d1-d4dbbc533a48@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20261009T180000
-SUMMARY:Lesung Vladimir Valdivia: Feuertänze
-DESCRIPTION:Einlass: 17:45 Uhr. Eintritt: 26 € (Abendkasse: 28 €). Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:a85db40a-96d5-5d63-b073-98937319a5d8@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260328T100000
+SUMMARY:Leseflair Frühjahrslese
+DESCRIPTION:Buchmesse "Regio"
+LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:43a14664-1e74-5eb6-a7f1-cfeb63f8ca2d@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260612T190000
-SUMMARY:Ausstellung Lebenswelten
-DESCRIPTION:Eröffnung: 19:00 Uhr. Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:937f5326-395b-54a9-b7bd-f8ed4726f57e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260327T193000
+SUMMARY:Leseflair Frühjahrslese
+DESCRIPTION:Der Mörderische Salon
+LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:23f1d271-b1f9-58c3-937b-6c0562960e0e@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260613T110000
-SUMMARY:Kreativ-Workshop Collagen-Workshop: Cut & Create
-DESCRIPTION:Mit Eva-Maria Tornette & Mahtab Razaghi. Teilnahmegebühr: 35 € incl. Material. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:95a4e086-9e6e-5da5-8fff-1a07a1a4cace@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260326T193000
+SUMMARY:Leseflair Frühjahrslese
+DESCRIPTION:Der 3. Leseflair Poetry Slam
+LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:eb0fe4c4-3a60-5ae9-a873-4c9bba4306ef@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20260620T190000
-SUMMARY:Konzert Musik mit *TrioMelodic* – freudig\, besinnlich\, bunt
-DESCRIPTION:Einlass: 18:30 Uhr. Eintritt: 20 € (Abendkasse: 22 €). Mit Reinhard Schiel (Saxophon)\, Agim Bleta (Gitarre)\, Michael Hurst (Percussion) & Laura Bolardi (Gesang). Veranstaltet vom BLAU-WAL kultur e.V. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:b1dc2061-2138-52b5-aaab-aa347cc48832@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260325T150000
+SUMMARY:Welt der Puppen
+DESCRIPTION:Wie Findus zu Pettersson kam
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:1b1e1057-da5a-5a74-8ed5-119907d4e154@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260324T150000
+SUMMARY:Welt der Puppen
+DESCRIPTION:Wie Findus zu Pettersson kam
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:ebf3e350-9bf9-5ee9-8e37-aab2b66a8109@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260321T190000
+SUMMARY:Wladimir Kaminer
+DESCRIPTION:Das geheime Leben der Deutschen
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:f35defa1-b598-57c7-ba0b-5c65599fe850@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T190000
+SUMMARY:Crime Talk: Die Psyche des Bösen – mit Axel Petermann
+DESCRIPTION:Konzert
+LOCATION:BRAUNSCHWEIG\, Forum Medienhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:e32ce8a3-630f-531e-9498-b27052dfd445@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260413T200000
+SUMMARY:8. Sinfoniekonzert: Österreichisch-ungarische Klangwelten
+DESCRIPTION:Staatsorchester mit Johann Strauss (Sohn)\, Wolfgang Amadeus Mozart\, Béla Bartók\, Einführung 45 min vorher in der Hausbar
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:f119ef2c-630b-5d1d-b6c3-7212d43225e0@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260412T193000
+SUMMARY:8. Sinfoniekonzert: Österreichisch-ungarische Klangwelten
+DESCRIPTION:Staatsorchester mit Johann Strauss (Sohn)\, Wolfgang Amadeus Mozart\, Béla Bartók\, Einführung 45 min vorher in der Hausbar
+LOCATION:Großes Haus
 END:VEVENT
 END:VCALENDAR

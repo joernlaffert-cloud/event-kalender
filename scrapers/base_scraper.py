@@ -19,7 +19,7 @@ class EventScraper:
                 )
                 page = context.new_page()
                 # Go to page and wait for a bit of network idle
-                page.goto(url, wait_until="networkidle", timeout=30000)
+                page.goto(url, wait_until="domcontentloaded", timeout=15000)
                 
                 # Extra explicit wait for slow frameworks
                 time.sleep(3)
@@ -34,6 +34,19 @@ class EventScraper:
                 return html
         except Exception as e:
             print(f"[{self.name}] Error rendering {url} with Playwright: {e}")
+            return ""
+
+    def fetch_html_fast(self, url: str) -> str:
+        """Fetches the HTML content instantly using raw requests instead of a headless browser."""
+        print(f"[{self.name}] Fetching instantly (requests) for {url}...")
+        try:
+            import requests
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+            r = requests.get(url, headers=headers, timeout=10)
+            r.raise_for_status()
+            return r.text
+        except Exception as e:
+            print(f"[{self.name}] Error fetching {url} with requests: {e}")
             return ""
 
     def clean_html_to_text(self, html: str) -> str:

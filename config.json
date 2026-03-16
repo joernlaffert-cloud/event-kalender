@@ -13,7 +13,7 @@
     {
       "name": "Stereowerk",
       "url": "https://www.stereowerk.de/events",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Jolly Time Events",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Staatstheater Braunschweig",
-      "url": "https://staatstheater-braunschweig.de/spielplan/kalender/",
-      "enabled": false
+      "url": "https://staatstheater-braunschweig.de/programm/spielplan/",
+      "enabled": true
     },
     {
       "name": "Lokpark Braunschweig",
@@ -53,6 +53,56 @@
     {
       "name": "Blau-Wal Kultur",
       "url": "https://blau-wal-kultur.de/",
+      "enabled": true
+    },
+    {
+      "name": "Rausgegangen",
+      "url": "https://rausgegangen.de/braunschweig",
+      "enabled": true
+    },
+    {
+      "name": "Barnaby's Blues Bar",
+      "url": "https://www.barnabys-bs.de/programm/",
+      "enabled": true
+    },
+    {
+      "name": "Komödie am Altstadtmarkt",
+      "url": "https://www.komoedie-bs.de/spielplan/",
+      "enabled": true
+    },
+    {
+      "name": "Braunschweig Lions",
+      "url": "https://newyorker-lions.de/spielplan/",
+      "enabled": true
+    },
+    {
+      "name": "KufA Haus",
+      "url": "https://kufa.haus",
+      "enabled": true
+    },
+    {
+      "name": "Westand",
+      "url": "https://westand.net/aktuelles-programm/",
+      "enabled": true
+    },
+    {
+      "name": "3 Landesmuseen",
+      "url": "https://3landesmuseen-braunschweig.de/kalender",
+      "enabled": true
+    },
+    {
+      "name": "Eventbrite Braunschweig",
+      "url": "https://www.eventbrite.de/d/germany--braunschweig/events/",
+      "enabled": true
+    },
+    {
+      "name": "Basketball Löwen",
+      "url": "https://www.basketball-loewen.de/spiele/spielplan/",
+      "enabled": true
+    },
+    {
+      "name": "VHS Braunschweig",
+      "url": "https://www.vhs-braunschweig.de",
       "enabled": true
     }
   ]

@@ -18,7 +18,7 @@ class KonzertkasseScraper(EventScraper):
         
         for url in self.categories:
             print(f"[{self.name}] Fetching {url}...")
-            html = self.fetch_html(url)
+            html = self.fetch_html_fast(url)
             if not html:
                 continue
                 

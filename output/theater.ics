@@ -7,11 +7,643 @@ X-WR-CALNAME:Braunschweig Theater
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Theater Events
 BEGIN:VEVENT
-UID:f5fc8123-05be-5f93-9ac6-e487152cc806@bs-events.de
-DTSTAMP:20260310T002043Z
-DTSTART;TZID=Europe/Berlin:20230331T200000
+UID:29a99dd0-d4d5-5d8e-825d-29fc4eea5ff3@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260412T153000
+SUMMARY:We call it Ballet
+DESCRIPTION:Dornröschen\, eine Tanz- & Lichtshow
+LOCATION:Westand
+END:VEVENT
+BEGIN:VEVENT
+UID:8cbc9644-1921-58b9-a826-401f7177cde9@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260831T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:6281eead-ff84-5ae8-96d2-d83e868310ed@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260830T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:2e15cfed-8cff-56ba-a28a-e7403a63f762@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260829T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:90f24405-e8d2-5cc0-a22b-7f074d12a35a@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260828T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:a8e85f61-ff03-52fc-b66e-f6d602f3472e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260827T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:71faa74b-80ca-5aef-b351-d3310d37b33e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260826T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d10711-85f6-562f-81a1-ece3d3a77a79@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260825T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:276586d7-d925-5ca4-86ec-ee2f2215bff4@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260824T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:224822c4-fa5f-5e4b-8125-4e7bc42139da@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260823T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd1572c-ec0a-5b4f-a397-9ebdf22ec909@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260822T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:bb0b8214-ea65-5a33-bbcb-caff2928916d@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260821T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:ad711d0c-5150-506b-90ea-9c25f12c4573@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260820T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:3d630686-0255-5348-a885-b6f7b76f2f83@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260819T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:d48f9566-9a85-5a6a-b12b-5009c6a3c099@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260818T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:7eab0cfe-2e7a-5ecd-b536-3884221f817f@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260817T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:43e6b582-0aa4-5dd4-8ab0-2a7d193545b8@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260816T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:29b9c762-dc07-540f-8c43-8432d42fc8cb@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260815T200000
+SUMMARY:Ich hasse Dich - heirate mich!
+DESCRIPTION:Komödie von Florian Battermann und Jan Bodinus
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:2c4770d4-fdad-54a5-b251-7f60c8f3af67@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260418T200000
+SUMMARY:EIN ZIMMER\, KÜSSE\, BAD
+DESCRIPTION:Komödie von Kathi Schneider
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:71673932-cfb1-56b3-b86b-567adbfc5f59@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260325T200000
+SUMMARY:DER RAUB DER SABINERINNEN GEHT SCHIEF!
+DESCRIPTION:Komödie nach dem Schwank von Franz und Paul von Schönthan
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:d89e99a6-ab2a-5e65-ba8a-2acfd5736112@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260327T200000
+SUMMARY:Mehr Schein als Sein oder Ein Sechser mit Nebenwirkungen
+DESCRIPTION:Komödie von Angela Burmeister
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:611c21a6-d6e7-5f8b-87e6-4df6d60713d9@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260326T200000
+SUMMARY:Mehr Schein als Sein oder Ein Sechser mit Nebenwirkungen
+DESCRIPTION:Komödie von Angela Burmeister
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:4832891d-abc0-5eb9-8cfb-f2c955179487@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260321T200000
+SUMMARY:Mehr Schein als Sein oder Ein Sechser mit Nebenwirkungen
+DESCRIPTION:Komödie von Angela Burmeister
+LOCATION:Gördelingerstraße 7\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d6e473-d7b9-5a41-a475-fe0636b0d27a@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260331T200000
 SUMMARY:Sprachenchaos\, Braunschweig
-DESCRIPTION:15\,00 bis 18\,00 € Verlosung
+DESCRIPTION:Sprachenchaos\, Braunschweig
 LOCATION:KULT Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:3f123bdf-3d37-5af7-b0dd-c905d0010ebc@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T193000
+SUMMARY:DER RAUB DER SABINERINNEN GEHT SCHIEF!
+DESCRIPTION:DER RAUB DER SABINERINNEN GEHT SCHIEF!
+LOCATION:Komödie am Altstadtmarkt\, Gördelingerstraße 7\, 38100 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:d7883f7a-c437-5c0c-a2bf-c713c01c8971@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20261206T163000
+SUMMARY:GTD COMEDY SLAM Das Jahresfinale!
+DESCRIPTION:Comedy Slam-Finale
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:aef94c05-f60d-5efe-9959-b173d4dd74d7@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20261127T160000
+SUMMARY:Timo Wopp\, JA SORRY! – Der schmale Grat zwischen Anspruch und Würdelosigkeit.
+DESCRIPTION:Konzert mit Timo Wopp
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:27b1e66c-e829-521a-bba9-f0218c0afd79@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20261107T180000
+SUMMARY:GTD COMEDY SLAM Vorrunde
+DESCRIPTION:Comedy Slam-Vorrunde
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:3bb04168-9fdd-53a3-adfe-a17dec6fa358@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20261010T200000
+SUMMARY:GTD COMEDY SLAM
+DESCRIPTION:Vorrunde
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:033b5443-7092-5329-adc1-84d836a358dc@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260820T193000
+SUMMARY:Leseflair Festival 2026
+DESCRIPTION:Der 4. Leseflair Poetry Slam
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:24bd4dd2-051a-5da9-9af2-4b92038631ab@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260819T200000
+SUMMARY:Klaus-Peter Wolf
+DESCRIPTION:Lesung
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:45876df7-92e2-5698-a757-b68d9537b7ee@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260818T200000
+SUMMARY:Leseflair Festival 2026
+DESCRIPTION:Sarah Kuttner liest: "Mama & Sam"
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:ba86b5ee-98df-5a08-89a4-c27cc6401382@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260627T200000
+SUMMARY:Meik Gudermann
+DESCRIPTION:Lesung: Menners! Ein Gespräch über Männer – mit deinem schwulen besten Freund
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:c2ebdecc-0e2a-5557-ae24-d9dad31ac1bc@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260619T193000
+SUMMARY:Veikko Bartel
+DESCRIPTION:Mörderinnen und Mörder – Wahre Fälle eines Strafverteidigers
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:a75e81c8-741f-5eec-ba13-4d7dafe98931@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260613T200000
+SUMMARY:GTD COMEDY SLAM
+DESCRIPTION:Vorrunde
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:d40fb837-eca1-5ed7-a604-44fa0682b392@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260606T200000
+SUMMARY:LaLeLu – a capella comedy
+DESCRIPTION:LaLeLuja! Die 30 Jahre-Jubiläumstour
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:9b117b0c-cb0c-590a-b45d-7be1a210bb9f@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260604T113000
+SUMMARY:55. Schultheaterwoche Braunschweig
+DESCRIPTION:Schule macht Theater!
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:9bdde7f7-0bf0-5cd6-a301-6751b463450a@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260603T113000
+SUMMARY:55. Schultheaterwoche Braunschweig
+DESCRIPTION:Schule macht Theater!
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:ef923497-7a14-568f-9fe3-79c2842e4003@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260602T113000
+SUMMARY:55. Schultheaterwoche Braunschweig
+DESCRIPTION:Schule macht Theater!
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:a7f6a7db-94c2-5992-ba36-ae0c1bfff0ad@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260601T180000
+SUMMARY:55. Schultheaterwoche Braunschweig
+DESCRIPTION:Schule macht Theater!
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:95495371-2b9d-52ab-9f2a-aef6afb6872f@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260519T180000
+SUMMARY:Theaterklub FindlingsRaum Spielraum TPZ
+DESCRIPTION:Herzklopfen
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:94da548c-518f-5432-909f-346d3cdea5dc@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260429T200000
+SUMMARY:Guido Cantz
+DESCRIPTION:Komische Zeiten
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d02b30-0e25-5a3a-b517-f57253577921@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260420T180000
+SUMMARY:Christian Schulte-Loh
+DESCRIPTION:Import Export
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:c560cf8b-c34f-510a-9e9b-47268b2ba868@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260418T180000
+SUMMARY:Horst Evers
+DESCRIPTION:So gesehen natürlich lustig
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:f222b438-2842-5a4b-9d5b-3332f05d99e9@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260412T190000
+SUMMARY:Anny Hartmann
+DESCRIPTION:Klimazauberei
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:76109a2b-8664-55f2-9dc3-5a6475396988@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260411T200000
+SUMMARY:Soulviertel
+DESCRIPTION:Willkommen im SOULVIERTEL!
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:6e0cf080-0a2b-59c7-bed3-1cb229297e9b@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260329T190000
+SUMMARY:Der Tod
+DESCRIPTION:"Pest of" – Das Beste aus 13 Jahren
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:84cd4a1c-cb40-5607-827a-ff61c6f490ff@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T200000
+SUMMARY:Christine Prayon
+DESCRIPTION:Abschiedstour
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:aeb74bdb-02b1-5352-9087-4faa49b565c7@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260317T200000
+SUMMARY:Ingo Appelt
+DESCRIPTION:Männer nerven stark
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9fbe32-5eda-5bea-a4a1-dd2c654790fa@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T160000
+SUMMARY:Circus Karl Altoff Köllner
+DESCRIPTION:Circus
+LOCATION:BRAUNSCHWEIG\, Schützenplatz Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a61b05-a7b7-5949-ac6c-051a17312cb6@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T200000
+SUMMARY:Ingo Appelt – MÄNNER NERVEN STARK
+DESCRIPTION:Konzert
+LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:e2594ede-267d-563b-913e-7e5ebfece9cd@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T160000
+SUMMARY:Circus Karl Altoff Köllner
+DESCRIPTION:Circus
+LOCATION:BRAUNSCHWEIG\, Schützenplatz Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:d16bdeb4-7cfd-5090-b076-b8397d27353a@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260416T200000
+SUMMARY:Gastspiel: Die Verwandlung
+DESCRIPTION:Gastspiel von Franz Kafka mit Merten Schroedter\, Regie: Merten Schroedter und Jörg Wesemüller
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:3d2d544f-f1a5-5599-820f-804db68b8b9b@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260416T193000
+SUMMARY:Tyll
+DESCRIPTION:Schauspiel von Daniel Kehlmann\, Einführung 30 min vorher in der Hausbar
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f6f102-0c4c-5867-bb28-4c73749f0256@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260416T100000
+SUMMARY:Wiederaufnahme: Der Bär\, der nicht da war
+DESCRIPTION:Nach dem Bilderbuch von Oren Lavie\, Vorverkauf: fadenschein.de
+LOCATION:Theater Fadenschein
+END:VEVENT
+BEGIN:VEVENT
+UID:02bb7fd8-8611-562a-8fd9-cbcd6aeefa6e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260415T200000
+SUMMARY:Gastspiel: Die Verwandlung
+DESCRIPTION:Gastspiel von Franz Kafka mit Merten Schroedter\, Regie: Merten Schroedter und Jörg Wesemüller
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:937f9fa9-fed6-5875-9f9c-a43faa60ff6e@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260415T174500
+SUMMARY:Achtung Durchlauf!
+DESCRIPTION:Probenbesuch nur für Lehrkräfte zu »I Capuleti e i Montecchi (Romeo und Julia)«
+LOCATION:Louis-Spohr-Saal
+END:VEVENT
+BEGIN:VEVENT
+UID:85b26d30-9a07-587d-bd93-6b9ed9943137@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260414T190000
+SUMMARY:Gastspiel: Performativer Schwimmraum
+DESCRIPTION:Kooperation mit dem Institut Performative Praxis\, Kunst und Bildung der HBK
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:8570d807-1420-5fb7-a7ce-34a9dc219325@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260412T193000
+SUMMARY:Tyll
+DESCRIPTION:Schauspiel von Daniel Kehlmann\, Audiodeskription\, Einführung 30 min vorher in der Hausbar
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd92226-6dab-597e-b1c8-eb192ac6c711@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260411T200000
+SUMMARY:Solaris
+DESCRIPTION:Schauspiel von Stanisław Lem\, Deutsch von Irmtraud Zimmermann-Göllheim\, Bühnenfassung von Alexandra Holtsch und Eva Bode
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:b02986fd-c635-57bf-b113-788b2fe841e6@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260411T200000
+SUMMARY:Styx
+DESCRIPTION:Tanztheater mit Melanie Lane\, Einführung 30 min vorher im Foyer
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:4fa8aafa-4cbe-5a2a-987b-9c1be94f1ad8@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260410T180000
+SUMMARY:Babettes Fest
+DESCRIPTION:Schauspiel nach der Erzählung von Karen Blixen in einer Bühnenfassung von Christoph Diem und Holger Schröder
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:41935c98-1bcc-571c-a0bb-91020ece6b0d@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260409T193000
+SUMMARY:Tag der Ansteckung
+DESCRIPTION:Schauspiel mit Felicia Zeller\, Nachgespräch mit Dr. Britta Wittner und Derk Trei
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:ab79a36a-58c1-5867-bdad-396ac535ee76@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260327T180000
+SUMMARY:Zeit für Monster
+DESCRIPTION:Franz Kafka\, Rebekka David & Ensemble
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:dc71550c-5724-52b2-abf0-4e1e9e890fce@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260327T193000
+SUMMARY:Peter Grimes
+DESCRIPTION:Benjamin Britten
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:b0f587c7-01bc-5a07-ae2e-899bb097f76c@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260322T180000
+SUMMARY:Zeit für Monster
+DESCRIPTION:Franz Kafka\, Rebekka David & Ensemble
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:ed14e6f1-1eac-5c1c-97b9-2ae0a406b3e0@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260322T111500
+SUMMARY:Einführungsmatinee
+DESCRIPTION:I Capuleti e i Montecchi (Romeo und Julia)
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:f627e97a-aa7f-5bd7-ab67-f32f4893ab2d@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260321T200000
+SUMMARY:hamlet. the rest is silence.
+DESCRIPTION:Ein Projekt von Daniele Szeredy
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:d68fb95d-3c07-534e-852c-f89c73655a8d@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260321T200000
+SUMMARY:zum letzten Mal
+DESCRIPTION:Die Fledermaus
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4a556e-06e7-579f-99bf-9d77326671af@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260321T193000
+SUMMARY:Premiere
+DESCRIPTION:Zeit für Monster
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:3e17aaf2-791d-508c-84e8-752f30b00cca@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260321T184500
+SUMMARY:Zeit für Monster
+DESCRIPTION:Franz Kafka\, Rebekka David & Ensemble
+LOCATION:Foyer Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:74646a1f-fa74-5625-a62a-e940d778a57b@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260320T190000
+SUMMARY:Solaris
+DESCRIPTION:von Stanisław Lem / Deutsch von Irmtraud Zimmermann-Göllheim / In einer Bühnenfassung von Alexandra Holtsch und Eva Bode
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:f636c357-6324-5ae0-b9d8-3f70bb21ba4b@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260320T193000
+SUMMARY:Marilyn Forever
+DESCRIPTION:Gavin Bryars
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe0526c-cc42-53ba-a4f2-68e4c93ae264@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260320T193000
+SUMMARY:Peter Grimes
+DESCRIPTION:Benjamin Britten
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:b9fb2353-03fd-59c8-a6a8-5b04a6454295@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T200000
+SUMMARY:Prima Facie
+DESCRIPTION:Suzie Miller
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:fef93ee4-f13e-5c71-9361-1ee592786663@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T193000
+SUMMARY:Die Fledermaus
+DESCRIPTION:Johann Strauss (Sohn)
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:e80d6eb4-8c38-5bf1-9c4e-df9b4f5353e1@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260319T193000
+SUMMARY:Tag der Ansteckung
+DESCRIPTION:Felicia Zeller
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:e8fb0109-fdf1-57b2-ac6a-c9998b6c7152@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T200000
+SUMMARY:Premiere
+DESCRIPTION:hamlet. the rest is silence.
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:937b0066-9063-5a39-8ab4-2e720fabf511@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T193000
+SUMMARY:Marilyn Forever
+DESCRIPTION:Gavin Bryars
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:50387a24-c7ea-5b90-97ee-d11044574fdd@bs-events.de
+DTSTAMP:20260316T233822Z
+DTSTART;TZID=Europe/Berlin:20260318T193000
+SUMMARY:Peter Grimes
+DESCRIPTION:Benjamin Britten
+LOCATION:Großes Haus
 END:VEVENT
 END:VCALENDAR

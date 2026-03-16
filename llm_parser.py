@@ -1,86 +1,160 @@
-import json
-import requests
-import re
+from pydantic import BaseModel, Field, field_validator
+from typing import Literal, List
+import instructor
+from openai import OpenAI
+from datetime import datetime, date
+
+class Event(BaseModel):
+    title: str
+    date: str = Field(description="Format YYYY-MM-DD")
+    time: str = Field(description="Format HH:MM")
+    location: str
+    category: Literal["party", "kultur", "musik", "theater", "sonstiges"]
+    description: str = Field(description="Short summary")
+
+    @field_validator("category", mode="before")
+    @classmethod
+    def validate_category(cls, v: str) -> str:
+        if not isinstance(v, str):
+            return "sonstiges"
+        v = v.lower().strip()
+        if any(kw in v for kw in ["party", "disco", "club", "tanz"]): return "party"
+        if any(kw in v for kw in ["theater", "comedy", "kabarett", "oper", "musical", "schauspiel", "bühne", "hypnose"]): return "theater"
+        if any(kw in v for kw in ["musik", "konzert", "live", "band", "tribute", "show"]): return "musik"
+        if any(kw in v for kw in ["kultur", "ausstellung", "lesung", "vortrag", "museum", "führung", "markt", "messe", "slam", "leseflair"]): return "kultur"
+        return "sonstiges"
+
+class EventList(BaseModel):
+    events: List[Event]
 
 class LLMEventParser:
-    def __init__(self, model_name="hf.co/chatpdflocal/Qwen2.5.1-Coder-14B-Instruct-GGUF:Q4_K_M", api_url="http://127.0.0.1:11434/api/generate"):
+    def __init__(self, model_name="qwen2.5-coder:7b", api_url="http://127.0.0.1:11434/v1"):
         self.model_name = model_name
         self.api_url = api_url
+        
+        # Initialize instructor with the OpenAI compatible Ollama endpoint
+        self.client = instructor.from_openai(
+            OpenAI(
+                base_url=self.api_url,
+                api_key="ollama", # required by library but arbitrary for local Ollama
+                timeout=120.0,    # 2 minute timeout for long inferences
+            ),
+            mode=instructor.Mode.JSON,
+        )
+
+    def _build_system_prompt(self) -> str:
+        today_str = date.today().isoformat()
+        return f'''Du bist ein Experte für strukturierte Datenextraktion aus deutschsprachigen Veranstaltungswebseiten.
+Heute ist der {today_str}.
+
+AUFGABE: Extrahiere ALLE kommenden Veranstaltungen (ab heute) aus dem gegebenen Text.
+
+REGELN:
+1. Jedes Event MUSS ein gültiges Datum im Format YYYY-MM-DD haben. Wenn kein Jahr angegeben ist, verwende 2026.
+2. Ignoriere vergangene Events (vor {today_str}).
+3. Wenn keine Uhrzeit angegeben ist, verwende "20:00" als Standardwert.
+4. Kategorisiere jedes Event als GENAU EINE der folgenden Kategorien:
+   - "party" = Clubnächte, DJ Sets, Tanzveranstaltungen, Ü30/Ü40/Ü60 Partys
+   - "musik" = Konzerte, Live-Musik, Tribute Shows, Bands
+   - "theater" = Theater, Schauspiel, Oper, Musical, Ballett, Kabarett, Comedy
+   - "kultur" = Ausstellungen, Lesungen, Vorträge, Museen, Workshops, Führungen, Märkte, Messen
+   - "sonstiges" = Sport, Kinder-Events, alles andere
+5. Der Ort (location) MUSS den tatsächlichen Veranstaltungsort enthalten (z.B. "Brunsviga", "Westand", "Staatstheater"). Wenn der Text von einer spezifischen Seite kommt, ist das meistens der Ort.
+6. Die Beschreibung soll kurz und informativ sein (max 1 Satz).
+7. Extrahiere JEDEN einzelnen Termin als separates Event, auch wenn mehrere am gleichen Tag stattfinden.
+8. Wenn der Text keine gültigen Events enthält, gib eine leere Liste zurück.
+
+WICHTIG: Sei gründlich! Überspringe KEIN Event, das ein erkennbares Datum hat.'''
+
+    def _extract_from_chunk(self, text_chunk: str, chunk_index: int = 0, total_chunks: int = 0) -> list:
+        """Send a single text chunk to the LLM and extract events."""
+        if total_chunks > 1:
+            print(f"  [KI] Verarbeite Abschnitt {chunk_index + 1}/{total_chunks} ({len(text_chunk)} Zeichen)...")
+            
+        try:
+            resp: EventList = self.client.chat.completions.create(
+                model=self.model_name,
+                messages=[
+                    {"role": "system", "content": self._build_system_prompt()},
+                    {"role": "user", "content": f"Extrahiere alle Events aus diesem Text:\n\n{text_chunk}"}
+                ],
+                response_model=EventList,
+                max_retries=1, # Reduced retries to avoid long hangs
+                temperature=0,
+                timeout=90.0, # Explicit timeout for the inference
+            )
+            return resp.events
+        except Exception as e:
+            # Check specifically for timeout
+            if "timeout" in str(e).lower():
+                print(f"  [LLM-Timeout] Abschnitt {chunk_index + 1} dauerte zu lange (90s). Überspringe.")
+            else:
+                print(f"  [LLM-Chunk-Error] Abschnitt {chunk_index + 1}: {e}")
+            return []
 
     def parse_events(self, raw_text: str) -> list:
-        """Sends raw text to the local LLM and asks for a structured JSON response."""
+        """Parses events from raw text, splitting into chunks if text is long."""
+        today = date.today()
         
-        system_prompt = '''You are an expert data extraction AI.
-        I will give you raw text scraped from an event website in Braunschweig.
-        Your job is to extract all upcoming events and return them EXACTLY as a JSON array of objects.
-        Do NOT output any other text, markdown formatting, or explanations. Just the JSON.
+        # Split into chunks of ~3500 chars at line boundaries
+        chunk_size = 3500
+        chunks = self._split_into_chunks(raw_text, chunk_size)
         
-        The JSON MUST follow this exact schema:
-        [
-          {
-            "title": "Name of the event",
-            "date": "YYYY-MM-DD",
-            "time": "HH:MM",
-            "location": "Name of the venue",
-            "category": "party" (Must be one of: party, kultur, musik, theater, sonstiges),
-            "description": "Short summary"
-          }
-        ]
+        print(f"Sending {len(chunks)} chunk(s) to {self.model_name} via Instructor...")
         
-        If no events are found, return exactly: []
-        '''
-        
-        # We might need to truncate raw_text if it's too large for the context window
-        max_chars = 15000 
-        if len(raw_text) > max_chars:
-            raw_text = str(raw_text)[:max_chars]
+        all_events = []
+        for i, chunk in enumerate(chunks):
+            # Diagnostic: print first few chars to identify what's being sent
+            preview = chunk[:200].replace('\n', ' ')
+            print(f"  [DEBUG] Chunk Preview: {preview}...")
             
-        prompt = f"{system_prompt}\n\nRAW TEXT:\n{raw_text}\n\nJSON OUTPUT:"
+            events = self._extract_from_chunk(chunk, i, len(chunks))
+            all_events.extend(events)
         
-        payload = {
-            "model": self.model_name,
-            "prompt": prompt,
-            "stream": False
-        }
+        # Post-processing: filter past events + deduplicate
+        valid_events = []
+        seen = set()
         
-        try:
-            print(f"Sending request to {self.model_name} (this might take a moment depending on your GPU/CPU)...")
-            response = requests.post(self.api_url, json=payload, timeout=600)
-            response.raise_for_status()
-            
-            result_json = response.json()
-            response_text = result_json.get("response", "").strip()
-            
-            print(f"---\nRAW LLM OUTPUT:\n{response_text[:500]}...\n---")
-            
+        for event in all_events:
             try:
-                # First try direct JSON parsing in case it correctly returned an array
-                parsed = json.loads(response_text)
-                if isinstance(parsed, list):
-                    return parsed
-                elif isinstance(parsed, dict) and "events" in parsed:
-                     # sometimes models wrap the array in an object
-                     return parsed["events"]
-            except json.JSONDecodeError:
-                pass
+                event_date = datetime.strptime(event.date, "%Y-%m-%d").date()
+                if event_date < today:
+                    print(f"  Filtered out past event: {event.title} ({event.date})")
+                    continue
+                    
+                # Deduplicate by title + date (case-insensitive)
+                dedup_key = f"{event.title.lower().strip()}-{event.date}"
+                if dedup_key in seen:
+                    print(f"  Filtered out duplicate: {event.title} ({event.date})")
+                    continue
+                seen.add(dedup_key)
+                
+                valid_events.append(event.model_dump())
+            except ValueError:
+                print(f"  Filtered out event with invalid date: {event.title} ({event.date})")
+        
+        return valid_events
 
-            # Fallback: Use regex to find the JSON array in case there is trailing/leading text or markdown blocks
-            response_text = re.sub(r'```json\s*', '', response_text)
-            response_text = re.sub(r'```\s*', '', response_text)
-            
-            match = re.search(r'\[.*\]', response_text, re.DOTALL)
-            if match:
-                clean_json = match.group(0)
-                try:
-                    events = json.loads(clean_json)
-                    return events
-                except json.JSONDecodeError:
-                    print("Could not find a valid JSON array in model output.")
-                    return []
-            else:
-                 print("Could not find a valid JSON array in model output.")
-                 return []
-            
-        except Exception as e:
-            print(f"Error communicating with local LLM or parsing output: {e}")
-            return []
+    def _split_into_chunks(self, text: str, max_chars: int) -> list:
+        """Split text into chunks at line boundaries, respecting max_chars."""
+        if len(text) <= max_chars:
+            return [text]
+        
+        chunks = []
+        lines = text.split('\n')
+        current_chunk = []
+        current_size = 0
+        
+        for line in lines:
+            line_len = len(line) + 1  # +1 for newline
+            if current_size + line_len > max_chars and current_chunk:
+                chunks.append('\n'.join(current_chunk))
+                current_chunk = []
+                current_size = 0
+            current_chunk.append(line)
+            current_size += line_len
+        
+        if current_chunk:
+            chunks.append('\n'.join(current_chunk))
+        
+        return chunks
