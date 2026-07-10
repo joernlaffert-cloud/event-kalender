@@ -7,203 +7,251 @@ X-WR-CALNAME:Braunschweig Party
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Party Events
 BEGIN:VEVENT
-UID:e97ab165-b58f-5a9f-b031-7449f59bcf10@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260509T200000
-SUMMARY:Ü60 PARTY – LEGENDEN UNTER SICH - Sa\, 9.5. ab 20 Uhr - Westand Braunschweig
-DESCRIPTION:Eine Ü60 Party.
-LOCATION:Westand Kultur- und Eventzentrum
+UID:5b297cce-f6e3-5440-8df5-8946646b071c@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260415T210000
+SUMMARY:Party '80er Nights'
+DESCRIPTION:Eine Party mit Musik und Stimmung aus den 80ern.\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:381\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:1b12d074-511f-509d-9623-dad9d6b29a55@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260319T200000
+UID:4745df9b-dbaf-5e07-b973-ee1fc2371e91@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T200000
+SUMMARY:Party Night
+DESCRIPTION:Eine Nacht voller Musik und Tanz mit den besten DJs der Stadt.\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:a66008a5-fb61-5dce-924b-9fa585d80532@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T200000
 SUMMARY:Tanz im Taproom
-DESCRIPTION:Ein Tanz im Taproom.
+DESCRIPTION:Tanzen Sie den Abend weg im Taproom.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
 LOCATION:National Jürgens Brauerei (Eingang B8)
 END:VEVENT
 BEGIN:VEVENT
-UID:1e076487-3fd7-5458-8384-acb1111fd371@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260517T190000
-SUMMARY:Ü30 Tanznacht
-DESCRIPTION:ABBA & 70er Jahre Special
-LOCATION:Braunschweig
+UID:be93421f-729a-5c25-9759-34f623a99a55@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260509T200000
+SUMMARY:Ü60 PARTY – LEGENDEN UNTER SICH
+DESCRIPTION:Eine Party für die älteren Semester mit legendärer Musik.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:westand Kultur- und Eventzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:6f238336-0ff5-5f50-aada-2decd6f02906@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260515T193000
-SUMMARY:Ü40 PARTY
-DESCRIPTION:The Music of My Life
-LOCATION:Braunschweig
+UID:6a9f5309-269f-5c80-ba5a-c73c381402b0@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T200000
+SUMMARY:Tanz im Taproom
+DESCRIPTION:Tanzen Sie den Abend weg im Taproom.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:National Jürgens Brauerei (Eingang B8)
 END:VEVENT
 BEGIN:VEVENT
-UID:23a1e39b-d01f-5ef5-a825-ccf6a8295bc9@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:47e233d6-e008-5d89-9486-9e89e3cf053a@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260516T210000
+SUMMARY:Ü30 Tanznacht - ABBA & 70er Jahre Special
+DESCRIPTION:Eine Ü30 Tanznacht mit ABBA und 70er Jahre Musik.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7f006-0999-533e-8754-8a61026a7d4b@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260514T190000
-SUMMARY:Ü60 Party
-DESCRIPTION:Event für die Generation\, die Ausgehen noch richtig gelernt hat
-LOCATION:Braunschweig
+SUMMARY:FROZEN PLASMA + DEPECHE MODE & DARK ELECTRO PARTY
+DESCRIPTION:Eine Party mit FROZEN PLASMA und DEPECHE MODE & DARK ELECTRO Musik.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:e87dcbba-38e6-5333-88df-8eff1038f725@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261107T200000
-SUMMARY:BIZARRE MONDAY REVIVAL KufA Haus
-DESCRIPTION:BIZARRE MONDAY REVIVAL KufA Haus
-LOCATION:KufA Haus
+UID:0163e7d4-6de0-57e0-901a-34e06e281bb2@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260516T210000
+SUMMARY:Ü30 Tanznacht
+DESCRIPTION:Tanznacht für die Generation Ü30 mit verschiedenen Musikstilen\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:92b24d90-0acc-5ba8-8867-eb75f58ee9f1@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260514T190000
+SUMMARY:Ü40 PARTY - The Music of My Life
+DESCRIPTION:Party für die Generation Ü40 mit Musik aus den verschiedenen Jahrzehnten\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:121441d0-4cbf-5599-8622-44d4521167a5@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260509T200000
+SUMMARY:Ü60 Party - Legenden unter sich
+DESCRIPTION:Braunschweig bekommt ein Event für die Generation\, die Ausgehen noch richtig gelernt hat\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:f79699df-6f75-53bf-8c5d-41297961a1db@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260327T210000
+SUMMARY:Party mit DJane X am Samstag
+DESCRIPTION:Tanz die Nacht weg zu den Hits von DJane X\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
 UID:f72c21da-e481-5f2a-a07f-60e0f5af392d@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261007T210000
 SUMMARY:Oldschool Party Nr. 13
-DESCRIPTION:Oldschool Party Nr. 13
+DESCRIPTION:Preis an AK\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:c73c8b4e-33ba-58ef-b9cf-6d23a318198d@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:828a86c0-f261-583e-bc82-442471514999@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260628T150000
-SUMMARY:80er Tanzcafé KufA Haus
-DESCRIPTION:80er Tanzcafé KufA Haus
+SUMMARY:80er Tanzcafé
+DESCRIPTION:Eintritt 8\,00 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:17adfd52-d2c3-5d3f-b200-99c3decd98b9@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260502T210000
-SUMMARY:Creatures Of The Night Vol. 5
-DESCRIPTION:Creatures Of The Night Vol. 5
+UID:e08062b1-ae20-5322-9c47-5104e7b0a1bd@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260531T150000
+SUMMARY:80er Tanzcafé
+DESCRIPTION:Eintritt 8\,00 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:60f229fe-7042-52b9-8c35-994fbfe846b3@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:216f664c-df70-5326-9508-63f9ca85d318@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260426T150000
-SUMMARY:80er Tanzcafé KufA Haus
-DESCRIPTION:80er Tanzcafé KufA Haus
+SUMMARY:80er Tanzcafé
+DESCRIPTION:Eintritt 8\,00 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
 UID:795cfe3f-e03b-5252-a1da-d1dc3663e9e0@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260418T180000
 SUMMARY:Ecstatic Dance Braunschweig - Resa
-DESCRIPTION:Ecstatic Dance Braunschweig - Resa
-LOCATION:Resa Octagon
+DESCRIPTION:Eintritt 18\,00 bis 28\,00 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Octagon
 END:VEVENT
 BEGIN:VEVENT
 UID:afdd7860-902e-5a8f-91f0-696a40413bcd@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260417T200000
 SUMMARY:Tanzbar w/Ministry Of Mixing
-DESCRIPTION:Tanzbar w/Ministry Of Mixing
+DESCRIPTION:Auf Spendenbasis\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:720b69ee-8708-5676-8c4a-f4e498cff5de@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260411T200000
-SUMMARY:RAVE REPEAT x PUREDJLEGENDS by Outside World Festival
-DESCRIPTION:RAVE REPEAT x PUREDJLEGENDS by Outside World Festival
-LOCATION:Millenium Event Center
-END:VEVENT
-BEGIN:VEVENT
-UID:93ccba37-27d4-5a2c-829e-d70e9fd31506@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260410T190000
-SUMMARY:Barhopping für Singles – Die Speeddating Alternative Braunschweig
-DESCRIPTION:Barhopping für Singles – Die Speeddating Alternative Braunschweig
-LOCATION:Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:b2c7b5c7-da37-5720-b4c3-c445af9c7cb7@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260409T200000
-SUMMARY:Das wird schön. Schön & Frölich
-DESCRIPTION:Das wird schön. Schön & Frölich
-LOCATION:Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:90d5543f-9ce4-5e9e-9224-b24753ff7706@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:c6eb8655-62d0-52db-b1bf-f861bcfbbdc6@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260329T150000
-SUMMARY:80er Tanzcafé KufA Haus
-DESCRIPTION:80er Tanzcafé KufA Haus
+SUMMARY:80er Tanzcafé
+DESCRIPTION:Eintritt 8\,00 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
 UID:2d736033-5aba-55d1-abd2-b81213faa952@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260328T210000
 SUMMARY:Oldschool Party Nr. 12
-DESCRIPTION:Oldschool Party Nr. 12
+DESCRIPTION:Preis an AK\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
 UID:6b323e5e-2e91-5eb6-b648-03c236489683@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260327T200000
 SUMMARY:Tanz im KufA Haus w/Olli & Matze
-DESCRIPTION:Tanz im KufA Haus w/Olli & Matze
+DESCRIPTION:Eintritt frei\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
 UID:bfc2eac7-4d15-5781-b7d2-4a118e8459f3@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260321T200000
 SUMMARY:Tanz im Taproom Braunschweig
-DESCRIPTION:Tanz im Taproom Braunschweig
-LOCATION:Braunschweig
+DESCRIPTION:Eintritt frei\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Taproom Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:03498a31-5b48-5816-aa29-87deb21dc138@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:9dd08d43-67b7-5d6b-a5f4-75b28c0ce6a8@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260321T180000
-SUMMARY:Ecstatic Dance Braunschweig - Trötenfreak
-DESCRIPTION:Ecstatic Dance Braunschweig - Trötenfreak
+SUMMARY:Ecstatic Dance Braunschweig
+DESCRIPTION:Eintritt 18\,00 bis 28\,00 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:Trötenfreak Octagon
 END:VEVENT
 BEGIN:VEVENT
-UID:fefbd637-ea36-561c-8157-9a1f319c7be7@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270317T200000
-SUMMARY:BORA\, Auf nach Bora Bora – All Inclusive
-DESCRIPTION:Clubnacht mit BORA
+UID:1e4257a7-821e-503d-a43e-7fa144e15052@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260501T200000
+SUMMARY:Tanz in den Mai
+DESCRIPTION:Eine große Tanzveranstaltung zum Einläuten des Maifestes.\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:db324c77-966b-5724-8789-c3df68af91f3@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261124T200000
-SUMMARY:DESiMOs Spezial Club\, Die Brunsviga-Mix-Show
-DESCRIPTION:Clubnacht mit DESiMOs
+UID:09820cf2-bac6-5f9a-ad47-6a9f3b4ce6c3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261027T200000
+SUMMARY:DESiMOs Spezial Club
+DESCRIPTION:Die Brunsviga-Mix-Show mit hochkarätigen Überraschungsgästen
 LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:a03f880f-7196-5454-9610-61259c522f14@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260919T200000
+SUMMARY:Tanzend ins Wochenende
+DESCRIPTION:mit DJ Ringo
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:5b79186b-7146-5f8b-8f68-3b2323a7d79c@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260918T200000
+SUMMARY:Tanzend ins Wochenende
+DESCRIPTION:Party mit DJ Ringo
+LOCATION:mit DJ Ringo
+END:VEVENT
+BEGIN:VEVENT
+UID:9a662478-c448-5df0-a10d-9c73741a9157@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260430T200000
+SUMMARY:Tanz in den Mai
+DESCRIPTION:mit DJ Soundschwester
+LOCATION:Tanz in den Mai
 END:VEVENT
 BEGIN:VEVENT
 UID:a437df8f-6eca-5db5-a070-4b2277e0229f@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260331T200000
 SUMMARY:DESiMOs Spezial Club
 DESCRIPTION:Die Brunsviga-Mix-Show mit hochkarätigen Überraschungsgästen
 LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:32e37013-e810-5c92-83c0-7a12951e2b9a@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260321T193000
+UID:1048bb5e-4545-5406-b4a2-51465b71c7ed@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260421T210000
+SUMMARY:Tanzparty mit DJ ABC
+DESCRIPTION:Tanzen Sie den ganzen Abend weg bei unserer Tanzparty mit DJ ABC.\n\nLink zur Quelle: https://www.lokpark.de/veranstaltungen/
+LOCATION:381
+END:VEVENT
+BEGIN:VEVENT
+UID:ea53eee9-e93c-591f-ac96-b1a198a30195@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260328T193000
 SUMMARY:Styx
-DESCRIPTION:Melanie Lane
+DESCRIPTION:Tanztheater von Melanie Lane\, Einführung 30 min vorher im Foyer Kleines Haus\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
 LOCATION:Kleines Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:312baae1-edc8-5cbd-95f5-d83676584c34@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260320T180000
-SUMMARY:Styx
-DESCRIPTION:Melanie Lane
-LOCATION:Kleines Haus
+UID:5c155c8e-538f-5436-95c8-3e830dee3825@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T200000
+SUMMARY:Party Night
+DESCRIPTION:Eine Nacht voller Musik und Tanz\n\nLink zur Quelle: https://www.stereowerk.de/events
+LOCATION:Brunsviga
 END:VEVENT
 END:VCALENDAR

@@ -28,18 +28,22 @@ class EventList(BaseModel):
     events: List[Event]
 
 class LLMEventParser:
-    def __init__(self, model_name="qwen2.5-coder:7b", api_url="http://127.0.0.1:11434/v1"):
+    def __init__(self, model_name="mistral-nemo", api_url="http://127.0.0.1:11434/v1", api_key="ollama"):
         self.model_name = model_name
         self.api_url = api_url
+        self.api_key = api_key
         
-        # Initialize instructor with the OpenAI compatible Ollama endpoint
         self.client = instructor.from_openai(
             OpenAI(
                 base_url=self.api_url,
-                api_key="ollama", # required by library but arbitrary for local Ollama
-                timeout=120.0,    # 2 minute timeout for long inferences
+                api_key=self.api_key, 
+                timeout=240.0,    # 4 minute total timeout
+                default_headers={
+                    "HTTP-Referer": "http://localhost:8081", # Required for OpenRouter
+                    "X-Title": "Braunschweig-Events Scraper",
+                }
             ),
-            mode=instructor.Mode.JSON,
+            mode=instructor.Mode.TOOLS,
         )
 
     def _build_system_prompt(self) -> str:
@@ -50,21 +54,23 @@ Heute ist der {today_str}.
 AUFGABE: Extrahiere ALLE kommenden Veranstaltungen (ab heute) aus dem gegebenen Text.
 
 REGELN:
-1. Jedes Event MUSS ein gültiges Datum im Format YYYY-MM-DD haben. Wenn kein Jahr angegeben ist, verwende 2026.
-2. Ignoriere vergangene Events (vor {today_str}).
-3. Wenn keine Uhrzeit angegeben ist, verwende "20:00" als Standardwert.
-4. Kategorisiere jedes Event als GENAU EINE der folgenden Kategorien:
-   - "party" = Clubnächte, DJ Sets, Tanzveranstaltungen, Ü30/Ü40/Ü60 Partys
-   - "musik" = Konzerte, Live-Musik, Tribute Shows, Bands
-   - "theater" = Theater, Schauspiel, Oper, Musical, Ballett, Kabarett, Comedy
-   - "kultur" = Ausstellungen, Lesungen, Vorträge, Museen, Workshops, Führungen, Märkte, Messen
-   - "sonstiges" = Sport, Kinder-Events, alles andere
-5. Der Ort (location) MUSS den tatsächlichen Veranstaltungsort enthalten (z.B. "Brunsviga", "Westand", "Staatstheater"). Wenn der Text von einer spezifischen Seite kommt, ist das meistens der Ort.
-6. Die Beschreibung soll kurz und informativ sein (max 1 Satz).
-7. Extrahiere JEDEN einzelnen Termin als separates Event, auch wenn mehrere am gleichen Tag stattfinden.
-8. Wenn der Text keine gültigen Events enthält, gib eine leere Liste zurück.
+1. DATUMS-FORMAT: Jedes Event MUSS ein Datum im Format YYYY-MM-DD haben.
+2. RELATIVE DATEN: Übersetze Begriffe wie "heute", "morgen", "dieses Wochenende" IMMER in das konkrete Datum basierend auf heute ({today_str}). Beispiel: Wenn heute 2026-03-18 ist, wird "heute" zu 2026-03-18.
+3. JAHR: Wenn kein Jahr angegeben ist, verwende 2026.
+4. FILTER: Ignoriere vergangene Events (vor {today_str}).
+5. STANDARD-ZEIT: Wenn keine Uhrzeit angegeben ist, verwende "20:00".
+6. KATEGORIEN: Verwende EXAKT eines der folgenden Literale:
+   - "party" = Clubnächte, Ü30/Ü40, Tanzparties
+   - "musik" = Konzerte, Live-Bands, Tribute Shows (KEINE Comedy!)
+   - "theater" = Theater, Comedy, Kabarett, Musical, Stand-Up
+   - "kultur" = Ausstellungen, Märkte, Lesungen, Workshops, Museen, Führungen
+   - "sonstiges" = Alles andere
+7. ORT (location): Enthalte den tatsächlichen Veranstaltungsort (z.B. "Brunsviga", "381", "Westand").
+8. BESCHREIBUNG: Kurz und informativ (max. 1 Satz).
+9. SPRACHE: Beschreibe das Event auf Deutsch.
+10. REPETITIVE EVENTS: Oft enthalten Webseiten lange Listen mit sehr ähnlichen Terminen (z.B. eine Comedy-Show an 10 verschiedenen Daten). Du MUSST JEDEN einzelnen Termin als eigenes Event extrahieren. Höre niemals in der Mitte auf, auch wenn sich die Titel oder Orte wiederholen.
 
-WICHTIG: Sei gründlich! Überspringe KEIN Event, das ein erkennbares Datum hat.'''
+WICHTIG: Sei absolut gründlich! Dein Ziel ist eine Vollständigkeit von 100%. Überspringe KEIN Event, das ein erkennbares Datum hat.'''
 
     def _extract_from_chunk(self, text_chunk: str, chunk_index: int = 0, total_chunks: int = 0) -> list:
         """Send a single text chunk to the LLM and extract events."""
@@ -79,35 +85,40 @@ WICHTIG: Sei gründlich! Überspringe KEIN Event, das ein erkennbares Datum hat.
                     {"role": "user", "content": f"Extrahiere alle Events aus diesem Text:\n\n{text_chunk}"}
                 ],
                 response_model=EventList,
-                max_retries=1, # Reduced retries to avoid long hangs
+                max_retries=1,
                 temperature=0,
-                timeout=90.0, # Explicit timeout for the inference
+                timeout=180.0, # Increased for 12B/14B models on consumer GPUs
             )
             return resp.events
         except Exception as e:
-            # Check specifically for timeout
-            if "timeout" in str(e).lower():
-                print(f"  [LLM-Timeout] Abschnitt {chunk_index + 1} dauerte zu lange (90s). Überspringe.")
+            error_msg = str(e)
+            if "timeout" in error_msg.lower():
+                print(f"  [LLM-Timeout] Abschnitt {chunk_index + 1} dauerte zu lange (180s). Überspringe.")
             else:
-                print(f"  [LLM-Chunk-Error] Abschnitt {chunk_index + 1}: {e}")
+                print(f"  [LLM-Error] Abschnitt {chunk_index + 1}: {e}")
             return []
 
     def parse_events(self, raw_text: str) -> list:
         """Parses events from raw text, splitting into chunks if text is long."""
         today = date.today()
         
-        # Split into chunks of ~3500 chars at line boundaries
-        chunk_size = 3500
-        chunks = self._split_into_chunks(raw_text, chunk_size)
-        
-        print(f"Sending {len(chunks)} chunk(s) to {self.model_name} via Instructor...")
+        # Adaptive chunk size based on model
+        # Larger chunks for small models (fast), smaller chunks for big models (quality/VRAM)
+        m_lower = self.model_name.lower()
+        if "12b" in m_lower or "14b" in m_lower or "nemo" in m_lower or "deepseek" in m_lower:
+            chunk_size = 1800  # Smaller chunks for high quality & VRAM protection
+        elif "7b" in m_lower:
+            chunk_size = 2500
+        elif "1b" in m_lower or "3b" in m_lower or "4b" in m_lower:
+            chunk_size = 2000  # Smaller models struggle with long context, so give them less at once
+        else:
+            chunk_size = 2500
+            
+        overlap = 500 # Ensure events split across line boundaries are not lost
+        chunks = self._split_into_chunks(raw_text, chunk_size, overlap)
         
         all_events = []
         for i, chunk in enumerate(chunks):
-            # Diagnostic: print first few chars to identify what's being sent
-            preview = chunk[:200].replace('\n', ' ')
-            print(f"  [DEBUG] Chunk Preview: {preview}...")
-            
             events = self._extract_from_chunk(chunk, i, len(chunks))
             all_events.extend(events)
         
@@ -117,26 +128,43 @@ WICHTIG: Sei gründlich! Überspringe KEIN Event, das ein erkennbares Datum hat.
         
         for event in all_events:
             try:
-                event_date = datetime.strptime(event.date, "%Y-%m-%d").date()
-                if event_date < today:
-                    print(f"  Filtered out past event: {event.title} ({event.date})")
+                # Basic validation: must have title and date
+                if not event.title or not event.date:
+                    continue
+                
+                # Robust date parsing
+                raw_date = event.date.strip()
+                event_date = None
+                
+                # Check different common formats
+                for fmt in ["%Y-%m-%d", "%Y/%m/%d", "%d.%m.%Y"]:
+                    try:
+                        event_date = datetime.strptime(raw_date, fmt).date()
+                        break
+                    except ValueError:
+                        continue
+                
+                if event_date is None:
+                    print(f"[LLM Parser] [WARN] Could not parse date format: {raw_date}")
                     continue
                     
-                # Deduplicate by title + date (case-insensitive)
-                dedup_key = f"{event.title.lower().strip()}-{event.date}"
+                if event_date < today:
+                    continue
+                    
+                # Use title, date and time as dedup key (time added for multiday events)
+                dedup_key = f"{event.title.lower().strip()}-{event.date}-{event.time}"
                 if dedup_key in seen:
-                    print(f"  Filtered out duplicate: {event.title} ({event.date})")
                     continue
                 seen.add(dedup_key)
                 
                 valid_events.append(event.model_dump())
-            except ValueError:
-                print(f"  Filtered out event with invalid date: {event.title} ({event.date})")
+            except (ValueError, AttributeError):
+                continue
         
         return valid_events
 
-    def _split_into_chunks(self, text: str, max_chars: int) -> list:
-        """Split text into chunks at line boundaries, respecting max_chars."""
+    def _split_into_chunks(self, text: str, max_chars: int, overlap: int) -> list:
+        """Split text into overlapping chunks at line boundaries."""
         if len(text) <= max_chars:
             return [text]
         
@@ -145,14 +173,29 @@ WICHTIG: Sei gründlich! Überspringe KEIN Event, das ein erkennbares Datum hat.
         current_chunk = []
         current_size = 0
         
-        for line in lines:
-            line_len = len(line) + 1  # +1 for newline
+        for i, line in enumerate(lines):
+            line_len = len(line) + 1
+            
             if current_size + line_len > max_chars and current_chunk:
-                chunks.append('\n'.join(current_chunk))
-                current_chunk = []
-                current_size = 0
-            current_chunk.append(line)
-            current_size += line_len
+                # Record this chunk
+                chunk_text = '\n'.join(current_chunk)
+                chunks.append(chunk_text)
+                
+                # Backtrack for overlap
+                # Find how many previous lines fit into the 'overlap' window
+                overlap_lines = []
+                overlap_size = 0
+                for back_line in reversed(current_chunk):
+                    if overlap_size + len(back_line) + 1 > overlap:
+                        break
+                    overlap_lines.insert(0, back_line)
+                    overlap_size += len(back_line) + 1
+                
+                current_chunk = overlap_lines + [line]
+                current_size = overlap_size + line_len
+            else:
+                current_chunk.append(line)
+                current_size += line_len
         
         if current_chunk:
             chunks.append('\n'.join(current_chunk))

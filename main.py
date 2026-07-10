@@ -15,7 +15,6 @@ class GenericWebScraper(EventScraper):
 
 from scrapers.stereowerk_scraper import StereowerkScraper
 from scrapers.rausgegangen_scraper import RausgegangenScraper
-from scrapers.brainklub_scraper import BrainKlubScraper
 from scrapers.konzertkasse_scraper import KonzertkasseScraper
 from scrapers.brunsviga_scraper import BrunsvigaScraper
 from scrapers.dieregion_scraper import DieRegionScraper
@@ -30,12 +29,11 @@ from scrapers.landesmuseen_scraper import LandesmuseenScraper
 from scrapers.eventbrite_scraper import EventbriteScraper
 from scrapers.loewen_scraper import LoewenScraper
 from scrapers.vhs_scraper import VHSScraper
+from scrapers.three_eight_one_scraper import ThreeEightOneScraper
 
 def load_sources_from_config(config_file="config.json", log_callback=print, enabled_scrapers=None):
-    print(f"DEBUG: Inside load_sources_from_config (manual override: {enabled_scrapers is not None})...")
     sources = []
     if not os.path.exists(config_file):
-        print("DEBUG: config_file not found")
         return sources
         
     try:
@@ -52,13 +50,10 @@ def load_sources_from_config(config_file="config.json", log_callback=print, enab
                 is_enabled = s.get("enabled", False)
 
             if is_enabled:
-                print(f"DEBUG: Initializing {name}...")
                 if name == "Stereowerk":
                     sources.append(StereowerkScraper())
                 elif name == "Rausgegangen":
                     sources.append(RausgegangenScraper())
-                elif name == "Brain Klub":
-                    sources.append(BrainKlubScraper())
                 elif name == "Konzertkasse":
                     sources.append(KonzertkasseScraper())
                 elif name == "Brunsviga":
@@ -87,6 +82,8 @@ def load_sources_from_config(config_file="config.json", log_callback=print, enab
                     sources.append(LoewenScraper())
                 elif name == "VHS Braunschweig":
                     sources.append(VHSScraper())
+                elif name == "381 Event Space":
+                    sources.append(ThreeEightOneScraper())
                 else:
                     sources.append(GenericWebScraper(name, s.get("url")))
     except Exception as e:
@@ -105,18 +102,15 @@ def get_all_scrapers(config_file="config.json"):
     except Exception:
         return []
 
-def run_pipeline(log_callback=print, event_callback=None, progress_callback=None, model_name="qwen2.5-coder:7b", stop_event=None, enabled_scrapers=None):
-    print("DEBUG: Inside run_pipeline...")
+def run_pipeline(log_callback=print, event_callback=None, progress_callback=None, model_name="mistral-nemo", stop_event=None, enabled_scrapers=None, provider="local", api_key="", api_url=""):
     if progress_callback: progress_callback({"phase": "init", "percent": 0, "detail": "Lade Konfiguration..."})
     log_callback("=== Braunschweig Event Calendar Automation ===")
     
-    print("DEBUG: Calling load_sources_from_config...")
     sources = load_sources_from_config(log_callback=log_callback, enabled_scrapers=enabled_scrapers)
     
     if enabled_scrapers is not None:
         log_callback(f"Filter aktiv: Nutze {len(sources)} von {len(get_all_scrapers())} verfügbaren Quellen.")
         
-    print("DEBUG: Finished load_sources_from_config...")
     if not sources:
         log_callback("No active sources found in config.json. Please enable some and try again.")
         return
@@ -143,8 +137,11 @@ def run_pipeline(log_callback=print, event_callback=None, progress_callback=None
             log_callback(f"[ERROR] Error gathering text from {source.name}: {e}")
             
     # 2. Extract Event JSON via Local LLM
-    log_callback("\nStarting LLM Extraction via Qwen and Instructor...")
-    parser = LLMEventParser(model_name=model_name)
+    log_callback(f"\nStarting LLM Extraction via {model_name} ({provider})...")
+    if provider in ["api", "gemini", "groq"]:
+        parser = LLMEventParser(model_name=model_name, api_url=api_url, api_key=api_key)
+    else:
+        parser = LLMEventParser(model_name=model_name)
     parsed_events = []
     
     # Build a map of source name -> URL for linking
@@ -200,13 +197,8 @@ def build_ics_from_events(events, log_callback=print):
     if events:
         log_callback("Building ICS Calendars...")
         builder = ICSBuilder()
-        # Remove extra keys that ICS builder doesn't need
-        clean_events = []
-        for ev in events:
-            clean = {k: v for k, v in ev.items() if k not in ("source_url", "source_name")}
-            clean_events.append(clean)
-        builder.build_calendars(clean_events)
-        log_callback(f"Done! {len(clean_events)} events in ICS-Dateien geschrieben.")
+        builder.build_calendars(events)
+        log_callback(f"Done! {len(events)} events in ICS-Dateien geschrieben.")
     else:
         log_callback("No events to build calendars from.")
 

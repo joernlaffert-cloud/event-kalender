@@ -7,851 +7,1467 @@ X-WR-CALNAME:Braunschweig Musik
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Musik Events
 BEGIN:VEVENT
+UID:2a02cbdb-33e6-5cc7-bebd-f4b79dbdd50f@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T200000
+SUMMARY:Konzert: H1 Live
+DESCRIPTION:Alles war rosarot - bis es echt wurde.\n\nLink zur Quelle: https://381.de/visiting/events/latest
+LOCATION:381 Event Space
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e3a300-cc3b-5305-8578-e7a13f63a101@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260323T200000
+SUMMARY:Konzert: H1 Live
+DESCRIPTION:Alles war rosarot - bis es echt wurde. Im 381 Event Space! Jetzt Tickets sichern!\n\nLink zur Quelle: https://381.de/visiting/events/latest
+LOCATION:381 Event Space
+END:VEVENT
+BEGIN:VEVENT
+UID:d67bf4b2-781a-5db2-86c4-b75508367e3b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260327T190000
+SUMMARY:Metalabend vom hotel666 Metalclub e.V.
+DESCRIPTION:Erlebt einen Abend voller Bässe\, Riffs und Moshpit-Vibes\n\nLink zur Quelle: https://381.de/visiting/events/latest
+LOCATION:381 Event Space
+END:VEVENT
+BEGIN:VEVENT
+UID:5f572005-765b-5e5d-be29-83ff27ce6d64@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260529T200000
+SUMMARY:English for Tourists Level A2 - Get ready for Great Britain!
+DESCRIPTION:Ein Kompaktkurs über English for Tourists.\n\nLink zur Quelle: https://www.vhs-braunschweig.de
+LOCATION:Kompaktkurs an einem Wochenende
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1c48d2-f242-59be-ae79-8d99ef925f5b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260529T200000
+SUMMARY:Business English für den Berufsalltag Level A2 - Online
+DESCRIPTION:Ein Online-Kurs über Business English.\n\nLink zur Quelle: https://www.vhs-braunschweig.de
+LOCATION:Bildungsurlaub an 5 Freitagen
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ba08d3-daae-5fc1-adbe-5dbd9c2d29c0@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261112T183000
+SUMMARY:Basketball Löwen Braunschweig vs KB Trepca
+DESCRIPTION:FIBA Europe Cup\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:55a03731-6bc5-54cb-9384-74b6c897e6b7@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261107T200000
+SUMMARY:Basketball Löwen Braunschweig vs Veolia Towers Hamburg
+DESCRIPTION:BBL\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b96d9b-3c91-58ab-a1d4-cc3fbd480830@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261104T183000
+SUMMARY:Anwil Wloclawek vs Basketball Löwen Braunschweig
+DESCRIPTION:FIBA Europe Cup\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Wloclawek
+END:VEVENT
+BEGIN:VEVENT
+UID:5bce2128-7bbe-5cc1-8619-c07dd344a8d6@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261101T200000
+SUMMARY:NINERS Chemnitz vs Basketball Löwen Braunschweig
+DESCRIPTION:BBL\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Chemnitz
+END:VEVENT
+BEGIN:VEVENT
+UID:ef6b47f0-8156-57b7-b4d3-f8ae9b3d3ee4@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261029T183000
+SUMMARY:Basketball Löwen Braunschweig vs PAOK BC
+DESCRIPTION:FIBA Europe Cup\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:c54618c4-a9be-5f0d-8b4c-9d91f560c2ab@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261026T163000
+SUMMARY:Basketball Löwen Braunschweig vs ROSTOCK SEAWOLVES
+DESCRIPTION:BBL\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:ae3c3b27-34d2-5197-ad40-05a24d481209@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261022T183000
+SUMMARY:Basketball Löwen Braunschweig vs KB Trepca
+DESCRIPTION:FIBA Europe Cup\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:1ee7bad8-ae51-5582-9fce-c3f072c053c0@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+SUMMARY:FC Bayern München Basketball vs Basketball Löwen Braunschweig
+DESCRIPTION:BBL_CUP\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:München
+END:VEVENT
+BEGIN:VEVENT
+UID:12866397-610a-53c4-96b3-e6391b93fa71@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261015T183000
+SUMMARY:Basketball Löwen Braunschweig vs Anwil Wloclawek
+DESCRIPTION:FIBA Europe Cup\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:7d71a201-140e-5bc2-8993-000a37c7557a@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261012T150000
+SUMMARY:VET-CONCEPT Gladiators Trier vs Basketball Löwen Braunschweig
+DESCRIPTION:FIBA Europe Cup\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Trier
+END:VEVENT
+BEGIN:VEVENT
+UID:35ae0664-9128-5263-ad28-eba792c54b08@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261005T150000
+SUMMARY:Basketball Löwen Braunschweig vs SKYLINERS
+DESCRIPTION:BBL\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf6c3ef-0443-577f-a178-8a4646d0a896@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261002T183000
+SUMMARY:Fitness First Würzburg Baskets vs Basketball Löwen Braunschweig
+DESCRIPTION:BBL\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Würzburg
+END:VEVENT
+BEGIN:VEVENT
+UID:b1ecd121-fe59-50c4-96b8-c2916fa8c9d3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260927T183000
+SUMMARY:Basketball Löwen Braunschweig vs BMA365 Bamberg Baskets
+DESCRIPTION:BBL\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:92305832-8019-56a4-a235-7a0df97576ce@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260919T174500
+SUMMARY:Bursaspor Basketbol vs Basketball Löwen Braunschweig
+DESCRIPTION:BBL\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:tba
+END:VEVENT
+BEGIN:VEVENT
+UID:d984c8bd-eee5-5b25-a3db-edb8bcb3d1e4@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260914T150000
+SUMMARY:EWE Baskets Oldenburg vs Basketball Löwen Braunschweig
+DESCRIPTION:Basketball Champions League Qualifiers\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Oldenburg
+END:VEVENT
+BEGIN:VEVENT
+UID:acefa749-2def-5ee9-8bf5-2b68008b41ad@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T200000
+SUMMARY:Konzert mit der Band XYZ
+DESCRIPTION:Ein Konzert mit der populären Band XYZ.\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Brunsviga\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:d321c026-4c10-5e2c-84a1-3487f8fe6e81@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T180000
+SUMMARY:Basketball Löwen Braunschweig vs. EWE Baskets Oldenburg
+DESCRIPTION:Das Basketballspiel zwischen den Löwen Braunschweig und den EWE Baskets Oldenburg.\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Audi Dome\, München
+END:VEVENT
+BEGIN:VEVENT
+UID:60f23e8a-6bac-565c-b47f-7f406a665a6e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260401T200000
+SUMMARY:Live-Konzert mit XYZ Band
+DESCRIPTION:Die beliebte Band XYZ spielt live ihre größten Hits.\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Westand
+END:VEVENT
+BEGIN:VEVENT
+UID:28396819-05f4-5c50-834e-160a0272a1d0@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260408T193000
+SUMMARY:A lo Cubano
+DESCRIPTION:Cuban music and dance event\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:#7
+END:VEVENT
+BEGIN:VEVENT
 UID:d845cd77-727f-5418-9cca-0141ac713a98@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260425T140000
 SUMMARY:Zwergbeats
-DESCRIPTION:Ein Live-Show von Zwergbeats.
+DESCRIPTION:Erleben Sie die Zwergbeats live auf der Bühne.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
 LOCATION:Etage Eins
 END:VEVENT
 BEGIN:VEVENT
+UID:a9acb3d2-cefc-5d4a-8132-261cc16acb6b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260523T220000
+SUMMARY:ONCE AGAIN • THE GRAND OPENING
+DESCRIPTION:Erleben Sie den Grand Opening von Once Again im Stereowerk.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:Stereowerk
+END:VEVENT
+BEGIN:VEVENT
 UID:9ba3efb4-3c65-5f8e-b802-4205527d4fe3@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260328T230000
 SUMMARY:ХАНЗА I KHANZA LIVE PRIVILEG CLUB I BRAUNSCHWEIG
-DESCRIPTION:Ein Live-Show von ХАНЗА.
+DESCRIPTION:Live-Musik von ХАНЗА und KHANZA im Privileg Club.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
 LOCATION:Privileg Club
 END:VEVENT
 BEGIN:VEVENT
-UID:50fee8eb-f64f-53ca-9067-6f68acd2341c@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270430T201500
-SUMMARY:KrawallBrüder Tour '1993'
-DESCRIPTION:Tour by KrawallBrüder with '1993' theme.
-LOCATION:Westend (details not specified)
+UID:4efa9866-ffe7-5154-b352-cfb2322939fa@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260322T150000
+SUMMARY:Rendezvous mit dem Löwen
+DESCRIPTION:Eine Führung durch die neue Mittelalterausstellung\n\nLink zur Quelle: https://3landesmuseen-braunschweig.de/kalender
+LOCATION:Herzog Anton Ulrich-Museum
 END:VEVENT
 BEGIN:VEVENT
-UID:1ee1ab1b-06ba-56bb-bd76-4bf63aabfd29@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:f0006ac4-355c-550c-8d72-09a276702928@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20270430T201500
-SUMMARY:LETZ-ZEP „Zeppelin's Resurrection"
-DESCRIPTION:Authentic Led Zeppelin tribute band.
-LOCATION:Westend (details not specified)
+SUMMARY:KrawallBrüder
+DESCRIPTION:Tour "1993"!\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
-UID:7770c24b-2fe9-5245-9992-7fe3ff3050d8@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:16dd4638-4d1d-5d16-a9b4-c4fdae6d9fb2@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20270417T200000
-SUMMARY:Troglauer
-DESCRIPTION:Rock show by Troglauer.
-LOCATION:Westend (details not specified)
+SUMMARY:LETZ-ZEP „Zeppelin's Resurrection“
+DESCRIPTION:UK‘S MOST AUTHENTIC LED ZEPPELIN TRIBUTE BAND TO BE A ROCK AND NOT TO ROLL\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Westand
+END:VEVENT
+BEGIN:VEVENT
+UID:41199241-28cc-530d-8788-2f3531c5eb6c@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270225T200000
+SUMMARY:STEVE'N'SEAGULLS
+DESCRIPTION:THE DARK SIDE OF THE MOO PART II\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
 UID:0bd80b58-4154-53ed-80c6-203a997741d8@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261120T200000
 SUMMARY:Abba - Unforgettable
-DESCRIPTION:Dancing Queen-themed show with Abba.
-LOCATION:Westend (details not specified)
+DESCRIPTION:...vielleicht sind Sie bald unsere nächste „Dancing Queen“!?\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
-UID:73e30bb5-5ee4-5454-8cb0-272c653ddbe1@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:aa7da92a-1516-5158-8f1e-89095914367f@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261119T200000
-SUMMARY:Magie der Travestie Die Nacht der Ikonen
-DESCRIPTION:Travesty show featuring music legends.
-LOCATION:Westend (details not specified)
+SUMMARY:Magie der Travestie
+DESCRIPTION:Travestie trifft Musiklegenden: Große Stars. Große Stimmen. Große Looks.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
-UID:6052846c-e9c3-53dc-9e20-eb318dad8e7f@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261109T200000
-SUMMARY:PAWEL POPOLSKI PolkaMania
-DESCRIPTION:Polka-themed show by Pawel Popolksi.
-LOCATION:Westend (details not specified)
+UID:d09aac8f-ec4f-5a4b-9d12-e395e90a098b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261206T200000
+SUMMARY:STEVE'N'SEAGULLS
+DESCRIPTION:Link zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:THE DARK SIDE OF THE MOO PART II
 END:VEVENT
 BEGIN:VEVENT
-UID:b11535b7-cb4b-5c53-bd37-4a6d3e0a13d4@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:34a61602-12e6-54ab-a2a5-4b4024679e12@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+SUMMARY:Abba - Unforgettable
+DESCRIPTION:Link zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:...vielleicht sind Sie bald unsere nächste "Dancing Queen"!?
+END:VEVENT
+BEGIN:VEVENT
+UID:507cd647-95d1-5db7-af52-8fad79ddb303@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261107T200000
-SUMMARY:Maybebop Vier Typen. Vier Mikrofone. Sonst nichts.
-DESCRIPTION:Four types\, four microphones\, nothing else.
-LOCATION:Westend (details not specified)
+SUMMARY:PAWEL POPOLSKI
+DESCRIPTION:Link zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:PolkaMania
 END:VEVENT
 BEGIN:VEVENT
-UID:6d78c415-ae58-5a31-83df-f83b4d2f2358@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:ad1a0a57-604a-5658-844f-e0852d5fac37@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261029T200000
-SUMMARY:Kuult Polaroid Tour
-DESCRIPTION:Polaroid-themed tour by Kuult.
-LOCATION:Westend (details not specified)
+SUMMARY:Maybebop
+DESCRIPTION:Link zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Vier Typen. Vier Mikrofone. Sonst nichts.
 END:VEVENT
 BEGIN:VEVENT
-UID:df2ea6e2-22f4-572a-a898-9ac64efa9617@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:52b12322-443f-509b-985e-81c8084607b0@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
-SUMMARY:Angelo Kelly & Band Ready to Rock - Tour 2026
-DESCRIPTION:Rock tour with Angelo Kelly and his band.
-LOCATION:Westend (details not specified)
+SUMMARY:Kuult
+DESCRIPTION:Link zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Polaroid Tour
 END:VEVENT
 BEGIN:VEVENT
-UID:95a81139-13d9-54f4-9a95-878241cc2b90@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:44cc368d-bb4a-5261-8346-71edb7f533aa@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261018T190000
-SUMMARY:Joel Brandenstein Emotionen II Tour
-DESCRIPTION:Drummed-up gangster satire with surprises.
-LOCATION:Westend (details not specified)
+SUMMARY:Angelo Kelly & Band
+DESCRIPTION:Link zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Ready to Rock - Tour 2026
 END:VEVENT
 BEGIN:VEVENT
-UID:d1ddd06e-0aa3-5802-a892-1b01ef9cce18@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:69178bde-d0ea-581a-a801-dc1038935a02@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
-SUMMARY:Backstreet Noise with Schlagzeugmafia
-DESCRIPTION:Drummed-up gangster satire with surprises.
-LOCATION:Westend (details not specified)
+SUMMARY:Joel Brandenstein
+DESCRIPTION:Eine getrommelte Gangster-Satire voller Überraschungen\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Emotionen II Tour
 END:VEVENT
 BEGIN:VEVENT
-UID:03ce6717-df1f-5288-a88c-bf2e71a06d29@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:b8d66b94-f2f3-5aa4-856f-b739ce21ba82@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
-SUMMARY:DIE REIMANNS Live Show
-DESCRIPTION:Personal and close live show 'Sabbelstunde mit Manu und Konny'
-LOCATION:Westend (details not specified)
+SUMMARY:Schlagzeugmafia
+DESCRIPTION:Eine getrommelte Gangster-Satire voller Überraschungen\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Backstreet Noise
 END:VEVENT
 BEGIN:VEVENT
-UID:31d94dda-f370-5e36-94df-e1d6614a77ea@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:eecfbffb-e510-5226-a393-349b9635db21@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261013T200000
-SUMMARY:DER PHYSIOPATH Live Show
-DESCRIPTION:Humor-filled live show with a new program 'Machen Sie sich bitte frei!'
-LOCATION:Westend (details not specified)
-END:VEVENT
-BEGIN:VEVENT
-UID:b3673833-a823-5056-af19-c0027b4d34d7@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261011T190000
-SUMMARY:Living Theory Tribute Show
-DESCRIPTION:Living Theory tribute show with energy\, power\, and attention to detail.
-LOCATION:Westend (details not specified)
+SUMMARY:DIE REIMANNS
+DESCRIPTION:Im kommenden Jahr gehen DIE REIMANNS mit einem persönlichen und nahbaren Live-Programm "Sabbelstunde mit Manu und Konny" endlich wieder auf Deutschland-Tour und bringen ihre Geschichten direkt auf die Bühne.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Im kommenden Jahr gehen DIE REIMANNS mit einem persönlichen und nahbaren Live-Programm "Sabbelstunde mit Manu und Konny" endlich wieder auf Deutschland-Tour und bringen ihre Geschichten direkt auf die Bühne.
 END:VEVENT
 BEGIN:VEVENT
 UID:9ca60518-2fa1-5425-9bcf-b98f03b94615@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261010T200000
 SUMMARY:LIVING THEORY
-DESCRIPTION:WORLDWIDE TRIBUTE TO LINKIN PARK
+DESCRIPTION:Energie\, Power\, viel Liebe zum Detail – das sind Living Theory.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:WORLDWIDE TRIBUTE TO LINKIN PARK
+END:VEVENT
+BEGIN:VEVENT
+UID:32e44b59-2ef8-5167-906f-d575dd37d690@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261011T190000
+SUMMARY:LIVING THEORY
+DESCRIPTION:WORLDWIDE TRIBUTE TO LINKIN PARK\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:9de1db92-5f3f-5838-a3e9-5549b6a5df70@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261001T200000
+UID:95c71740-a9b0-59b8-8715-aeb6841b750f@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261010T200000
 SUMMARY:ASSANE BADIANE
-DESCRIPTION:Freundeskreis
+DESCRIPTION:Freundeskreis\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:6440c2a7-646f-5c69-92e8-fd3502035e69@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260920T190000
+UID:c64afd7a-8b40-5a13-8515-995c5119d0a7@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
 SUMMARY:Simon & Garfunkel Revival Band
-DESCRIPTION:Feelin' Groovy
+DESCRIPTION:Feelin' Groovy\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:f966b55c-5a49-5322-8b5d-029fd693b80f@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260913T190000
+UID:8befef09-4109-5e6b-b558-f58aa7de16cb@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260920T190000
 SUMMARY:Die große Roland Kaiser Nacht
-DESCRIPTION:Die größten Hits live
+DESCRIPTION:Die größten Hits live\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:9f70ff76-6242-5834-b1b7-e70a55989864@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260903T200000
+UID:3dc7054c-7af7-54eb-a341-585ed19b6431@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260913T190000
 SUMMARY:YASS - ROCKING THE CENTURY
-DESCRIPTION:Eine immersive Live-Show über 100 Jahre Musikkultur
+DESCRIPTION:Eine immersive Live-Show über 100 Jahre Musikkultur\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:b91bef3e-ab6f-51d0-8fda-c832d73d1054@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260819T200000
+UID:41b36fac-5170-517d-bb0f-e4b7fb581d64@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260903T200000
 SUMMARY:ROSE TATTOO
-DESCRIPTION:Konzert der Band ROSE TATTOO
+DESCRIPTION:Nach fünf Jahrzehnten unermüdlichen RocknRoll kündigt die Band um Frontmann Angry Anderson ihre letzte Europatournee für 2026 an.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:4c3643cf-57b5-5674-a7c2-17685f14d30b@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260629T193000
+UID:8dbafc42-f4bc-55cd-8317-87e1ce1a87ff@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260819T200000
 SUMMARY:DIE CLEMENTA
-DESCRIPTION:Scheiß auf Yoga in BRAUNSCHWEIG
+DESCRIPTION:Scheiß auf Yoga\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:09fae88e-e972-591c-a807-5180f0646a89@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260616T190000
+UID:bc09767b-420d-5d18-83de-dde30bcca2d1@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260629T193000
 SUMMARY:CATCH YOUR BREATH
-DESCRIPTION:WE CAME AS ROMANS
+DESCRIPTION:WE CAME AS ROMANS\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:4257a385-ba20-5240-94b8-df3d5808384a@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260616T190000
+SUMMARY:REEB LIVE
+DESCRIPTION:Link zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:390d5d21-0b48-5bd8-ab90-0f37833adae8@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260607T180000
+SUMMARY:Keimzeit
+DESCRIPTION:Die Tour zum neuen Album\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:83ee6548-8cd6-5d01-afc5-45fb7c43f9e5@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260616T190000
+SUMMARY:CATCH YOUR BREATH - WE CAME AS ROMANS
+DESCRIPTION:Ein Konzert von WE CAME AS ROMANS.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
 UID:2114bd64-1c7c-5b5d-b1b7-cd6e3273168f@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260611T190000
 SUMMARY:REEB LIVE
-DESCRIPTION:Konzert
-LOCATION:Braunschweig
+DESCRIPTION:Ein Konzert von REEB.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:64bd39ed-5a35-5045-ae74-940d33bedac8@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:c270213f-be6e-5b8e-a723-2c67946b6db8@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260606T200000
-SUMMARY:Keimzeit 2026
-DESCRIPTION:Die Tour zum neuen Album
-LOCATION:Braunschweig
+SUMMARY:Keimzeit 2026 - Die Tour zum neuen Album
+DESCRIPTION:Ein Konzert von Keimzeit auf ihrer Tour zum neuen Album.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:55e0978b-f5e4-50d7-b88a-4e9d5b8cc6f6@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:9577a039-5781-5c47-9ee5-593bb4c6e1fa@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260603T193000
-SUMMARY:Storytelling Piano
-DESCRIPTION:Konzert
-LOCATION:Braunschweig
+SUMMARY:Storytelling Piano - Emotion\, Inspiration und Energie
+DESCRIPTION:Ein zweistündiger Klavierabend voller Emotion\, Inspiration und Energie.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:e057ff57-34bf-5205-a9e4-e856874444e5@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:20455043-244d-5888-9c04-a9b5536fbd04@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260602T193000
-SUMMARY:Storytelling Piano
-DESCRIPTION:Konzert
-LOCATION:Braunschweig
+SUMMARY:Storytelling Piano - Emotion\, Inspiration und Energie
+DESCRIPTION:Ein zweistündiger Klavierabend voller Emotion\, Inspiration und Energie.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:07fb3cae-995c-5ddb-9ed8-b18f859ccab8@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:4e98d667-bda3-5380-8bb4-09a80d374a0e@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260531T183000
-SUMMARY:K-POP SHOWDOWN
-DESCRIPTION:The Ultimate Tribute Show
-LOCATION:Braunschweig
+SUMMARY:K-POP SHOWDOWN - The Ultimate Tribute Show
+DESCRIPTION:Eine Tribute Show zu K-Pop.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:535ba6ae-3bb0-5ab4-b727-6e8ffac0a46c@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260520T200000
-SUMMARY:Mr. Yasin
-DESCRIPTION:The HypnoX Show
-LOCATION:Braunschweig
+UID:17a8a4bb-c89f-5e17-b34c-650d3bdc92a7@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260515T193000
+SUMMARY:ROTERSAND + Special Guest: YMAY - Live in Concert
+DESCRIPTION:Ein Konzert von ROTERSAND mit Special Guest YMAY.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:06b0f18c-6f17-5e65-bd8a-d2ce137d3e95@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260516T210000
-SUMMARY:ABBA TRIBUTE SHOW
-DESCRIPTION:Tribute Show zu ABBA
-LOCATION:Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:93dd40e9-ce9e-5ba5-8ea8-f9c80091734e@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:ad515272-b039-5d08-8687-fc8e010813a5@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260516T190000
-SUMMARY:WORLD OF 90s
-DESCRIPTION:Konzert
-LOCATION:Braunschweig
+SUMMARY:ABBA TRIBUTE SHOW by SUPER SWEDE
+DESCRIPTION:Tribute Show zu ABBA mit der Band Super Swede\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:8cb2ef26-eb45-5f0a-93aa-6d7ea76762c3@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:eb6d8d78-6aa5-51e9-9d10-fde14651d401@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260515T210000
-SUMMARY:ROTERSAND + Special Guest: YMAY
-DESCRIPTION:Live in Concert
-LOCATION:Braunschweig
+SUMMARY:WORLD OF 90s
+DESCRIPTION:Party mit den besten Hits der 90er Jahre\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:54e6e32a-177c-5089-a030-a0a60badeaca@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260509T200000
-SUMMARY:ReMode
-DESCRIPTION:Tribute Show zum Band Depeche Mode
-LOCATION:Braunschweig
+UID:3919bfa8-26e4-520b-9f61-156b2a347a65@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260515T193000
+SUMMARY:ROTERSAND + Special Guest: YMAY Live in Concert
+DESCRIPTION:Live-Konzert von RoterSand und Special Guest YMAY\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:928f3a4b-4c3a-5865-89ac-7618a3d4bdda@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:b29541b1-6fc2-58c1-b74a-5dab73daf0d3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260513T193000
+SUMMARY:FROZEN PLASMA + DEPECHE MODE & DARK ELECTRO PARTY
+DESCRIPTION:Live-Konzert von Frozen Plasma und Dark Electro Party\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:a1dfa1bb-de96-57cb-ac63-0e3c68d0c100@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260508T200000
+SUMMARY:ReMode - The Music of Depeche Mode
+DESCRIPTION:Tribute Show zu Depeche Mode\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:c5723306-b7db-5a45-b934-180eda4ec987@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260504T200000
 SUMMARY:ROGER G.
-DESCRIPTION:Konzert des Rockers Roger G.
-LOCATION:Braunschweig
+DESCRIPTION:Live-Konzert von Roger G.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
 UID:7e5ae9b9-c944-523e-939f-f2d2717f4e8f@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260503T200000
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260503T193000
 SUMMARY:MILLENIUMKID
-DESCRIPTION:Emotionelle Live-Shows mit elektronischem Drive und tiefen Momenten
-LOCATION:Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:67c6c3d5-882e-5ca8-bf7d-d5bf0a160c69@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260502T193000
-SUMMARY:FireWall 2026
-DESCRIPTION:Konzert mit Wrestlers und internationalen Gästen
-LOCATION:Westand
+DESCRIPTION:Mit der Schwerelos Tour bringt MILLENIUMKID emotionalen\, energiegeladen Sound auf die Bühne\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
 UID:5ae58d13-9825-59f3-8be2-a31cb9328d21@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260430T200000
 SUMMARY:Alte Bekannte
-DESCRIPTION:Mehr! - Live
-LOCATION:Westand
+DESCRIPTION:Mehr! - Live-Konzert von Alte Bekannte\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
 UID:85b0dcdf-f615-53bc-86b4-6741faea1f89@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260426T153000
 SUMMARY:The Jazz Room
-DESCRIPTION:Eine Reise in das Herz von New Orleans
-LOCATION:Westand
+DESCRIPTION:Eine Reise in das Herz von New Orleans mit Live-Jazz-Musik\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:c84fe792-da06-590d-99c5-0af3f468d220@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260502T180000
+SUMMARY:Alte Bekannte
+DESCRIPTION:Mehr! - Live\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:321d5bcc-1c7b-568e-851f-aee0f97f01d6@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260424T200000
 SUMMARY:PHILLIP BOA AND THE VOODOOCLUB
-DESCRIPTION:
-LOCATION:Westand
-END:VEVENT
-BEGIN:VEVENT
-UID:3f5036d4-0cb9-5c8f-8e03-686f697691ad@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260419T200000
-SUMMARY:Bernd Hackl ON STAGE
-DESCRIPTION:„Ohne Brems’ und Lenkung“!
-LOCATION:Westand
-END:VEVENT
-BEGIN:VEVENT
-UID:6cd7f84f-70b7-5b66-aa17-005442313afb@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260418T200000
-SUMMARY:URBAN PRIOL
-DESCRIPTION:Im Fluss. Täglich quellfrisch\, immer aktuell
-LOCATION:Westand
+DESCRIPTION:Link zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:1b200496-2d74-52de-bd0d-127aec33e22b@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260417T200000
 SUMMARY:100 Kilo Herz
-DESCRIPTION:Hallo\, Startblock Tour 2026
-LOCATION:Westand
+DESCRIPTION:Hallo\, Startblock Tour 2026\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:d7287421-2144-5275-8aca-1d4850c94cdc@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260416T200000
 SUMMARY:Unantastbar
-DESCRIPTION:FOR IMMER WIR TOUR - DEUTSCHLAND
-LOCATION:Westand
+DESCRIPTION:FÜR IMMER WIR TOUR - DEUTSCHLAND\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:c4f257b6-a283-54f4-ad32-b42933137cf6@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260411T200000
 SUMMARY:GLORREICHE HALUNKEN
-DESCRIPTION:TRIBUTE TO BÖHSE ONKELZ
+DESCRIPTION:TRIBUTE TO BÖHSE ONKELZ\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b9c0b4-56a6-5c8c-8acf-3ebfffbb89e0@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260329T170000
+SUMMARY:World of 80s
+DESCRIPTION:Braunschweig feiert die 80er!\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:6a902d7e-36b0-50fb-a3b6-594d1c43b3c6@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260329T170000
+SUMMARY:Mellow - Blow Your Mind!
+DESCRIPTION:Magie & Illusionen Live!\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
-UID:d0de89f9-9195-5564-87af-b709060d1c82@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260318T160000
-SUMMARY:ANOUK
-DESCRIPTION:ANOUK ist das neue und mit Spannung erwartete Kindermusical für die ganze Familie.
+UID:d0873a2e-964f-5842-b995-333f5d57a475@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260328T200000
+SUMMARY:World of 80s - Braunschweig feiert die 80er!
+DESCRIPTION:Braunschweig feiert die 80er!\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
-UID:262f47c9-d536-58c1-acc3-c695ae75079e@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T200000
-SUMMARY:Hellfire
-DESCRIPTION:A Tribute to AC/DC
+UID:1d7e27b7-b7b8-5ac3-aac6-dd36d4a9c7ec@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T190000
+SUMMARY:KATAKLYSM - Live Konzert
+DESCRIPTION:Seit fast drei Jahrzehnten steht KATAKLYSM für kompromisslosen\, energiegeladenen Melodic Death Metal\, der weltweit Bühnen erschüttert.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
-UID:accb35bf-b785-5ca4-83eb-688781065888@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T200000
-SUMMARY:WIZO
-DESCRIPTION:Der WIZO kommt auf große Klubtour und verspricht mit dem Untertitel „Welt kaputt\, feiern gut!“ den Lichtblick\, den wir alle brauchen!
+UID:4f9a93d2-f5ea-5d5e-96f6-297299c2fe2f@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T200000
+SUMMARY:Hellfire - A Tribute to AC/DC
+DESCRIPTION:Der WIZO kommt auf große Klubtour und verspricht mit dem Untertitel „Welt kaputt\, feiern gut!“ den Lichtblick\, den wir alle brauchen!\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
-UID:4dd16477-c965-5854-805e-44db78403bb0@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260401T200000
-SUMMARY:Bernd Begemann
-DESCRIPTION:Ein deutscher Morrissey\, eine akustische Wundertüte: Der Ein-Mann-Rock’n’Roll-Zirkus
-LOCATION:KufA Haus\, Braunschweig
+UID:32d91720-b7be-5aa9-a7fb-6d8ba7c42518@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T200000
+SUMMARY:STILL COUNTINg Volbeat Tribute
+DESCRIPTION:Volbeat Tribute Band STILL COUNTINg\n\nLink zur Quelle: https://kufa.haus
+LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:bf22ffaf-d994-5886-abcb-bcf9cbe2ee1f@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:72b4b88d-37c0-5641-898a-c32bd79e2ec0@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T200000
+SUMMARY:līlā Release Konzert
+DESCRIPTION:Release Konzert der Band līlā\n\nLink zur Quelle: https://kufa.haus
+LOCATION:KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:92c6c5ae-4b11-5189-8b29-6c9d482a9ebe@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T200000
+SUMMARY:BEWEGBAR
+DESCRIPTION:Link zur Quelle: https://kufa.haus
+LOCATION:KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:85c9e561-516c-5a36-aa3b-f23fe453fcd2@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T200000
+SUMMARY:līlā
+DESCRIPTION:Indiepop mit Seele\n\nLink zur Quelle: https://kufa.haus
+LOCATION:Westbahnhof
+END:VEVENT
+BEGIN:VEVENT
+UID:8782e0b4-dea8-5d44-af4d-1039e18a2147@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
-SUMMARY:Halbakustischer NylonPunk
-DESCRIPTION:Halbakustischer NylonPunk aus Kreuzberg
-LOCATION:KufA Haus\, Braunschweig
+SUMMARY:8 Eimer Hühmerherzen
+DESCRIPTION:Halbakustischer NylonPunk aus Kreuzberg\n\nLink zur Quelle: https://kufa.haus
+LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:633fdb31-1a9b-5d6a-a806-f1ddf122ef0e@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:bae03096-5b5c-52bb-8d2d-d2934156ee53@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261009T200000
-SUMMARY:Heavy Flute Rock aus Dresden
-DESCRIPTION:Heavy Flute Rock aus Dresden
-LOCATION:KufA Haus\, Braunschweig
+SUMMARY:Wucan
+DESCRIPTION:Heavy Flute Rock aus Dresden\n\nLink zur Quelle: https://kufa.haus
+LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:e9ed6bad-ed7e-523a-b839-f50dc8e0ffef@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:03ac4abb-b018-5fc0-8ffb-430961b33422@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260829T200000
-SUMMARY:Die Proller melden sich zurück
-DESCRIPTION:Die Proller melden sich zurück
-LOCATION:KufA Haus\, Braunschweig
+SUMMARY:Bukowskis
+DESCRIPTION:Die Proller melden sich zurück\n\nLink zur Quelle: https://kufa.haus
+LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:bbabe4ff-eb01-5f24-a1c6-531d047dd8ab@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:260e477a-12a3-595e-8c1c-0e562234a790@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260530T200000
-SUMMARY:Postpunk trift auf Hamburger Schule
-DESCRIPTION:Postpunk trift auf Hamburger Schule
-LOCATION:KufA Haus\, Braunschweig
+SUMMARY:fluppe
+DESCRIPTION:Postpunk trifft auf Hamburger Schule\n\nLink zur Quelle: https://kufa.haus
+LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:f54d2801-86d0-5310-be9e-4212cfe426dd@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:cbec244d-4f65-53dd-a210-ae356f70280e@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260416T200000
-SUMMARY:Noise Rock meets danish Punk’n’Roll
-DESCRIPTION:Noise Rock meets danish Punk’n’Roll
-LOCATION:KufA Haus\, Braunschweig
+SUMMARY:SoS & Hathors
+DESCRIPTION:Noise Rock meets danish Punk’n’Roll\n\nLink zur Quelle: https://kufa.haus
+LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:7444e7db-beb7-5b5a-8377-5f3111264068@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260805T200000
-SUMMARY:BEATLES AN BORD
-DESCRIPTION:Comedy-Musical mit den Hits der Beatles von Enrique Keil
-LOCATION:Gördelingerstraße 7\, Braunschweig
+UID:92cc2ac7-c16e-53ce-954c-c2d495e21cef@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260829T160000
+SUMMARY:Rebels vs. Lions
+DESCRIPTION:American Football Spiel zwischen Rebels und Lions\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
 END:VEVENT
 BEGIN:VEVENT
-UID:fceed4d8-0200-5989-841b-77c8c525cdac@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260528T200000
-SUMMARY:Nur die Harten komm’ in Garten! Helm ab im Beet!
-DESCRIPTION:Herkuleskeule Dresden
-LOCATION:Gördelingerstraße 7\, Braunschweig
+UID:38a7a9b8-bf6a-5190-8abb-16846d8804ef@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260808T190000
+SUMMARY:Invaders vs. Lions
+DESCRIPTION:American Football Spiel zwischen Invaders und Lions\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:051a026b-1cb7-5937-ac17-5f90dd658929@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260725T160000
+SUMMARY:Lions vs. Rebels
+DESCRIPTION:American Football Spiel zwischen Lions und Rebels\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:2302f146-910a-57e3-8e19-53684132dcb3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260705T130000
+SUMMARY:Lions vs. Saarland
+DESCRIPTION:American Football Spiel zwischen Lions und Saarland\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:df5a71e6-e958-5d92-9f9d-ea199aee68cd@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260627T160000
+SUMMARY:spiders vs. Lions
+DESCRIPTION:American Football Spiel zwischen spiders und Lions\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:ca83e9f7-a335-5f2d-91af-35d28af726b9@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260620T160000
+SUMMARY:Panthers vs. Lions
+DESCRIPTION:American Football Spiel zwischen Panthers und Lions\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:4e5abc4a-9eff-5a32-a539-90e47d2b349a@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260613T160000
+SUMMARY:Lions vs. Monarchs
+DESCRIPTION:American Football Spiel zwischen Lions und Monarchs\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:6584a11a-3c15-5486-a297-f373c465b4eb@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260530T160000
+SUMMARY:Lions vs. Invaders
+DESCRIPTION:American Football Spiel zwischen Lions und Invaders\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:051c412a-fcc6-5035-bad1-962984539247@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260523T160000
+SUMMARY:Royals Vs. Lions
+DESCRIPTION:American Football Spiel zwischen Royals und Lions\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc4bd33-f6c9-5222-96e0-45605f84eb58@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260516T160000
+SUMMARY:Lions Vs. Hurricanes
+DESCRIPTION:American Football Spiel zwischen Lions und Hurricanes\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:a37e8488-fd97-5e19-b229-25ac78b67b78@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260509T160000
+SUMMARY:Monarchs Vs. Lions
+DESCRIPTION:American Football Spiel zwischen Monarchs und Lions\n\nLink zur Quelle: https://newyorker-lions.de/spielplan/
+LOCATION:Braunschweig Lions Stadion
 END:VEVENT
 BEGIN:VEVENT
 UID:8d9b4737-cc5e-5230-85a0-ef0320917a31@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260426T200000
 SUMMARY:The Golden Time of Swing
-DESCRIPTION:Hits in Concert
-LOCATION:Gördelingerstraße 7\, Braunschweig
+DESCRIPTION:Hits in Concert\n\nLink zur Quelle: https://www.komoedie-bs.de/spielplan/
+LOCATION:Gördelingerstraße 7\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:5f5ae594-4f65-5aa0-8902-fbc8f96dfacf@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260419T200000
 SUMMARY:I walk the line – Johnny Cash
-DESCRIPTION:Ein Abend mit der Musik von Johnny Cash
-LOCATION:Gördelingerstraße 7\, Braunschweig
+DESCRIPTION:Ein Abend mit der Musik von Johnny Cash\n\nLink zur Quelle: https://www.komoedie-bs.de/spielplan/
+LOCATION:Gördelingerstraße 7\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:2a2f3de5-fa1e-5ed5-b6b6-0fec3a140a59@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260403T210000
-SUMMARY:Krissy Matthews feat. Kim Jennett (UK)
-DESCRIPTION:Der britisch-norwegische Gitarrist und Sänger zählt zu den aufregendsten Vertretern des modernen Bluesrock.
-LOCATION:Barnaby's Blues Bar\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:720e8e5c-aad2-5bb8-9de3-04d013f80e47@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260430T210000
-SUMMARY:The Stormy Weather Band
-DESCRIPTION:Eintritt frei! Das Zusammenspiel der unterschiedlichen Einflüsse ergibt ein unvergessliches Abend.
-LOCATION:Barnaby's Blues Bar\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:e8a0a377-12c1-5dfd-9df7-56a7cb5709f3@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260501T210000
-SUMMARY:Kai Strauss & The Electric Blues All-Stars
-DESCRIPTION:Die Zeiten\, in denen europäische Künstler einfach nordamerikanische Produktionen imitiert haben\, sind lÃ¤ngst vorbei.
-LOCATION:Barnaby's Blues Bar\, Braunschweig
+UID:7c7522cf-d9df-5270-848f-beb0b53706e2@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260417T200000
+SUMMARY:Zauber der Travestie
+DESCRIPTION:Das Original\n\nLink zur Quelle: https://www.komoedie-bs.de/spielplan/
+LOCATION:Gördelingerstraße 7\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:1b3ef640-dccf-5182-8df8-7817d058de51@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260522T210000
 SUMMARY:Elizabeth Lee & Martin Hauke feat. Peppe
-DESCRIPTION:Elizabeth Lee betritt die Bühne wie Blitz und Donner.
-LOCATION:Barnaby's Blues Bar\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:5a935c3a-eb7f-56d6-bc44-26117b3dcafe@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260425T200000
-SUMMARY:Honky Tonk feat. Four Roses
-DESCRIPTION:Das Honky Tonk® wieder zum gemeinschaftlichen Honkytonken in Braunschweigs Locations präsent.
-LOCATION:Barnaby's Blues Bar\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:9e3a8504-bb58-563d-ba0b-d3dd0e0bf8bb@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260509T210000
-SUMMARY:The Number 9 Blacktops
-DESCRIPTION:The Number 9 Blacktops spielt einen rauen „Hot-Rod-Rockabilly“ oder „Greaser-Rock'n'RollânâRollâ.
-LOCATION:Barnaby's Blues Bar\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:6be971b9-890f-5081-a898-49a2f917f945@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260327T210000
-SUMMARY:Eamonn McCormack
-DESCRIPTION:Er gilt als einer der besten irischen Musiker der Gegenwart. Eamonns achtes Album erschien weltweit am 3. Februar 2025.
-LOCATION:Barnaby's Blues Bar\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:b092d847-b8b4-5976-ba49-dedce2482264@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261017T210000
-SUMMARY:The Blue Benders
-DESCRIPTION:Die Blue Benders entstanden aus der lebendigen Bluesszene in Stockholms Altstadt und verbrachten viele späte Nächte in ikonischen Veranstaltungsorten wie Stampen und S:ta Clara\, bevor sie im Mai 2021...
+DESCRIPTION:Eintritt frei\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
 LOCATION:Barnaby's Blues Bar\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:83290587-2055-5346-ac1a-21efd2d72600@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261120T210000
 SUMMARY:The Devils
-DESCRIPTION:Bluesrock-Mix
+DESCRIPTION:The Devils aus Kopenhagen\, Dänemark\, sind ein rücksichtsloser und schmutziger Genre-Mix\, der Bluesrock genauso lebt wie ihre kalifornische Inspiration The Red Devils: als ein Gefühl\, das heraus muss.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
 LOCATION:Barnaby's Blues Bar\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:9ae34321-ae8d-5b6e-aa63-123fc3b87177@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260411T210000
-SUMMARY:Backbone Slip
-DESCRIPTION:Kraftvolle Rockhymnen aus bekannten Melodien
-LOCATION:Barnaby's Blues Bar\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:8913932d-47c1-5fea-b199-1c933b37146e@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261010T210000
-SUMMARY:Hot'n'Nasty
-DESCRIPTION:Konzerte der ersten Liga der deutschen Blues- und Rockszene
+UID:e8a0a377-12c1-5dfd-9df7-56a7cb5709f3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260501T210000
+SUMMARY:Kai Strauss & The Electric Blues All-Stars
+DESCRIPTION:Die Zeiten\, in denen europäische Künstler einfach nordamerikanische Produktionen imitiert haben\, sind längst vorbei. Ob man es nun bedauert oder nicht\, der Blues ist global geworden und wird von Musikern wie Kai Strauss & The Electric Blues All-Stars auf beeindruckende Weise präsentiert.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
 LOCATION:Barnaby's Blues Bar\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:b6ce891c-b427-5636-a032-011dc702e6c1@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261107T210000
 SUMMARY:The Tangleheads
-DESCRIPTION:Coverversionen aus fünf bis sechs Jahrzehnten
+DESCRIPTION:Nach längerer Pause und mit einigen neuen Songs sind THE TANGLEHEADS wieder zu Gast in der legendären Barnabys Blues Bar II. Zu hören gibt es wieder Coverversionen aus fünf bis sechs Jahrzehnten.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
 LOCATION:Barnaby's Blues Bar\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:6f300a23-5797-5abc-bee3-37da5bcf1776@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261013T200000
-SUMMARY:HIP HOP LEBT - HIP HOP LEBT TOUR - Live-Podcast + Konzerte
-DESCRIPTION:HIP HOP LEBT - HIP HOP LEBT TOUR - Live-Podcast + Konzerte
+UID:2a2f3de5-fa1e-5ed5-b6b6-0fec3a140a59@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260403T210000
+SUMMARY:Krissy Matthews feat. Kim Jennett (UK)
+DESCRIPTION:Wenn Krissy Matthews die BÃ¼hne betritt\, lodert der Blues! Der britisch-norwegische Gitarrist und SÃ¤nger zÃ¤hlt lÃ¤ngst zu den aufregendsten Vertretern des modernen Bluesrock â mit einem Spiel\, das gleich von Anfang an fesselt.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
+LOCATION:Barnaby's Blues Bar\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:9ae34321-ae8d-5b6e-aa63-123fc3b87177@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260411T210000
+SUMMARY:Backbone Slip
+DESCRIPTION:Backbone Slip verwandeln bekannte Melodien in kraftvolle Rockhymnen. Bei ihren Konzerten haben die Zuschauer die MÃ¶glichkeit\, selbst zu entscheiden\, wie sie diese Neuinterpretationen empfinden.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
+LOCATION:Barnaby's Blues Bar\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:6be971b9-890f-5081-a898-49a2f917f945@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260327T210000
+SUMMARY:Eamonn McCormack
+DESCRIPTION:Er gilt als einer der besten irischen Musiker der Gegenwart. Eamonn McCormacks achtes Album mit dem schlichten Titel Eamonn McCormack erschien weltweit am 3. Februar 2025.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
+LOCATION:Barnaby's Blues Bar\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:720e8e5c-aad2-5bb8-9de3-04d013f80e47@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260430T210000
+SUMMARY:The Stormy Weather Band
+DESCRIPTION:Eintritt frei!\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
+LOCATION:Barnaby's Blues Bar\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:3bb313f4-f2f3-5e0e-b407-a5c5708d2637@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260425T200000
+SUMMARY:Honky Tonk 2026 feat. Four Roses
+DESCRIPTION:Eintritt: 18 Euro\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
+LOCATION:Barnaby's Blues Bar\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:68eb3785-f16f-522f-84ea-6f55f58dc90e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261021T210000
+SUMMARY:The Blue Benders
+DESCRIPTION:Samstag\, 17. Oktober 2026 Die Blue Benders entstanden aus der lebendigen Bluesszene in Stockholms Altstadt und verbrachten viele späte Nächte in ikonischen Veranstaltungsorten wie Stampen und S:ta Clara.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
+LOCATION:Barnaby's Blues Bar\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:347438b7-12d7-5f6d-9d1d-6cc0d07237d8@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261014T210000
+SUMMARY:HotânâNasty
+DESCRIPTION:Samstag\, 10. Oktober 2026 HotânâNasty existiert bereits seit Beginn der 90er Jahre und gehört zur ersten Liga der deutschen Blues- und Rockszene.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
+LOCATION:Barnaby's Blues Bar\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3a8504-bb58-563d-ba0b-d3dd0e0bf8bb@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260509T210000
+SUMMARY:The Number 9 Blacktops
+DESCRIPTION:Samstag\, 9. Mai 2026 The Number 9 Blacktops spielt einen rauen "Hot-Rod-Rockabilly" oder "Greaser-Rock'n'Roll"\, der rockiger und schneidiger ist als Klassiker des Genres.\n\nLink zur Quelle: https://www.barnabys-bs.de/programm/
+LOCATION:Barnaby's Blues Bar\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:4432a4b0-c9c6-52ac-acd5-0e65b00fd520@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T200000
+SUMMARY:Konzert mit Band Y am Freitag
+DESCRIPTION:Erlebe die Hits von Band Y live\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:381
+END:VEVENT
+BEGIN:VEVENT
+UID:08dfef7c-8322-5eca-9a8a-e56efcd9de7d@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+SUMMARY:HIP HOP LEBT - HIP HOP LEBT TOUR
+DESCRIPTION:Eintritt 30\,50 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
 LOCATION:KufA Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:a63514eb-9de7-5cf4-aca0-bfb237919478@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261009T180000
-SUMMARY:Klavierkonzert
-DESCRIPTION:Vladimir Valdivia: Feuertänze
-LOCATION:Nicht spezifiziert
-END:VEVENT
-BEGIN:VEVENT
-UID:d3b3fd0e-9e79-515f-9f46-003720a23d88@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260620T190000
-SUMMARY:Konzert
-DESCRIPTION:Musik mit *TrioMelodic* – freudig\, besinnlich\, bunt
-LOCATION:Nicht spezifiziert
-END:VEVENT
-BEGIN:VEVENT
-UID:228afa49-1dd6-554f-a816-2ad8ab4fe274@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260530T180000
-SUMMARY:Klavierkonzert
-DESCRIPTION:Tatsushi Yamakawa
-LOCATION:Nicht spezifiziert
-END:VEVENT
-BEGIN:VEVENT
-UID:71186c7f-a8a8-57e5-a408-6f0d30b9f7b1@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260523T180000
-SUMMARY:Klavierkonzert
-DESCRIPTION:EIN ABEND BEI DEN GROTRIANS mit Juan Peñalver Madrid
-LOCATION:Nicht spezifiziert
-END:VEVENT
-BEGIN:VEVENT
-UID:d4df01ce-93dd-5725-9f5f-f8958ee16f00@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20271203T200000
-SUMMARY:GlasBlasSing\, Das Weihnachtsspecial – Süßer die Flaschen nie klingen!
-DESCRIPTION:Konzert mit GlasBlasSing
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:4cc3407c-74e5-5f7a-a056-e31e8b7846e6@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20271203T200000
-SUMMARY:Lucy van Kuhl\, Geschickt verpackt
-DESCRIPTION:Konzert mit Lucy van Kuhl
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:fb617422-a0fd-5e05-9482-db6493bc3038@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270917T200000
-SUMMARY:Stefan Waghubinger\, Neues Programm
-DESCRIPTION:Konzert mit Stefan Waghubinger
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:eb33a8b8-138c-5b55-a7d1-11c2648ea1fa@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270404T160000
-SUMMARY:Ana Lucía\, Gewinner
-DESCRIPTION:Konzert mit Ana Lucía
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:3d94505c-b93f-5b2e-a18d-9f45e43e810c@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270318T200000
-SUMMARY:Duo Stiehler/Lucaciu\, Konzert
-DESCRIPTION:Konzert mit Duo Stiehler/Lucaciu
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:380ac100-e161-5e07-9e4b-8f585436b3fe@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270314T200000
-SUMMARY:MATILDE KEIZER\, Lasagne im Bett
-DESCRIPTION:Konzert mit MATILDE KEIZER
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:31c28c11-6415-503e-a632-f00b5337e172@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270215T200000
-SUMMARY:Joab Nist\, Notes of Berlin
-DESCRIPTION:Konzert mit Joab Nist
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:0cd7cdfd-7f33-54bf-8077-d6498d5e5fce@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270214T200000
-SUMMARY:Falk\, Unmöglich!
-DESCRIPTION:Konzert mit Falk
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:473cc8b2-8303-58f2-b2f7-fc8492901cad@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270129T200000
-SUMMARY:Das Geld liegt auf der Fensterbank\, Marie Glorreich versieben
-DESCRIPTION:Konzert mit Marie Glorreich
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:422aa7d2-ee1b-5253-bc59-4b66e738ff79@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270108T160000
-SUMMARY:Piero Masztalerz\, Halt die Fresse\, Rapunzel!
-DESCRIPTION:Konzert mit Piero Masztalerz
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:dfe13729-ae6d-5164-9e5c-cca4e85a86a7@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261205T200000
-SUMMARY:Lara Ermer\, Leicht Entflammbar
-DESCRIPTION:Konzert mit Lara Ermer
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:d2647162-bc28-579c-b871-be60616cdaf3@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261204T200000
-SUMMARY:Emmi & Willnowsky\, 30 Jahre Best-Of
-DESCRIPTION:Konzert mit Emmi & Willnowsky
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:549f2d1e-ed53-5d23-bba7-60eae10f2090@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261125T200000
-SUMMARY:Masih Samin\, Sei höflich zu deinem Hund
-DESCRIPTION:Konzert mit Masih Samin
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:c73f4d1c-58e1-55bb-99fd-c65c0e894a14@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261114T200000
-SUMMARY:Maria Clara Groppler\, Ehefrau
-DESCRIPTION:Konzert mit Maria Clara Groppler
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:5c2bef97-245a-5501-94c0-a4988b742b3b@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261112T200000
-SUMMARY:Belly Dance Divas\, Power & Passion 2026
-DESCRIPTION:Konzert mit Belly Dance Divas
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:0e800d2d-7024-5000-be3e-82160b382349@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20261105T200000
-SUMMARY:Frank Goosen\, Lovely Rita
-DESCRIPTION:Konzert mit Frank Goosen und Lovely Rita
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:ffa64926-8ec0-5ee8-9f94-aba82f2f043a@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:0aaa83e0-5d44-515a-ac31-aeb732833c44@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261031T200000
-SUMMARY:Day Of The Dead Rockstars Vol. IX
-DESCRIPTION:Konzert mit Day Of The Dead Rockstars
+SUMMARY:BIZARRE MONDAY REVIVAL
+DESCRIPTION:Eintritt 8\,00 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:17adfd52-d2c3-5d3f-b200-99c3decd98b9@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260502T210000
+SUMMARY:Creatures Of The Night Vol. 5
+DESCRIPTION:Preis an AK\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:720b69ee-8708-5676-8c4a-f4e498cff5de@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260411T200000
+SUMMARY:RAVE REPEAT x PUREDJLEGENDS by Outside World Festival
+DESCRIPTION:Eintritt 27\,00 bis 48\,00 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Millenium Event Center
+END:VEVENT
+BEGIN:VEVENT
+UID:8c671ec0-6190-54e4-80c5-fa7cc33278c4@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260515T200000
+SUMMARY:Konzert mit der Band XYZ
+DESCRIPTION:Die Band XYZ spielt ihre besten Hits live.\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:381
+END:VEVENT
+BEGIN:VEVENT
+UID:7dad4820-6aea-59fa-aa26-e79854287006@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261009T180000
+SUMMARY:Klavierkonzert mit Vladimir Valdivia
+DESCRIPTION:Klavierkonzert mit Vladimir Valdivia am 9. Oktober 2026 um 18:00 Uhr
+LOCATION:BLAU-WAL kultur e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:51282e75-6c91-5b87-b817-b91d86d844e9@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260620T190000
+SUMMARY:Konzert mit TrioMelodic
+DESCRIPTION:Konzert mit TrioMelodic am 20. Juni 2026 von 19:00 bis 20:30 Uhr
+LOCATION:BLAU-WAL kultur e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:9cee1f66-182d-5c13-a7ec-a419ee7e8047@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260530T180000
+SUMMARY:Klavierkonzert mit Tatsushi Yamakawa
+DESCRIPTION:Klavierkonzert mit Tatsushi Yamakawa am 30. Mai 2026 von 18:00 bis 20:00 Uhr
+LOCATION:BLAU-WAL kultur e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed32ef1-720b-55a3-95ae-0c8fbef02198@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260530T180000
+SUMMARY:Tatsushi Yamakawa
+DESCRIPTION:Klavierkonzert mit Tatsushi Yamakawa
+LOCATION:BLAU-WAL kultur e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:c34e3a8c-3bfb-57b3-9ada-e4218281cd9c@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260523T180000
+SUMMARY:EIN ABEND BEI DEN GROTRIANS
+DESCRIPTION:Klavierkonzert mit Juan Peñalver Madrid
+LOCATION:BLAU-WAL kultur e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:24aec18a-6986-5744-91ae-fa2b64361ea9@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260423T180000
+SUMMARY:Johannes Brahms – Die schöne Magelone
+DESCRIPTION:Konzert mit Corinna Tjiang\, Marco Vassalli und Matthias Wengler
+LOCATION:BLAU-WAL kultur e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8bfe9b-4330-5a1a-8345-cd694a99459e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260328T200000
+SUMMARY:Gesangsunterricht
+DESCRIPTION:Unterricht im Klassischen Gesang bei Antje Siefert
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:37ec95d3-0f27-50fa-ba6e-ff5014c367f2@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20271203T200000
+SUMMARY:GlasBlasSing - Das Weihnachtsspecial – Süßer die Flaschen nie klingen!
+DESCRIPTION:Weihnachtsspecial der GlasBlasSing-Band.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:f49fdde0-9104-5c04-a5c9-aed469dd06a1@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270917T200000
+SUMMARY:Lucy van Kuhl - Geschickt verpackt
+DESCRIPTION:Konzert mit der deutschen Sängerin Lucy van Kuhl.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:e99b5222-9dd1-59ea-8a65-c3f2926bf264@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270318T200000
+SUMMARY:Ana Lucía - Gewinner
+DESCRIPTION:Konzert mit der deutschen Sängerin Ana Lucía.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:d09df1ad-19e8-5d5b-82ac-82de2464182b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270317T200000
+SUMMARY:Duo Stiehler/Lucaciu - Konzert
+DESCRIPTION:Konzert des Duos Stiehler/Lucaciu.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:efd59d14-302e-5025-aa35-eb821a979979@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270314T200000
+SUMMARY:BORA - Auf nach Bora Bora – All Inclusive
+DESCRIPTION:Konzert mit der deutschen Band BORA.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:4e4e1512-0a1e-59b3-80f1-209634252cb3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270313T200000
+SUMMARY:Sekt And The City - Happy Hour!
+DESCRIPTION:Konzert mit der deutschen Band Sekt And The City.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:2c34910f-707f-5e85-9fdd-4fae2435eb01@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270227T200000
+SUMMARY:Fee Badenius - Ich bring mich ganz groß raus
+DESCRIPTION:Konzert mit der deutschen Sängerin Fee Badenius.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:63305b9d-6d1f-5ff0-a576-f8d98b475da7@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270225T200000
+SUMMARY:MATILDE KEIZER - Lasagne im Bett
+DESCRIPTION:Konzert mit der deutschen Sängerin Matilde Keizer.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:716d6b5f-5867-5849-b273-fa438eaf15af@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270224T200000
+SUMMARY:Joab Nist - Notes of Berlin
+DESCRIPTION:Konzert mit dem Berliner Musiker Joab Nist.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9cdf26-7a53-537f-9124-860fec3989f3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270129T200000
+SUMMARY:Falk - Unmöglich!
+DESCRIPTION:Konzert mit dem deutschen Rapper Falk.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:eb408693-e8a5-54bd-ae29-98d2d56a9aaa@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261218T200000
+SUMMARY:Piero Masztalerz - Halt die Fresse\, Rapunzel!
+DESCRIPTION:Konzert mit dem Singer-Songwriter Piero Masztalerz.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:52ac4026-5c54-5c3f-9b2f-ba27be0095c6@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270129T200000
+SUMMARY:Falk
+DESCRIPTION:wirkt Wunder
 LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:60984c19-6398-5060-9a0c-de5b90b777df@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:5715cc17-9174-5b0c-9bb8-2a75e1b79a44@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+SUMMARY:DESiMOs Spezial Club
+DESCRIPTION:Die Brunsviga-Mix-Show mit hochkarätigen Überraschungsgästen
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa1a082-9f01-569b-b950-d3f3e3258a12@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261105T200000
+SUMMARY:Day Of The Dead Rockstars
+DESCRIPTION:Day Of The Dead Rockstars Vol. IX
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:91e232fa-2dd5-5a8a-a5f0-806d132fab65@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20261030T200000
-SUMMARY:Pit Hartling
-DESCRIPTION:Konzert mit Pit Hartling
+SUMMARY:DESiMOs Spezial Club
+DESCRIPTION:Die Brunsviga-Mix-Show mit hochkarätigen Überraschungsgästen
 LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:b6cf8303-ccbe-5b84-8019-a87219c54ac1@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260626T180000
-SUMMARY:Musikschule Musikuß
-DESCRIPTION:Projekt-Konzert
+UID:b249e061-3ef4-5a85-8dec-56b05d607c59@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261024T193000
+SUMMARY:Cavewoman
+DESCRIPTION:Praktische Tipps ...
 LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:1f7fe5d7-21e1-53da-9cc5-a04f57e1f060@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260625T180000
-SUMMARY:Musikschule Musikuß
-DESCRIPTION:Projekt-Konzert
+UID:22de8832-0b3f-5e52-94d9-940ad95c60e2@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261016T200000
+SUMMARY:Alex Stoldt
+DESCRIPTION:QUASI NICHTS
 LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:673170cd-b7fb-5734-ac14-808ead4c332b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261004T180000
+SUMMARY:Cortez MusikTheater
+DESCRIPTION:Herr der Rettungsringe
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:2773046a-e3d2-57d5-a579-958bbefe1d0a@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261003T180000
+SUMMARY:Cortez MusikTheater
+DESCRIPTION:Herr der Rettungsringe
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:823e5a4c-a196-5ec8-82e7-733cdbd1e81e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261002T200000
+SUMMARY:Cortez MusikTheater
+DESCRIPTION:Herr der Rettungsringe
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:58da2c8e-2b59-5845-9645-debaba3477e8@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260918T200000
+SUMMARY:MASUD AKBARZADEH
+DESCRIPTION:Playlist
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:52f8f389-c1e5-5841-b0b1-8ea558aa5de3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260916T150000
+SUMMARY:Musikschule Musikuß
+DESCRIPTION:De Laatste Noot
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:75109c57-4061-5b7b-92cb-485e8b5e2288@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260916T200000
+SUMMARY:MASUD AKBARZADEH
+DESCRIPTION:Konzert von MASUD AKBARZADEH
+LOCATION:Playlist
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8e19e4-c279-50db-a7e6-4a55514f0813@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260913T150000
+SUMMARY:Musikschule Musikuß
+DESCRIPTION:Konzert der Musikschule
+LOCATION:De Laatste Noot
 END:VEVENT
 BEGIN:VEVENT
 UID:1871500d-8c02-5b69-a60f-4f46c75fe808@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260624T180000
 SUMMARY:Musikschule Musikuß
-DESCRIPTION:Projekt-Konzert
-LOCATION:Brunsviga
-END:VEVENT
-BEGIN:VEVENT
-UID:78e77449-d458-5d2b-b981-4af280579102@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260605T200000
-SUMMARY:Robert Kreis
-DESCRIPTION:Eingekreist!
-LOCATION:Brunsviga
+DESCRIPTION:Konzert der Musikschule
+LOCATION:Projekt-Konzert
 END:VEVENT
 BEGIN:VEVENT
 UID:243fd2cb-a296-53d2-9ccf-0ecaea8ae53c@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260527T180000
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260527T200000
 SUMMARY:Luka Bloom
 DESCRIPTION:The Beloved Tour
-LOCATION:Brunsviga Kulturzentrum
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:96c42139-2c67-50bd-88d9-2de2e3f83c7d@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260506T200000
+UID:ccb28c29-3e5b-5ea4-8668-d9c46de80839@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260518T170000
 SUMMARY:Braunschweiger Akkordeon-Orchester
 DESCRIPTION:Jahreskonzert  "Zwischen Tasten und Knöpfen"
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:2280fce3-dfe1-55f7-b07a-e680f5716e11@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260520T200000
+SUMMARY:Luka Bloom
+DESCRIPTION:
+LOCATION:Luka Bloom
+END:VEVENT
+BEGIN:VEVENT
+UID:ce86ca93-c881-5aca-8560-ac9b397c26e6@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260510T170000
+SUMMARY:Braunschweiger Akkordeon-Orchester
+DESCRIPTION:Jahreskonzert  Zwischen Tasten und Knöpfen
+LOCATION:Braunschweiger Akkordeon-Orchester
+END:VEVENT
+BEGIN:VEVENT
+UID:20b83d7e-7476-537d-aee7-ebaea281ea2e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260508T200000
+SUMMARY:Christian Schulte-Loh
+DESCRIPTION:Import Export
+LOCATION:Christian Schulte-Loh
+END:VEVENT
+BEGIN:VEVENT
+UID:691e87e0-4a5b-595c-80a5-965cded4ed23@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260411T200000
+SUMMARY:Moment Mal!
+DESCRIPTION:Willkommen im SOULVIERTEL!
+LOCATION:Soulviertel
+END:VEVENT
+BEGIN:VEVENT
+UID:f4dd5b61-7d05-5dc5-99ea-fa3c6e44113e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260417T200000
+SUMMARY:Suchtpotenzial
+DESCRIPTION:(S)HITSTORM
 LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:28fdd7f8-76a7-5e2a-96cb-d26b0f9af134@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260410T200000
-SUMMARY:Marcel Kösling
-DESCRIPTION:Moment Mal!
+UID:e022cc34-100e-591c-bc40-f2a7d09431e3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260416T200000
+SUMMARY:Marc Weide
+DESCRIPTION:Magier des Monats (ausverkauft!)
 LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:2e57c22f-4d56-55a2-9581-01c45efe4da3@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260409T200000
-SUMMARY:Benni Stark
-DESCRIPTION:Schon lustig\, wenn´s witzig ist!
+UID:76109a2b-8664-55f2-9dc3-5a6475396988@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260411T200000
+SUMMARY:Soulviertel
+DESCRIPTION:Willkommen im SOULVIERTEL!
 LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:966fe0b3-cb79-5848-b6d6-37ef4d953a5b@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260319T200000
+UID:23e557a7-94b5-580a-8d3d-9366a5dc3217@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T200000
 SUMMARY:Tobii Live
-DESCRIPTION:Mutti & Friends
+DESCRIPTION:Mutti & Friends (ausverkauft!)
 LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:2eb6f5ef-8204-5e3b-9483-f2130b8ab1f6@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T200000
-SUMMARY:WIZO bringt das Licht! – Tour 2026
-DESCRIPTION:Konzert
+UID:d7c9a736-6a2d-5cbd-9cc1-ea8848f8e5d9@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T200000
+SUMMARY:Tobii Live – Mutti & Friends
+DESCRIPTION:Live Musik von Tobii mit Special Guest Mutti & Friends\n\nLink zur Quelle: https://www.konzertkasse.de/
+LOCATION:BRAUNSCHWEIG\, Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:596141ff-cac0-56d5-9fad-c8e302000f7e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T200000
+SUMMARY:Lila & support | EP Release Konzert
+DESCRIPTION:EP Release Party von Lila mit Unterstützung weiterer Künstler\n\nLink zur Quelle: https://www.konzertkasse.de/
+LOCATION:BRAUNSCHWEIG\, KufA Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:f636c357-6324-5ae0-b9d8-3f70bb21ba4b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T193000
+SUMMARY:Marilyn Forever
+DESCRIPTION:Tribute Show zu Marilyn Manson\n\nLink zur Quelle: https://www.konzertkasse.de/
+LOCATION:BRAUNSCHWEIG\, Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:12f3edc6-e042-5dde-addd-2ba2d26f2ece@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T200000
+SUMMARY:Hellfire – A Tribute to AC/DC
+DESCRIPTION:Tribute Band spielt die Hits von AC/DC\n\nLink zur Quelle: https://www.konzertkasse.de/
 LOCATION:BRAUNSCHWEIG\, westand
 END:VEVENT
 BEGIN:VEVENT
-UID:8ac07bef-85a4-5286-828a-517c3027b2c7@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260318T193000
-SUMMARY:Tyll
-DESCRIPTION:Konzert
-LOCATION:BRAUNSCHWEIG\, Grosses Haus
+UID:7dedd4fc-6701-5fed-8c56-02467280b391@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260415T200000
+SUMMARY:Konzert mit der Band XYZ
+DESCRIPTION:Die Band XYZ spielt live im LokPark.\n\nLink zur Quelle: https://www.lokpark.de/veranstaltungen/
+LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
-UID:caa4be8a-ba37-528b-b23a-802aeef5fc80@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260412T200000
-SUMMARY:Marilyn Forever
-DESCRIPTION:Musiktheater von Gavin Bryars
+UID:7e4094b5-3117-5fb9-835a-750e02be2636@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T180000
+SUMMARY:I Capuleti e i Montecchi (Romeo und Julia)
+DESCRIPTION:Musiktheater von Vincenzo Bellini. Einführung 45 min vorher in der Hausbar\, Großes Haus | Premierenfeier im Anschluss\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:177f16c0-62b2-5bb4-96c7-15e1f01ec883@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260419T193000
+SUMMARY:Styx
+DESCRIPTION:Tanztheater von Melanie Lane\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
 LOCATION:Kleines Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:2fe35c7e-5f01-514d-8721-6599e2d44dbd@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260318T190000
-SUMMARY:Juleumkonzert
-DESCRIPTION:Staatsorchester
-LOCATION:Helmstedt
+UID:dcf99a6c-b768-5de0-a605-b53274fc792f@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260419T180000
+SUMMARY:I Capuleti e i Montecchi (Romeo und Julia)
+DESCRIPTION:Musiktheater von Vincenzo Bellini\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:abcbe508-89d4-51da-be66-399c2a62d118@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260419T110000
+SUMMARY:Kammerkonzert
+DESCRIPTION:Staatsorchester\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Louis-Spohr-Saal
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb9da62-73be-5790-a266-5a2ca52ef126@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260418T200000
+SUMMARY:hamlet. the rest is silence.
+DESCRIPTION:Ein Projekt von Daniele Szeredy\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Aquarium
+END:VEVENT
+BEGIN:VEVENT
+UID:a99185b9-4ecb-59ff-b12b-0fdab5de3088@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260418T193000
+SUMMARY:Marilyn Forever
+DESCRIPTION:Musiktheater von Gavin Bryars\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:898876c2-d81f-5150-b08a-b482c2f28a5f@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260418T193000
+SUMMARY:Tyll
+DESCRIPTION:Schauspiel von Daniel Kehlmann\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:e39dbe44-cd1d-578f-8e1c-70680c6f7995@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260417T193000
+SUMMARY:Zeit für Monster
+DESCRIPTION:Schauspiel von Franz Kafka\, Rebekka David & Ensemble\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:e32ce8a3-630f-531e-9498-b27052dfd445@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260413T200000
+SUMMARY:8. Sinfoniekonzert: Österreichisch-ungarische Klangwelten
+DESCRIPTION:Staatsorchester\, Einführung 45 min vorher in der Hausbar\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:f119ef2c-630b-5d1d-b6c3-7212d43225e0@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260412T110000
+SUMMARY:8. Sinfoniekonzert: Österreichisch-ungarische Klangwelten
+DESCRIPTION:Premiere mit dem Staatsorchester\, Einführung 45 min vorher in der Hausbar\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:3670179f-b79b-56ed-9529-1535868fea3b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260411T200000
+SUMMARY:Meisterkonzert: Alexej Gerassimez Percussion Collective
+DESCRIPTION:Rhythm is it!\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:b02986fd-c635-57bf-b113-788b2fe841e6@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260411T193000
+SUMMARY:Styx
+DESCRIPTION:Tanztheater von Melanie Lane mit Einführung 30 min vorher\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:d275df96-0e3c-5e64-8b25-5f9ad655a61f@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260408T193000
+SUMMARY:Peter Grimes
+DESCRIPTION:Musiktheater von Benjamin Britten mit Einführung 45 min vorher in der Hausbar\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Kleines Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:b7513f90-9c1f-53dd-aea2-d63a623afcf9@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260322T143000
+SUMMARY:Peter Grimes
+DESCRIPTION:Musiktheater von Benjamin Britten mit Audiodeskription und Einführung\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:e716e050-0e86-502c-91a1-5a25126c5f5b@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T193000
+SUMMARY:Die Fledermaus
+DESCRIPTION:Musiktheater von Johann Strauss (Sohn) mit Einführung 45 min vorher in der Hausbar\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Großes Haus
+END:VEVENT
+BEGIN:VEVENT
+UID:f24baa62-e53c-52c4-b4e3-d9aa7dbbeb1e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T190000
+SUMMARY:Konzert mit Live-Band
+DESCRIPTION:Live-Musik von einer lokalen Band\n\nLink zur Quelle: https://www.stereowerk.de/events
+LOCATION:381
 END:VEVENT
 END:VCALENDAR

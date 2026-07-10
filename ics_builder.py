@@ -54,6 +54,12 @@ class ICSBuilder:
                     time_str = ev.get("time", "00:00")
                     desc = ev.get("description", "").replace("\n", "\\n").replace(",", "\\,").replace(";", "\\;")
                     location = ev.get("location", "").replace(",", "\\,").replace(";", "\\;")
+                    source_url = ev.get("source_url", "")
+                    
+                    if source_url:
+                        if desc:
+                            desc += "\\n\\n"
+                        desc += f"Link zur Quelle: {source_url}"
                     
                     if not date_str:
                         continue # Skip if no date

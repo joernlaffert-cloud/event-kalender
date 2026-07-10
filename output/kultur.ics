@@ -7,368 +7,560 @@ X-WR-CALNAME:Braunschweig Kultur
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Kultur Events
 BEGIN:VEVENT
-UID:4251cd9c-4ff5-598e-87e3-442252b63398@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260318T200000
-SUMMARY:NLP - Coaching - Training | Ihr Partner für Veränderung | Hendrik Franke
-DESCRIPTION:Ein NLP-Coaching-Training.
-LOCATION:Frühlingsscheune bei Papes Gemüsegarten
+UID:dd80b66e-db1b-5ea5-beb7-c27076d1b2f2@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T200000
+SUMMARY:Tomaten\, Paprika\, Physalis und Co. anbauen
+DESCRIPTION:Praxis und Wissen rund um die Sonnenanbeter\n\nLink zur Quelle: https://www.vhs-braunschweig.de
+LOCATION:VHS Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:f176642a-286b-5660-9182-5cbbe71382cf@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260318T100000
+UID:56a90f8a-8a8b-5d92-a0c9-f06919dd121d@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260414T200000
+SUMMARY:Spanisch für die Reise für Anfänger:innen
+DESCRIPTION:Spanisch für die Reise für Anfänger:innen\n\nLink zur Quelle: https://www.vhs-braunschweig.de
+LOCATION:VHS Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8267de-cc36-5190-9211-1b1a13a2f397@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260418T200000
+SUMMARY:Kalligraffiti – Schriftkunst zwischen Präzision und urbaner Energie
+DESCRIPTION:Ein Kurs über Schriftkunst.\n\nLink zur Quelle: https://www.vhs-braunschweig.de
+LOCATION:Schriftkunst zwischen Präzision und urbaner Energie
+END:VEVENT
+BEGIN:VEVENT
+UID:273276d1-7010-5137-8bd2-7e6eb6a9a9ed@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260418T200000
+SUMMARY:Welche Farben lassen mich strahlen?
+DESCRIPTION:Eine Tagesveranstaltung über Farbberatung.\n\nLink zur Quelle: https://www.vhs-braunschweig.de
+LOCATION:Farbberatung für Einsteiger - Tagesveranstaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:886d1e95-2170-578c-a447-a8cabe1dc2eb@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260425T200000
+SUMMARY:Frühlingskräuter entdecken für Mensch und Hund
+DESCRIPTION:Eine Führung über Frühlingskräuter.\n\nLink zur Quelle: https://www.vhs-braunschweig.de
+LOCATION:Führung
+END:VEVENT
+BEGIN:VEVENT
+UID:97cdf774-1e49-5546-aa33-cdcc6f81b0c6@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260326T200000
+SUMMARY:Sprache und Macht – wie Worte Wirklichkeit schaffen
+DESCRIPTION:Ein Online-Kurs über die Macht der Sprache.\n\nLink zur Quelle: https://www.vhs-braunschweig.de
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+UID:08698eab-71d2-555a-895e-1e069f53ee43@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260410T150000
+SUMMARY:Workshop 'Upcycling für Einsteiger'
+DESCRIPTION:Ein Workshop zum Thema Upcycling für Anfänger.\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Museum Wilhelm Busch - Deutsche Museum für Karikatur und Zeichenkunst\, Hannover
+END:VEVENT
+BEGIN:VEVENT
+UID:4672b7da-955e-57b6-af24-300374de2d66@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260401T180000
+SUMMARY:Ausstellungseröffnung 'Kunst aus der Region'
+DESCRIPTION:Eröffnung der Ausstellung 'Kunst aus der Region' mit Werken regionaler Künstler.\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Kunsthalle Dominikanerkirche\, Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:525e10ea-3a5e-578d-be49-943c4673cf37@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260327T180000
+SUMMARY:Kunstausstellung
+DESCRIPTION:Erleben Sie die Ausstellung neuer Kunstwerke von aufstrebenden Künstlern.\n\nLink zur Quelle: https://www.basketball-loewen.de/spiele/spielplan/
+LOCATION:Galerie 381
+END:VEVENT
+BEGIN:VEVENT
+UID:96c4a02b-c6e1-5251-b00e-c838c4dc5bce@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T110000
+SUMMARY:Fermentation & Lebensmittelwertschätzung – Aus Gerettetem Gutes machen
+DESCRIPTION:Erfahren Sie mehr über Fermentation und Lebensmittelwertschätzung.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:Papes Gemüsegarten - Hofladen Watenbüttel
+END:VEVENT
+BEGIN:VEVENT
+UID:fbf3617f-a7ae-5a18-83bf-b337be28ca22@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260326T150000
+SUMMARY:Fermentation & Lebensmittelwertschätzung – Aus Gerettetem Gutes machen
+DESCRIPTION:Lernen Sie mehr über Fermentation und Lebensmittelwertschätzung.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:Nachhaltigkeitszentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:3dae9d72-be70-5fcd-9335-45f18b6ba8d9@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T110000
+SUMMARY:Frühlingsscheune bei Papes Gemüsegarten
+DESCRIPTION:Genießen Sie den Frühling in der Scheune.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:Papes Gemüsegarten - Hofladen Watenbüttel
+END:VEVENT
+BEGIN:VEVENT
+UID:56078f2c-0cb4-5d9b-8cd8-f856b379ab53@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T100000
 SUMMARY:NLP wirkt!? Live-Einblick in die NLP-Ausbildung!
-DESCRIPTION:Ein Live-Einblick in die NLP-Ausbildung.
-LOCATION:National Jürgens Brauerei (Eingang B8)
+DESCRIPTION:Erfahren Sie mehr über die NLP-Ausbildung.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:NLP - Coaching - Training | Ihr Partner für Veränderung | Hendrik Franke
 END:VEVENT
 BEGIN:VEVENT
 UID:d08dc90b-9189-5068-ad86-5f6756ea6faa@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260526T080000
 SUMMARY:18th ACM Web Science Conference (WebSci'26)
-DESCRIPTION:Die 18. ACM Web Science Conference.
+DESCRIPTION:Die 18. ACM Web Science Conference findet im Haus der Wissenschaft Braunschweig statt.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
 LOCATION:Haus der Wissenschaft Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:5fb51df4-6eb3-5515-82df-de5d9d61a5e7@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260319T150000
-SUMMARY:Fermentation & Lebensmittelwertschätzung – Aus Gerettetem Gutes machen
-DESCRIPTION:Ein Workshop über Lebensmittelwertschätzung.
-LOCATION:National Jürgens Brauerei (Eingang B8)
+UID:e8da5be6-22b8-57f5-9109-bdd6fb33d9f5@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260428T160000
+SUMMARY:3. Öffentliche Konferenz - Energieeffizienz und Nachhaltigkeit
+DESCRIPTION:Eine Konferenz über Energieeffizienz und Nachhaltigkeit.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:Haus der Wissenschaft Braunschweig GmbH
 END:VEVENT
 BEGIN:VEVENT
-UID:a3e4d926-765e-5367-8c55-581f714d884d@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T173000
-SUMMARY:Impact Talk Nr. 4. - Zukunft der Energie
-DESCRIPTION:Ein Impact Talk über die Zukunft der Energie.
-LOCATION:TRAFO Hub GmbH
+UID:74cfc417-7429-5d36-b2b8-7a793eb9b4ea@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260416T140000
+SUMMARY:INDUSTRIEKULTUR macht mit | Die TechHeritage der TU Branschweig
+DESCRIPTION:Erfahren Sie mehr über die industrielle Kultur und Geschichte der TU Braunschweig.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:Pockelsstraße 4
+END:VEVENT
+BEGIN:VEVENT
+UID:d58111f5-b647-5aec-8166-87403c161233@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260322T150000
+SUMMARY:Fermentation & Lebensmittelwertschätzung – Aus Gerettetem Gutes machen
+DESCRIPTION:Lernen Sie\, wie man aus geretteten Lebensmitteln etwas Gutes macht.\n\nLink zur Quelle: https://www.eventbrite.de/d/germany--braunschweig/events/
+LOCATION:Nachhaltigkeitszentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:d06b3103-4a69-5eb1-abf5-751367fb1f35@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260322T140000
+SUMMARY:Kostümführung
+DESCRIPTION:Eine Führung durch das Museum in Kostümen\n\nLink zur Quelle: https://3landesmuseen-braunschweig.de/kalender
+LOCATION:Staatliches Naturhistorisches Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:286498cc-a921-5209-b3ac-e8e49dce6f1e@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260322T113000
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260322T130000
 SUMMARY:Ein Fest für die Augen: Grün
-DESCRIPTION:Anmeldung erforderlich.
+DESCRIPTION:Eine weitere Führung durch die grüne Ausstellung\n\nLink zur Quelle: https://3landesmuseen-braunschweig.de/kalender
 LOCATION:Herzog Anton Ulrich-Museum
 END:VEVENT
 BEGIN:VEVENT
-UID:59354327-9fd0-5733-8f54-6645745a5604@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260321T160000
-SUMMARY:Innovatives Möbeldesign für Braunschweig
-DESCRIPTION:Führung.
-LOCATION:Herzog Anton Ulrich-Museum
-END:VEVENT
-BEGIN:VEVENT
-UID:3d77eed5-68bf-5d44-9153-c872dfc8fc20@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260321T140000
-SUMMARY:Familienrallye Abenteuer Körper
-DESCRIPTION:Kinderprogramm.
+UID:121cede7-6a89-5eb5-b07b-0fe8f624ec89@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260322T113000
+SUMMARY:Essen und Trinken durch die Geschichte
+DESCRIPTION:Eine Führung durch die Geschichte von Essen und Trinken\n\nLink zur Quelle: https://3landesmuseen-braunschweig.de/kalender
 LOCATION:Hinter Aegidien
 END:VEVENT
 BEGIN:VEVENT
-UID:f5b636de-6e70-597c-a037-82e631ee7550@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260320T183000
-SUMMARY:Rendezvous mit dem Löwen
-DESCRIPTION:Bei Met und Mumme.
+UID:59354327-9fd0-5733-8f54-6645745a5604@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T160000
+SUMMARY:Innovatives Möbeldesign für Braunschweig
+DESCRIPTION:Eine Führung durch die Geschichte des Möbeldesigns\n\nLink zur Quelle: https://3landesmuseen-braunschweig.de/kalender
 LOCATION:Herzog Anton Ulrich-Museum
 END:VEVENT
 BEGIN:VEVENT
 UID:0de05d72-7070-569c-a4f7-aa81126ea3a7@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260320T150000
 SUMMARY:TimeSlips
-DESCRIPTION:Kreatives Geschichtenerfinden im Museum.
+DESCRIPTION:Kreatives Geschichtenerfinden im Museum\n\nLink zur Quelle: https://3landesmuseen-braunschweig.de/kalender
 LOCATION:Herzog Anton Ulrich-Museum
 END:VEVENT
 BEGIN:VEVENT
-UID:4195f072-5e14-52cb-a9f6-82c67d3a25a6@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260319T183000
-SUMMARY:Rendezvous mit dem Löwen
-DESCRIPTION:Vortrag von Dr. Alfred Walz.
-LOCATION:Herzog Anton Ulrich-Museum
-END:VEVENT
-BEGIN:VEVENT
-UID:03aee13b-01ec-5aaf-ac94-55b5d6b804c8@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260319T150000
-SUMMARY:TimeSlips
-DESCRIPTION:Kreatives Geschichtenerzählen im Museum.
-LOCATION:Herzog Anton Ulrich-Museum
-END:VEVENT
-BEGIN:VEVENT
-UID:fc74d9b5-6387-5c26-9c98-24329a30270b@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260318T190000
-SUMMARY:Mittwochsvortrag
-DESCRIPTION:Vortrag von PD Dr. Mike Reich.
-LOCATION:Staatliches Naturhistorisches Museum
-END:VEVENT
-BEGIN:VEVENT
-UID:c4adf774-34dc-551a-8493-49b0d9ef2b30@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260318T183000
-SUMMARY:Wie die Kelten unterwegs waren. Funde von Pferdegeschirr und Wagen aus dem Heidetränk-Oppidum
-DESCRIPTION:Vortrag von Ina Schimmel.
-LOCATION:St. Ulrici-Brüdern
-END:VEVENT
-BEGIN:VEVENT
-UID:50c9fd26-1346-5c16-9575-8a917cd2cd50@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T160000
-SUMMARY:Auf dem Bild sehe ich ...
-DESCRIPTION:Sprachkurs für B1 ins Museum.
-LOCATION:Herzog Anton Ulrich-Museum
-END:VEVENT
-BEGIN:VEVENT
-UID:70502719-6dd3-52e7-8235-f103e0a9ea21@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20270225T200000
-SUMMARY:Lydia Benecke Die Psychologie des Bösen
-DESCRIPTION:Talk on the psychology of evil by Lydia Benecke.
-LOCATION:Westend (details not specified)
-END:VEVENT
-BEGIN:VEVENT
-UID:68d3064d-53c1-5c9e-baf0-72117950ddf4@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260607T153000
-SUMMARY:The Jury Experience
-DESCRIPTION:Ein immersiver Gerichtsprozess
-LOCATION:Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:ad9804b6-7be3-5bd8-8b4b-b68b36e11a04@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260517T163000
-SUMMARY:The Jury Experience
-DESCRIPTION:Ein immersiver Gerichtsprozess
-LOCATION:Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:7fa8029c-c86c-53d2-b633-f295d25a503e@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260409T180000
-SUMMARY:The Jury Experience
-DESCRIPTION:Ein immersiver Gerichtsprozess
+UID:3c69932b-638d-5545-b37c-286af6dc4641@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T160000
+SUMMARY:ANOUK - Kindermusical für die ganze Familie
+DESCRIPTION:ANOUK ist das neue und mit Spannung erwartete Kindermusical für die ganze Familie. Basierend auf den beliebten Kinderbüchern von Hendrikje Balsmeyer und Peter Maffay entsteht ein liebevoll inszeniertes Stück für Kinder ab vier Jahren.\n\nLink zur Quelle: https://westand.net/aktuelles-programm/
 LOCATION:Westand
 END:VEVENT
 BEGIN:VEVENT
-UID:b4d9aa94-44e1-563c-a0c6-218b52d065d5@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260319T180000
-SUMMARY:The Jury Experience
-DESCRIPTION:Ein immersiver Gerichtsprozess
-LOCATION:Westand
+UID:4b0e28f5-16d3-5bf0-bc94-11a84d5ae217@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260529T200000
+SUMMARY:BEATLES AN BORD
+DESCRIPTION:Comedy-Musical mit den Hits der Beatles von Enrique Keil\n\nLink zur Quelle: https://www.komoedie-bs.de/spielplan/
+LOCATION:Gördelingerstraße 7\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:6c66b9b5-4c6f-56d6-a7de-20573203083f@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:71207050-6f65-58eb-86ea-699405abc25a@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260324T180000
+SUMMARY:Workshop 'Upcycling' am Donnerstag
+DESCRIPTION:Lerne Upcycling-Techniken und gestalte deine eigenen Kreationen\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Community Center
+END:VEVENT
+BEGIN:VEVENT
+UID:f0173e13-b214-5c46-bc51-e2d34fe6dee5@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260328T140000
+SUMMARY:Ausstellung 'Kunst der Gegenwart' ab dem 28. März
+DESCRIPTION:Erlebe die Ausstellung mit Werken junger Künstler\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Galerie Z
+END:VEVENT
+BEGIN:VEVENT
+UID:507c00b6-ce7b-57e8-9140-1962d4f1265d@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261114T110000
+SUMMARY:Siebdruck Workshop
+DESCRIPTION:Eintritt 122\,50 €\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Kleine Rose Kreativwerkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:b3cb6152-2f6a-55e0-874d-9002bf80f1a1@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260605T140000
+SUMMARY:Führung durch die Altstadt
+DESCRIPTION:Eine Führung durch die historische Altstadt mit vielen interessanten Geschichten und Fakten.\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Altstadt
+END:VEVENT
+BEGIN:VEVENT
+UID:749144d0-f7e9-5ba0-bd58-7a7528dde6fd@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260530T180000
+SUMMARY:Workshop 'Upcycling'
+DESCRIPTION:Ein Workshop\, in dem man lernt\, wie man Altmaterial in neue\, kreative Produkte verwandelt.\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Kreativwerkstatt
+END:VEVENT
+BEGIN:VEVENT
+UID:7a3a7a50-927d-55c9-9c86-07e8bd3f4031@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260525T140000
+SUMMARY:Ausstellung 'Die Welt der Bienen'
+DESCRIPTION:Eine Ausstellung über die faszinierende Welt der Bienen.\n\nLink zur Quelle: https://rausgegangen.de/braunschweig
+LOCATION:Museum für Naturkunde
+END:VEVENT
+BEGIN:VEVENT
+UID:79f395b8-b836-55d2-a51a-1f99de624147@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260612T190000
-SUMMARY:Ausstellung
-DESCRIPTION:Lebenswelten - Fotografien aus einem Jugendzentrum in São Paulo
-LOCATION:Nicht spezifiziert
+SUMMARY:Eröffnung der Ausstellung Lebenswelten
+DESCRIPTION:Eröffnung der Ausstellung Lebenswelten mit Fotografien aus einem Jugendzentrum in São Paulo am 12. Juni 2026 um 19:00 Uhr
+LOCATION:BLAU-WAL kultur e.V.
 END:VEVENT
 BEGIN:VEVENT
-UID:a74c8e47-466d-54b6-bb69-b43674942199@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260421T180000
-SUMMARY:Klassikkonzert Johannes Brahms – Die schöne Magelone
-DESCRIPTION:Corinna Tjiang (Lesung). Marco Vassalli (Bariton). Matthias Wengler (Klavier). Eintritt: 26 € (Abendkasse: 28 €). Veranstaltet vom BLAU-WAL kultur e.V.
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:6abc7f23-8702-5afd-bbb9-e1a4777475c0@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260613T110000
+SUMMARY:Collagen-Workshop: Cut & Create
+DESCRIPTION:Kreativ-Workshop mit Eva-Maria Tornette und Mahtab Razaghi
+LOCATION:BLAU-WAL kultur e.V.
 END:VEVENT
 BEGIN:VEVENT
-UID:093da919-380a-53db-b61a-54a4e32d84e1@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260419T173000
+UID:f2fe3f83-a0ee-585b-893b-0431e3453670@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260612T190000
+SUMMARY:Lebenswelten
+DESCRIPTION:Eröffnung der Ausstellung 'Lebenswelten' mit Fotografien aus einem Jugendzentrum in São Paulo
+LOCATION:BLAU-WAL kultur e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a9fcc1-d84b-5daf-a87a-6f018d52a783@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260428T183000
+SUMMARY:Zeichenkurs
+DESCRIPTION:Kreativ-Workshop mit Frank Hermes und Mahtab Razaghi
+LOCATION:BLAU-WAL kultur e.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c52b6a8-a7c3-55b7-80a4-1cfae48eca59@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260421T173000
 SUMMARY:ladies.talk
-DESCRIPTION:Mit Parwana Kath. Veranstaltet vom th!nk pink club® e.V.
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+DESCRIPTION:Diskussion mit Parwana Kath über mentale Gesundheit
+LOCATION:th!nk pink club® e.V.
 END:VEVENT
 BEGIN:VEVENT
-UID:2b3b715b-3037-5e03-a00b-70d0361c996a@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260419T190000
-SUMMARY:Buchvorstellung: Bird Flirt
-DESCRIPTION:Achtung:Terminänderung. SPRACHFÜHRER Vogel–Mensch/Mensch-Vogel von Inka Nowoitnick
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
-END:VEVENT
-BEGIN:VEVENT
-UID:9019d254-27b3-5c39-9720-d01ff1b90c37@bs-events.de
-DTSTAMP:20260316T233822Z
+UID:5c5ba1e0-1f8d-5dce-8f6c-1c4a087a9816@bs-events.de
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260418T190000
-SUMMARY:Lesung Michel Abdollahi: Es ist unser Land
-DESCRIPTION:AUSVERKAUFT! Einlass: 18:30 Uhr. Eintritt: 22 € (Abendkasse: 25 €). Veranstaltet vom BLAU-WAL kultur e.V.
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+SUMMARY:Buchvorstellung: Bird Flirt
+DESCRIPTION:Buchvorstellung von Inka Nowoitnick
+LOCATION:BLAU-WAL kultur e.V.
 END:VEVENT
 BEGIN:VEVENT
-UID:cf9b7fc7-6d26-5823-8d8d-ca0a5fe4747e@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260415T190000
-SUMMARY:Lesung Marcel Pollex & Finn Bostelmann lesen
-DESCRIPTION:AUSVERKAUFT! Einlass: 18:30 Uhr. Eintritt: 20 € (Abendkasse: 22 €). Veranstaltet vom BLAU-WAL kultur e.V.
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
-END:VEVENT
-BEGIN:VEVENT
-UID:b31169bd-b774-537a-927b-7258c1a72acf@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T190000
-SUMMARY:Lesung David Hugendick: „Jetzt sag doch endlich was“
-DESCRIPTION:David Hugendick (ZEIT-Autor). Eintritt: VVK 11 € (erm. 7 €). Abendkasse: 12 € (erm. 8 €). Veranstaltet vom Raabe-Haus:Literaturzentrum
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
-END:VEVENT
-BEGIN:VEVENT
-UID:64694194-f311-561d-a6c7-894638f14195@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260319T140000
+UID:6c022080-1e7c-5d15-821b-3e5a16341a1e@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T140000
 SUMMARY:OFFENE KUNSTTHERAPIE-GRUPPE
-DESCRIPTION:Mit Mahtab Razaghi. Teilnahmegebühr: 50 € inkl. Material. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+DESCRIPTION:Mit Mahtab Razaghi\, Teilnahmegebühr: 50 € inkl. Material
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:c98821d7-bf4e-5836-a1ca-85ededb79a26@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T180000
-SUMMARY:Lesung Gilda Sahebi: Verbinden statt spalten
-DESCRIPTION:AUSVERKAUFT! Einlass: 17:30 Uhr. Moderation: Dr. Thomas Piko. Eintritt: 20 € (Abendkasse: 22 €). Veranstaltet vom BLAU-WAL kultur e.V.
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:759de733-95ad-5d4a-82ee-8b75c56f3b37@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260327T190000
+SUMMARY:Emma liest: Literarischer Salon
+DESCRIPTION:Mit Kirsten Harder\, Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:98e88dd0-3526-53a7-a081-bbab561522c7@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260329T190000
-SUMMARY:Buchclub Emma liest: Literarischer Salon
-DESCRIPTION:Mit Kirsten Harder. Veranstaltet vom BLAU-WAL kultur e.V.
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:bcc7fd8b-5e4d-5876-a40f-433369ee5925@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T190000
+SUMMARY:Meditation
+DESCRIPTION:Mit Dr. Thomas Piko\, Veranstaltet vom BLAU-WAL kultur e.V.
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:7c666e67-5c6a-5a36-b671-fea7cee5733e@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260328T190000
-SUMMARY:Mental health Meditation
-DESCRIPTION:Mit Dr. Thomas Piko. Veranstaltet vom BLAU-WAL kultur e.V.
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+UID:19b55a4a-5a68-5d6f-acb5-1ab40d1afc26@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260324T110000
+SUMMARY:YOGA
+DESCRIPTION:Mit Denise Beerbohm\, Eintritt: 15 € pro Session
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-UID:0c8bfe9b-4330-5a1a-8345-cd694a99459e@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260328T190000
-SUMMARY:Gesangsunterricht
-DESCRIPTION:Unterricht im Klassischen Gesang bei Antje Siefert. Stimmbildung & Gesangsunterricht bei Dorothee Bärmann
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
-END:VEVENT
-BEGIN:VEVENT
-UID:fa215eda-dd29-57db-96ec-a62daf1649bb@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260327T110000
-SUMMARY:Mental health YOGA
-DESCRIPTION:Mit Denise Beerbohm. Eintritt: 15 € pro Session. Veranstaltet vom beeyoga
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
-END:VEVENT
-BEGIN:VEVENT
-UID:2554bf24-da35-55ab-8808-64fc391061b8@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260324T183000
+UID:28111183-26da-5229-9f05-a6796f34a3e3@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T183000
 SUMMARY:Kreativ-Workshop
-DESCRIPTION:Mit Mahtab Razaghi. Teilnahmegebühr: 25 € inkl. Material. Weiterlesen »
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+DESCRIPTION:Mit Mahtab Razaghi\, Teilnahmegebühr: 25 € inkl. Material
+LOCATION:OFFENES ATELIER
 END:VEVENT
 BEGIN:VEVENT
-UID:9dc3c38e-a7d3-5c7f-b4a2-275eeee6baea@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260319T140000
+UID:7736aca6-3606-57c1-b02b-483a1607b026@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260401T140000
 SUMMARY:Silent Reading Party
-DESCRIPTION:Einlass: 13:45 Uhr. Veranstaltet vom BLAU-WAL kultur e.V.
-LOCATION:BLAU-WAL – KUNST- & KULTURZENTRUM IN BRAUNSCHWEIG
+DESCRIPTION:Eine stille Leseparty im BLAU-WAL kultur e.V.
+LOCATION:BLAU-WAL Braunschweig – Kunst- und Kulturzentrum\, Salon
 END:VEVENT
 BEGIN:VEVENT
-UID:759e705e-676d-548d-9c7f-f156953030f3@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T090000
-SUMMARY:Fotoausstellung "Vielfache Eindrücke"
-DESCRIPTION:Fotoausstellung "Vielfache Eindrücke"
-LOCATION:Via medis Ärztezentrum\, Ludwigstraße 5\, 38106 Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:0073b73e-e0b4-5b79-a057-1f0410e06573@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T100000
-SUMMARY:Neu hier! Zugänge zur Sammlung
-DESCRIPTION:Neu hier! Zugänge zur Sammlung
-LOCATION:Schlossmuseum Braunschweig\, Schloßplatz 1\, 38100 Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:1a48e56a-0de4-5697-bd93-e816ef1cb122@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T150000
-SUMMARY:Erzählcafé in der Touristinfo
-DESCRIPTION:Erzählcafé in der Touristinfo
+UID:10914899-b1f4-537e-8431-2b29b2a3e518@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260321T140000
+SUMMARY:Stadtspaziergang in der Löwenstadt
+DESCRIPTION:Stadtspaziergang durch die Löwenstadt
 LOCATION:Touristinfo Braunschweig\, Kleine Burg 14\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:408aaf73-1857-5d08-8d83-28a1d618ecd5@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T150000
-SUMMARY:Paula. Ein Leben für die Kunst. - Lesung aus Briefen der Künstlerin Paula Modersohn-Becker mit der Kulturvermittlerin Pia Kranz
-DESCRIPTION:Eine Lesung aus Briefen der Künstlerin Paula Modersohn-Becker.
-LOCATION:Raabe-Haus:Literaturzentrum Braunschweig\, Leonhardstraße 29a\, 38100 Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:b1977a6c-e914-5d2d-81d8-4143dae111ae@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T110000
-SUMMARY:Ein Jahrhundert Gedichte mit Helmut Berthold
-DESCRIPTION:Ein Vortrag über Gedichte von Helmut Berthold.
-LOCATION:Raabe-Haus:Literaturzentrum Braunschweig\, Leonhardstraße 29a\, 38100 Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:d622fcb7-5412-50b4-80bf-774bda338ebf@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T180000
-SUMMARY:INDUSTRIEKULTUR Café | Von Weltmarktführern und Startups: Rechentechnik aus Braunschweig
-DESCRIPTION:Ein Café im KufA Haus mit Themen aus der Industriekultur.
-LOCATION:KufA Haus\, Westbahnhof 13\, 38118 Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:c40a6ade-aaab-5dbf-8606-0f99e4ea3c8b@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T170000
-SUMMARY:Was sammelt ein Schloss - Einblicke in die Sammlung von 1925 bis heute
-DESCRIPTION:Eine Ausstellung im Schlossmuseum Braunschweig.
-LOCATION:Schlossmuseum Braunschweig\, Schloßplatz 1\, 38100 Braunschweig
-END:VEVENT
-BEGIN:VEVENT
-UID:97dec2c7-ee2e-5234-934a-698a4084f259@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T160000
-SUMMARY:Auf dem Bild sehe ich... – mit B1 ins Museum
-DESCRIPTION:Ein Workshop für B1-Sprecher im Herzog Anton Ulrich-Museum.
+UID:e162823b-e559-5b58-91d7-f650d370be54@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T110000
+SUMMARY:Angewandte Kunst und Skulpturen - Dauerausstellung
+DESCRIPTION:Bewundere die exquisite Sammlung an angewandter Kunst und Skulpturen.
 LOCATION:Herzog Anton Ulrich-Museum\, Museumstraße 1\, 38100 Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:0619b461-8e06-58b2-a87d-bffa0be71f07@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260830T150000
-SUMMARY:Hoffest der Brunsviga 2026
-DESCRIPTION:Das aktuelle Programmheft
+UID:847d3089-6a1c-5287-aad9-bb37bc1a1f41@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T110000
+SUMMARY:Gemäldegalerie - Dauerausstellung
+DESCRIPTION:Entdecke die beeindruckende Sammlung an Gemälden.
+LOCATION:Herzog Anton Ulrich-Museum\, Museumstraße 1\, 38100 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:6ca1515f-24f9-5985-ab86-4707fa4052e2@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260320T090000
+SUMMARY:Staatliches Naturhistorisches Museum
+DESCRIPTION:Erkunde die faszinierende Welt der Naturgeschichte.
+LOCATION:Staatliches Naturhistorisches Museum\, Pockelsstraße 10\, 38106 Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9a61be-d265-56bb-8314-00dfc9884142@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270404T160000
+SUMMARY:Kinderdisko für 3- bis 8-Jährige
+DESCRIPTION:Tanzen und Spaß für Kinder im Alter von 3 bis 8 Jahren.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:fc9feccb-ee4b-5477-bdcd-e56792a35f70@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270108T160000
+SUMMARY:Kinderdisko für 3- bis 8-Jährige
+DESCRIPTION:Tanzen und Spaß für Kinder im Alter von 3 bis 8 Jahren.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:dc9f235d-b5c6-5c8f-9259-144d29757976@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261206T163000
+SUMMARY:Kinderzauberei - Lachen und Staunen mit Voßi
+DESCRIPTION:Magische Show für Kinder mit dem Zauberer Voßi.
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:fd44e96e-f4e9-5f2b-a51b-2a669e07eadc@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20270108T160000
+SUMMARY:Piero Masztalerz
+DESCRIPTION:Kinderdisko für 3- bis 8-Jährige
 LOCATION:Brunsviga
 END:VEVENT
 BEGIN:VEVENT
+UID:5a9ea65a-0d72-5fa9-b335-cc8a99218136@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261218T200000
+SUMMARY:Kinderzauberei
+DESCRIPTION:Lachen und Staunen mit Voßi
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:690259b7-9631-56fb-967c-9606a06147f8@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261203T160000
+SUMMARY:Kinderdisko
+DESCRIPTION:für 3- bis 8-Jährige
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:f77b0974-c8fa-5fd6-ac49-a9253b876774@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+SUMMARY:Belly Dance Divas
+DESCRIPTION:Power & Passion 2026
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:410688a9-93dc-58bf-9ff8-0f6d1188cc09@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261023T193000
+SUMMARY:Cavewoman
+DESCRIPTION:Praktische Tipps ...
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:48ba666d-565e-5f41-82df-e5bb1a4af40f@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20261007T163000
+SUMMARY:Kinderzauberei
+DESCRIPTION:Lachen und Staunen mit Voßi
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:a0710023-5de5-57fd-9db5-40826d0f3e90@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260923T110000
+SUMMARY:Vintage Bazar
+DESCRIPTION:Der Original Vintage Bazar
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:a9d5af30-3a45-5bc9-be78-f121f4a2c55c@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260910T110000
+SUMMARY:Fashion-Börse
+DESCRIPTION:Der Frauenflohmarkt\, wo das Stöbern richtig Spaß macht!
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:ee744d87-a17b-54f6-a6ac-4120a3b7f368@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260906T110000
+SUMMARY:Fashion-Börse
+DESCRIPTION:Fashion-Börse mit Frauenflohmarkt
+LOCATION:Der Frauenflohmarkt\, wo das Stöbern richtig Spaß macht!
+END:VEVENT
+BEGIN:VEVENT
+UID:0619b461-8e06-58b2-a87d-bffa0be71f07@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260830T150000
+SUMMARY:Hoffest der Brunsviga 2026
+DESCRIPTION:Kulturelles Fest der Brunsviga
+LOCATION:Hoffest
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8ca4f0-852d-54a4-810f-5ecbad250274@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260820T193000
+SUMMARY:Der 4. Leseflair Poetry Slam
+DESCRIPTION:Poetry-Slam-Event im Rahmen des Leseflair Festivals
+LOCATION:Leseflair Festival 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:24bd4dd2-051a-5da9-9af2-4b92038631ab@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260819T200000
+SUMMARY:Klaus-Peter Wolf
+DESCRIPTION:Lesung von Klaus-Peter Wolf
+LOCATION:Lesung
+END:VEVENT
+BEGIN:VEVENT
+UID:45876df7-92e2-5698-a757-b68d9537b7ee@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260818T200000
+SUMMARY:Leseflair Festival 2026
+DESCRIPTION:Literarisches Festival mit Sarah Kuttner
+LOCATION:Sarah Kuttner liest: Mama & Sam
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ff2899-acf1-57a4-aa6f-0c28e5ba22c5@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260530T160000
+SUMMARY:Kinderdisko
+DESCRIPTION:für 3- bis 8-Jährige
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:3b1f2cbc-e340-5552-85be-68dbdadec2e5@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260529T163000
+SUMMARY:Kinderzauberei
+DESCRIPTION:Lachen und Staunen mit Voßi
+LOCATION:Brunsviga
+END:VEVENT
+BEGIN:VEVENT
+UID:8385f254-094a-562b-a4c3-8a4bcd118be1@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260429T170000
+SUMMARY:Welt der Puppen
+DESCRIPTION:Das Neinhorn
+LOCATION:Welt der Puppen
+END:VEVENT
+BEGIN:VEVENT
+UID:278a7530-83fc-5ff6-808c-5de583136729@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260428T170000
+SUMMARY:Welt der Puppen
+DESCRIPTION:Das Neinhorn
+LOCATION:Welt der Puppen
+END:VEVENT
+BEGIN:VEVENT
+UID:35bcb87c-3eac-5550-a45f-305c7462fc11@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260426T110000
+SUMMARY:Fashion-Börse
+DESCRIPTION:Der Frauenflohmarkt\, wo das Stöbern richtig Spaß macht!
+LOCATION:Fashion-Börse
+END:VEVENT
+BEGIN:VEVENT
+UID:280dc4f4-3e63-5807-b64f-6f6cf1b4cfe5@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260422T193000
+SUMMARY:Rudelsingen
+DESCRIPTION:Das 25. Braunschweiger Rudelsingen
+LOCATION:Brunsviga Kulturzentrum
+END:VEVENT
+BEGIN:VEVENT
 UID:a85db40a-96d5-5d63-b073-98937319a5d8@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260328T100000
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260328T193000
 SUMMARY:Leseflair Frühjahrslese
-DESCRIPTION:Buchmesse "Regio"
+DESCRIPTION:Annika Strauss liest "REM"
 LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:937f5326-395b-54a9-b7bd-f8ed4726f57e@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260327T193000
 SUMMARY:Leseflair Frühjahrslese
 DESCRIPTION:Der Mörderische Salon
@@ -376,7 +568,7 @@ LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:95a4e086-9e6e-5da5-8fff-1a07a1a4cace@bs-events.de
-DTSTAMP:20260316T233822Z
+DTSTAMP:20260320T093715Z
 DTSTART;TZID=Europe/Berlin:20260326T193000
 SUMMARY:Leseflair Frühjahrslese
 DESCRIPTION:Der 3. Leseflair Poetry Slam
@@ -384,50 +576,58 @@ LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:b1dc2061-2138-52b5-aaab-aa347cc48832@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260325T150000
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260325T170000
 SUMMARY:Welt der Puppen
 DESCRIPTION:Wie Findus zu Pettersson kam
 LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
 UID:1b1e1057-da5a-5a74-8ed5-119907d4e154@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260324T150000
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260324T170000
 SUMMARY:Welt der Puppen
 DESCRIPTION:Wie Findus zu Pettersson kam
 LOCATION:Brunsviga Kulturzentrum
 END:VEVENT
 BEGIN:VEVENT
-UID:ebf3e350-9bf9-5ee9-8e37-aab2b66a8109@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260321T190000
-SUMMARY:Wladimir Kaminer
-DESCRIPTION:Das geheime Leben der Deutschen
-LOCATION:Brunsviga Kulturzentrum
+UID:b2b9c5bb-5033-5141-9dca-f9072a525b06@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260416T100000
+SUMMARY:Der Bär\, der nicht da war
+DESCRIPTION:Wiederaufnahme für Kinder nach dem Bilderbuch von Oren Lavie\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Theater Fadenschein
 END:VEVENT
 BEGIN:VEVENT
-UID:f35defa1-b598-57c7-ba0b-5c65599fe850@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260317T190000
-SUMMARY:Crime Talk: Die Psyche des Bösen – mit Axel Petermann
-DESCRIPTION:Konzert
-LOCATION:BRAUNSCHWEIG\, Forum Medienhaus
+UID:46e9af98-fc86-512f-bcf9-7ce8ddc497f1@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260322T180000
+SUMMARY:Styx
+DESCRIPTION:Tanztheater von Melanie Lane mit Einführung 30 min vorher im Foyer\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Kleines Haus
 END:VEVENT
 BEGIN:VEVENT
-UID:e32ce8a3-630f-531e-9498-b27052dfd445@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260413T200000
-SUMMARY:8. Sinfoniekonzert: Österreichisch-ungarische Klangwelten
-DESCRIPTION:Staatsorchester mit Johann Strauss (Sohn)\, Wolfgang Amadeus Mozart\, Béla Bartók\, Einführung 45 min vorher in der Hausbar
-LOCATION:Großes Haus
+UID:dc2201da-346b-5391-8d17-f09207784d85@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260322T150000
+SUMMARY:Tanzworkshops für alle
+DESCRIPTION:Tanztheater-Workshop zu »Styx«\n\nLink zur Quelle: https://staatstheater-braunschweig.de/programm/spielplan/
+LOCATION:Tanzsaal im Park
 END:VEVENT
 BEGIN:VEVENT
-UID:f119ef2c-630b-5d1d-b6c3-7212d43225e0@bs-events.de
-DTSTAMP:20260316T233822Z
-DTSTART;TZID=Europe/Berlin:20260412T193000
-SUMMARY:8. Sinfoniekonzert: Österreichisch-ungarische Klangwelten
-DESCRIPTION:Staatsorchester mit Johann Strauss (Sohn)\, Wolfgang Amadeus Mozart\, Béla Bartók\, Einführung 45 min vorher in der Hausbar
-LOCATION:Großes Haus
+UID:40b64e37-8d50-5605-b031-9c1f720ba5ea@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260420T150000
+SUMMARY:Workshop zum Thema Upcycling
+DESCRIPTION:Ein Workshop\, bei dem man lernt\, wie man Altmaterial in neue\, nützliche Gegenstände verwandeln kann\n\nLink zur Quelle: https://www.stereowerk.de/events
+LOCATION:Kommunales Bildungszentrum
+END:VEVENT
+BEGIN:VEVENT
+UID:c1dfc4eb-91cc-5a87-a993-34650df09353@bs-events.de
+DTSTAMP:20260320T093715Z
+DTSTART;TZID=Europe/Berlin:20260415T180000
+SUMMARY:Ausstellungseröffnung
+DESCRIPTION:Eröffnung einer neuen Ausstellung moderner Kunst\n\nLink zur Quelle: https://www.stereowerk.de/events
+LOCATION:Galerie Modern
 END:VEVENT
 END:VCALENDAR
